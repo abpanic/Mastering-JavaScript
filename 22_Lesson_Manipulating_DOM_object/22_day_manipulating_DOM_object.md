@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Lesson 21](../21_Lesson_DOM/21_Lesson_dom.md) | [Lesson 23 >>](../23_Lesson_Event_listeners/23_Lesson_event_listeners.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_22.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_22.png)
 - [Lesson 22](#Lesson-22)
   - [DOM(Document Object Model)-Lesson 2](#domdocument-object-model-Lesson-2)
     - [Creating an Element](#creating-an-element)

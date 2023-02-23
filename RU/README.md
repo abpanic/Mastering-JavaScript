@@ -8,7 +8,7 @@
   </a>
 
 <sub>Автор:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Январь, 2020</small>
 </sub>
 
@@ -31,7 +31,7 @@
 
 [День 2 >>](https://github.com/Abhilash/30LessonsOfJavaScript/blob/master/RU/02_Lesson/02_Lesson_data_types.md)
 
-![Thirty Lessons Of JavaScript](./images/Lesson_1_1.png)
+![Mastering JavaScript](./images/Lesson_1_1.png)
 
 - [День 1](#%d0%94%d0%b5%d0%bd%d1%8c-1)
   - [Вступление](#%d0%92%d1%81%d1%82%d1%83%d0%bf%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5)

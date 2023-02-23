@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Día 22](../dia_22_Manipulacion_del_Objeto_DOM/dia_22_manipulacion_del_objeto_dom.md) | [Día 24 >>](../dia_24_Proyecto_Sistema_Solar/dia_24_proyecto_sistema_solar.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_23.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_23.png)
 
 - [Día 23](#día-23)
   - [DOM(Document Object Model)-Día 3](#domdocument-object-model-día-3)

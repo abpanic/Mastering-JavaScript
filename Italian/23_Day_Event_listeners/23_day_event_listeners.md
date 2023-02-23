@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autore:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Gennaio, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Lesson 22](../22_Lesson_Manipulating_DOM_object/22_Lesson_manipulating_DOM_object.md) | [Lesson 24 >>](../24_Lesson_Project_solar_system/24_Lesson_project_solar_system.md)
 
-![Thirty Lessons Of JavaScript](../../images/banners/Lesson_1_23.png)
+![Mastering JavaScript](../../images/banners/Lesson_1_23.png)
 
 - [Lesson 22](#Lesson-22)
 	- [DOM(Document Object Model)-Lesson 3](#domdocument-object-model-Lesson-3)

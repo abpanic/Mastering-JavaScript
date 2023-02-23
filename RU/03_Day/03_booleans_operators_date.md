@@ -8,7 +8,7 @@
   </a>
 
 <sub>Автор:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Январь, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< День 2](https://github.com/Abhilash/30LessonsOfJavaScript/blob/master/02_Lesson/02_Lesson_data_types.md) | [Lesson 4 >>](https://github.com/Abhilash/30LessonsOfJavaScript/blob/master/04_Lesson/04_Lesson_conditionals.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_3.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_3.png)
 
 - [📔 День 3](#%f0%9f%93%94-%d0%94%d0%b5%d0%bd%d1%8c-3)
   - [Булевый тип (boolean)](#%d0%91%d1%83%d0%bb%d0%b5%d0%b2%d1%8b%d0%b9-%d1%82%d0%b8%d0%bf-boolean)

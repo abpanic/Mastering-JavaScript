@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autore:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Gennaio, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Lesson 27](../27_Lesson_Mini_project_portfolio/27_Lesson_mini_project_portfolio.md) | [Lesson 29>>](../29_Lesson_Mini_project_animating_characters/29_Lesson_mini_project_animating_characters.md)
 
-![Thirty Lessons Of JavaScript](../../images/banners/Lesson_1_28.png)
+![Mastering JavaScript](../../images/banners/Lesson_1_28.png)
 
 - [Lesson 28](#Lesson-28)
   - [Esercizi](#exercises)

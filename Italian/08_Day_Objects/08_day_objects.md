@@ -8,14 +8,14 @@
   </a>
 
   <sub>Autore:
-  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <small> Gennaio, 2020</small>
   </sub>
 </div>
 
 [<< Lesson 7](../07_Lesson_Functions/07_Lesson_functions.md) | [Lesson 9 >>](../09_Lesson_Higher_order_functions/09_Lesson_higher_order_functions.md)
 
-![Thirty Lessons Of JavaScript](../../images/banners/Lesson_1_8.png)
+![Mastering JavaScript](../../images/banners/Lesson_1_8.png)
 
 - [📔 Giorno 8](#-Lesson-8)
 	- [Scope](#scope)

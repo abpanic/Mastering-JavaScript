@@ -8,7 +8,7 @@
   </a>
 
   <sub>Author:
-  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <small> January, 2020</small>
   </sub>
 </div>
@@ -16,7 +16,7 @@
 
 [<< Lesson 1](../readMe.md) | [Lesson 3 >>](../03_Lesson_Booleans_operators_date/03_booleans_operators_date.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_2.png)
+![Mastering JavaScript](../images/MasteringJavscript.png)
 
 - [📔 Lesson 2](#-Lesson-2)
 	- [Data Types](#data-types)

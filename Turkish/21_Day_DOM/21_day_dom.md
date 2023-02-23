@@ -8,7 +8,7 @@
   </a>
 
   <sub>Author:
-  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <sub>Çevirmen:
   <a href="https://github.com/alicangunduz" target="_blank">Ali Can Gündüz</a><br>
   <small> Ocak 2023</small>
@@ -17,7 +17,7 @@
 
 [<< Gün 20](../20_Lesson_Writing_clean_codes/20_Lesson_writing_clean_codes.md) | [Gün 22 >>](../22_Lesson_Manipulating_DOM_object/22_Lesson_manipulating_DOM_object.md)
 
-![Thirty Lessons Of JavaScript](../images/21_Lesson_DOM/../../../images/banners/Lesson_1_21.png)
+![Mastering JavaScript](../images/21_Lesson_DOM/../../../images/banners/Lesson_1_21.png)
 
 - [Lesson 21](#Lesson-21)
   - [Belge Nesne Modeli (DOM) - Gün 21](#belge-nesne-modeli-dom---gün-21)

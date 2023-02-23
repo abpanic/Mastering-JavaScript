@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Día 11](../dia_11_Desestructuracion_y_Spreading/dia_11_desestructuracion_y_spreading.md) | [Día 13>>](../dia_13_Metodos_del_Objeto_Console/dia_13_metodos_del_objeto_console.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_12.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_12.png)
 
 - [📘 Día 12](#📘-día-12)
   - [Expresiones Regulares](#expresiones-regulares)

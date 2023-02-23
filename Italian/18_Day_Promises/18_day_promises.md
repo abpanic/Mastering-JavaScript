@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autore:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Gennaio, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Lesson 17](../17_Lesson_Web_storages/17_Lesson_web_storages.md) | [Lesson 19>>](../19_Lesson_Closures/19_Lesson_closures.md)
 
-![Thirty Lessons Of JavaScript](../../images/banners/Lesson_1_18.png)
+![Mastering JavaScript](../../images/banners/Lesson_1_18.png)
 
 - [Lesson 18](#Lesson-18)
 	- [Promise](#promise)

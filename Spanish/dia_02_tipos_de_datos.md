@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -17,7 +17,7 @@
 
 [<< Día 1](./readme.md) | [Lesson 3 >>](./dia_03_Booleanos_Operadores_Date/dia_03_Boleanos_Operadores_Date.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_2.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_2.png)
 
 - [📔 Día 2](#-Día-2)
   - [Tipos de Datos](#tipos-de-datos)

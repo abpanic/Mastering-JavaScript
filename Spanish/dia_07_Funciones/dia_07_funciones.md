@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Día 6](../dia_06_Bucles/dia_06_bucles.md) | [Día 8 >>](../dia_08_Objetos/dia_08_objetos.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_7.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_7.png)
 
 - [📔 Día 7](#📔-día-7)
   - [Funciones](#funciones)

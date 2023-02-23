@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Día 26](../dia_26_Visualizacion_De_Datos_De_Los_Paises_Del_Mundo_2/dia_26_visualizacion_de_datos_de_los_paises_del_mundo_2.md) | [Día 28 >>](../dia_28_Mini_Proyecto_Tabla_De_Posiciones/dia_28_mini_proyecto_tabla_de_posiciones.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_27.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_27.png)
 
 - [Día 27](#día-27)
   - [Ejercicios](#ejercicios)

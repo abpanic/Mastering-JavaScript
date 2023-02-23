@@ -9,7 +9,7 @@
 
 
   <sub>Author:
-  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <sub>Çevirmen:
   <a href="https://github.com/alicangunduz" target="_blank">Ali Can Gündüz</a><br>
   <small> Ocak 2023</small>
@@ -19,7 +19,7 @@
 
 [<< Gün 21](../21_Lesson_DOM/21_Lesson_dom.md) | [Gün 23 >>](../23_Lesson_Event_listeners/23_Lesson_event_listeners.md)
 
-![Thirty Lessons Of JavaScript](../images/21_Lesson_DOM/../../../images/banners/Lesson_1_21.png)
+![Mastering JavaScript](../images/21_Lesson_DOM/../../../images/banners/Lesson_1_21.png)
 - [Gün 22](#gün-22)
   - [DOM(Document Object Model)-Gün 2](#domdocument-object-model-gün-2)
     - [Element Oluşturma](#element-oluşturma)

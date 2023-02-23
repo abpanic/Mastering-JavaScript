@@ -8,14 +8,14 @@
   </a>
 
   <sub>Autore:
-  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <small> Gennaio, 2020</small>
   </sub>
 </div>
 
 [<< Lesson 3](../03_Lesson_Booleans_operators_date/03_booleans_operators_date.md) | [Lesson 5 >>](../05_Lesson_Arrays/05_Lesson_arrays.md)
 
-![Thirty Lessons Of JavaScript](../../images/banners/Lesson_1_4.png)
+![Mastering JavaScript](../../images/banners/Lesson_1_4.png)
 
 - [📔 Giorno 4](#-Lesson-4)
 	- [Condizionali](#conditionals)

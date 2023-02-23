@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Día 7](../dia_07_Funciones/dia_07_funciones.md) | [Día 9 >>](../dia_09_Funciones_De_Orden_Superior/dia_09_funciones_de_orden_superior.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_8.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_8.png)
 
 - [📔 Día 8](#📔-día-8)
   - [Scope](#scope-alcance)

@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Gün 19](../19_Lesson_Closures/19_Lesson_closures.md) | [Gün 21 >>](../21_Lesson_DOM/21_Lesson_dom.md)
 
-![Thirty Lessons Of JavaScript](../../images/banners/Lesson_1_20.png)
+![Mastering JavaScript](../../images/banners/Lesson_1_20.png)
 - [Gün 20](#gun-20)
 	- [Temiz Kod Yazmak](#temiz-kod-yazmak)
 		- [JavaScript Stil Kılavuzu](#javaScript-stil-kılavuzu)

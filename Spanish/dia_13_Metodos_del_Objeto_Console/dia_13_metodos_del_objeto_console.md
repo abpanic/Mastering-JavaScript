@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Día 12](../dia_12_Expresiones_Regulares/dia_12_expresiones_regulares.md) | [Día 14>>](../dia_14_Manejo_de_Errores/dia_14_manejo_de_errores.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_13.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_13.png)
 
 - [Día 13](#día-13)
   - [Métodos del Objeto Console](#métodos-del-objeto-console)

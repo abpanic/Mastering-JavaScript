@@ -64,7 +64,7 @@
 
 [Lesson 2 >>](./02_Lesson_Data_types/02_Lesson_data_types.md)
 
-![Thirty Lessons Of JavaScript](./images/Lesson_1_1.png)
+![Mastering JavaScript](./images/Lesson_1_1.png)
 
 - [30 Lessons Of JavaScript](#30-Lessons-of-javascript)
 - [📔 Lesson 1](#-Lesson-1)

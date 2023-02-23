@@ -50,7 +50,7 @@
   </a>
 
 <sub>Yazar:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Ocak, 2020</small>
 </sub>
 

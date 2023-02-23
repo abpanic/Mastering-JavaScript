@@ -39,7 +39,7 @@
 
 [2일차 >>](./02_Lesson_Data_types/02_Lesson_data_types.md)
 
-![Thirty Lessons Of JavaScript](../images/Lesson_1_1.png)
+![Mastering JavaScript](../images/Lesson_1_1.png)
 
 - [자바스크립트 30일 정복](#30-Lessons-of-javascript)
 - [📔 1일차](#📔-1일차)

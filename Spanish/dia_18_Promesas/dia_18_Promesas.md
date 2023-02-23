@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Día 17](../dia_17_Web_storages/dia_17_web_storages.md) | [Día 19>>](../dia_19_Closures/dia_19_closures.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_18.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_18.png)
 
 - [Día 18](#día-18)
   - [Promesas](#promesas)

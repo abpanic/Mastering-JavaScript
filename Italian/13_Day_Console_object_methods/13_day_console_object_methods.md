@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autore:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Gennaio, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Lesson 12](../12_Lesson_Regular_expressions/12_Lesson_regular_expressions.md) | [Lesson 14>>](../14_Lesson_Error_handling/14_Lesson_error_handling.md)
 
-![Thirty Lessons Of JavaScript](../../images/banners/Lesson_1_13.png)
+![Mastering JavaScript](../../images/banners/Lesson_1_13.png)
 
 - [Lesson 13](#Lesson-13)
 	- [Metodi Oggetto Console](#console-object-methods)

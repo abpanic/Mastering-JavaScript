@@ -8,7 +8,7 @@
   </a>
 
 <sub>Автор:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Январь, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< День 1](https://github.com/Abhilash/30LessonsOfJavaScript/blob/master/RU/README.md) | [День 3 >>](https://github.com/Abhilash/30LessonsOfJavaScript/blob/master/RU/03_Lesson/03_booleans_operators_date.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_2.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_2.png)
 
 - [📔 Lesson 2](#%f0%9f%93%94-Lesson-2)
   - [Типы данных](#%d0%a2%d0%b8%d0%bf%d1%8b-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85)

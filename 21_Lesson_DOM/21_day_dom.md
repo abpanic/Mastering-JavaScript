@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Lesson 20](../20_Lesson_Writing_clean_codes/20_Lesson_writing_clean_codes.md) | [Lesson 22 >>](../22_Lesson_Manipulating_DOM_object/22_Lesson_manipulating_DOM_object.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_21.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_21.png)
 
 - [Lesson 21](#Lesson-21)
 	- [Document Object Model (DOM) - Lesson 1](#document-object-model-dom---Lesson-1)

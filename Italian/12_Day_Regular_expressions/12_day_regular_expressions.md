@@ -8,14 +8,14 @@
   </a>
 
   <sub>Autore:
-  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <small> Gennaio, 2020</small>
   </sub>
 </div>
 
 [<< Lesson 11](../11_Lesson_Destructuring_and_spreading/11_Lesson_destructuring_and_spreading.md) | [Lesson 13>>](../13_Lesson_Console_object_methods/13_Lesson_console_object_methods.md)
 
-![Thirty Lessons Of JavaScript](../../images/banners/Lesson_1_12.png)
+![Mastering JavaScript](../../images/banners/Lesson_1_12.png)
 
 - [📘 Lesson 12](#-Lesson-12)
 	- [Espressioni Regolari](#regular-expressions)

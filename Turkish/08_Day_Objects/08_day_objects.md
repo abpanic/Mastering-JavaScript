@@ -8,7 +8,7 @@
   </a>
 
   <sub>Author:
-  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <sub>Çevirmen:
   <a href="https://github.com/hsynalv" target="_blank">Hasan Hüseyin Alav</a><br>
   <small> Temmuz 2022</small>
@@ -17,7 +17,7 @@
 
 [<< 7. Gün](../07_Lesson_Functions/07_Lesson_functions.md) | [9. Gün >>](../09_Lesson_Higher_order_functions/09_Lesson_higher_order_functions.md)
 
-![Thirty Lessons Of JavaScript](/images/banners/Lesson_1_8.png)
+![Mastering JavaScript](/images/banners/Lesson_1_8.png)
 
 - [📔 8. Gün](#-Lesson-8)
 	- [Scope - Kapsam Alanları](#scope---kapsam-alanları)

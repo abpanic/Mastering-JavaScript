@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autore:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Gennaio, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Lesson 19](../19_Lesson_Closuers/19_Lesson_closures.md) | [Lesson 21 >>](../21_Lesson_DOM/21_Lesson_dom.md)
 
-![Thirty Lessons Of JavaScript](../../images/banners/Lesson_1_20.png)
+![Mastering JavaScript](../../images/banners/Lesson_1_20.png)
 - [Lesson 20](#Lesson-20)
 	- [Scrivere codice pulito](#writing-clean-code)
 		- [Guida allo stile in JavaScript](#javascript-style-guide)

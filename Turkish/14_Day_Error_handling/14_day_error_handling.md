@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Gün 13](../13_Lesson_Console_object_methods/13_Lesson_console_object_methods.md) | [Gün 15>>](../15_Lesson_Classes/15_Lesson_classes.md)
 
-![Thirty Lessons Of JavaScript](../../images/banners/Lesson_1_14.png)
+![Mastering JavaScript](../../images/banners/Lesson_1_14.png)
 
 - [Gün 14](#Lesson-14)
 	- [Error Handling](#error-handling)

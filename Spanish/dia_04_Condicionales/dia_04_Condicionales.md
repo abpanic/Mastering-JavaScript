@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -16,7 +16,7 @@
 
 [<< Día 3](../dia_03_Booleanos_Operadores_Date/dia_03_Boleanos_Operadores_Date.md) | [Día 5 >>](../dia_05_Arreglos/dia_05_arreglos.md)
 
-![Thirty Lessons Of JavaScript](../images/banners/Lesson_1_4.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_4.png)
 
 - [📔 Día 4](#📔-día-4)
   - [Condicionales](#condicionales)
