@@ -15,7 +15,7 @@
 
 [<< Lesson 3](../03_Lesson_Booleans_operators_date/03_booleans_operators_date.md) | [Lesson 5 >>](../05_Lesson_Arrays/05_Lesson_arrays.md)
 
-![Mastering JavaScript](../images/banners/MasteringJavscript.png)_1_4.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)
 
 - [📔 Lesson 4](#-Lesson-4)
 	- [Conditionals](#conditionals)

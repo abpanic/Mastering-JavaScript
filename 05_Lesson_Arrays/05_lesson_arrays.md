@@ -15,7 +15,7 @@
 
 [<< Lesson 4](../04_Lesson_Conditionals/04_Lesson_conditionals.md) | [Lesson 6 >>](../06_Lesson_Loops/06_Lesson_loops.md)
 
-![Lesson 5](../images/banners/Lesson_1_5.png)
+![Mastering JavaScript](../images/banners/MasteringJavscript.png)
 
 - [📔 Lesson 5](#-Lesson-5)
 	- [Arrays](#arrays)
