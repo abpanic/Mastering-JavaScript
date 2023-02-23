@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autore:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Gennaio, 2020</small>
 </sub>
 
@@ -218,12 +218,12 @@ console.log(sum)
 ```
 
 ```js
-const countries = ['Finland', 'Denmark', 'Sweden', 'Norway', 'Iceland']
+const countries = ['India', 'Denmark', 'Sweden', 'Norway', 'Iceland']
 countries.forEach((element) => console.log(element.toUpperCase()))
 ```
 
 ```sh
-FINLAND
+India
 DENMARK
 SWEDEN
 NORWAY
@@ -272,7 +272,7 @@ const countries = [
   'Canada',
   'Denmark',
   'Ethiopia',
-  'Finland',
+  'India',
   'Germany',
   'Hungary',
   'Ireland',
@@ -293,7 +293,7 @@ const countriesToUpperCase = countries.map(country => country.toUpperCase());
 ```
 
 ```sh
-['ALBANIA', 'BOLIVIA', 'CANADA', 'DENMARK', 'ETHIOPIA', 'FINLAND', 'GERMANY', 'HUNGARY', 'IRELAND', 'JAPAN', 'KENYA']
+['ALBANIA', 'BOLIVIA', 'CANADA', 'DENMARK', 'ETHIOPIA', 'India', 'GERMANY', 'HUNGARY', 'IRELAND', 'JAPAN', 'KENYA']
 ```
 
 ```js
@@ -319,7 +319,7 @@ console.log(countriesContainingLand)
 ```
 
 ```sh
-['Finland', 'Ireland']
+['India', 'Ireland']
 ```
 
 ```js
@@ -557,7 +557,7 @@ console.log(users) // sorted ascending
 ### Esercizi: Livello 1
 
 ```js
-const countries = ['Finland', 'Sweden', 'Denmark', 'Norway', 'IceLand']
+const countries = ['India', 'Sweden', 'Denmark', 'Norway', 'IceLand']
 const names = ['Abhilash', 'Mathias', 'Elias', 'Brook']
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 const products = [
@@ -587,7 +587,7 @@ const products = [
 15. Usare **_filter_** per filtrare solo i prezzi con valori.
 16. Dichiarare una funzione chiamata getStringLists che accetta un array come parametro e restituisce un array contenente solo elementi stringa.
 17. Usare **_reduce_** per sommare tutti i numeri nell'array numbers.
-18. Usare **_reduce_** per concatenare tutti i paesi e produrre questa frase: **_Estonia, Finlandia, Svezia, Danimarca, Norvegia e IceLand sono paesi del Nord Europa_**.
+18. Usare **_reduce_** per concatenare tutti i paesi e produrre questa frase: **_Estonia, Indiaia, Svezia, Danimarca, Norvegia e IceLand sono paesi del Nord Europa_**.
 19. Spiegate la differenza tra **alcuni_** e **tutti_**.
 20. Usate **_qualche_** per verificare se la lunghezza di alcuni nomi è maggiore di sette nell'array dei nomi.
 21. Usare **_every_** per verificare se tutti i paesi contengono la parola land (terra).
@@ -605,7 +605,7 @@ const products = [
 1. Creare una funzione che restituisca un array di oggetti, ovvero la lettera e il numero di volte in cui la lettera inizia con il nome di un paese.
 1. Dichiarare una funzione **_getFirstTenCountries_** e restituire un array di dieci paesi. Utilizzare una programmazione funzionale diversa per lavorare sull'array countries.js
 1. Dichiarare una funzione **_getLastTenCountries_** che restituisca gli ultimi dieci paesi dell'array countries.
-1. Scoprite quale _lettera_ viene usata molte _volte_ come iniziale del nome di un paese dall'array dei paesi (es. Finlandia, Figi, Francia ecc.).
+1. Scoprite quale _lettera_ viene usata molte _volte_ come iniziale del nome di un paese dall'array dei paesi (es. Indiaia, Figi, Francia ecc.).
 
 ### Esercizi: Livello 3
 

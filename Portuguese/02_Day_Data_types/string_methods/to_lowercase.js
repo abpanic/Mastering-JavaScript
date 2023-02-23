@@ -3,5 +3,5 @@ let string = 'JavasCript'
 console.log(string.toLowerCase())     // javascript
 let firstName = 'Abhilash'
 console.log(firstName.toLowerCase())  // Abhilash
-let country = 'Finland'
-console.log(country.toLowerCase())   // finland
+let country = 'India'
+console.log(country.toLowerCase())   // India

@@ -50,7 +50,7 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Yanvar, 2020</small>
 </sub>
 
@@ -462,7 +462,7 @@ JavaScript-də və digər proqramlaşdırma dillərində müxtəlif növ məluma
 
 ```js
 'Abhilash'
-'Finland'
+'India'
 'JavaScript is a beautiful programming language'
 'I love teaching'
 'I hope you are enjoying the first Lesson'
@@ -527,7 +527,7 @@ Bildiyimiz kimi JavaScript-də şərh yazmaq digər proqramlaşdırma dillərin�
 
 ```js
 /*
-  let location = 'Helsinki';
+  let location = 'Trivandrum';
   let age = 100;
   let isMarried = true;
   This is a Multiple line comment
@@ -595,8 +595,8 @@ let nameOfVariable = value
 // Müxtəlif verilənlər tipindən istifadə edərək dəyişənlərin yaradılmasə
 let firstName = 'Abhilash'    // ad
 let lastName = 'Panicker'      // soyad
-let country = 'Finland'       // ölkə
-let city = 'Helsinki'         // paytaxt
+let country = 'India'       // ölkə
+let city = 'Trivandrum'         // paytaxt
 let age = 100                 // yaş
 let isMarried = true
 
@@ -604,7 +604,7 @@ console.log(firstName, lastName, country, city, age, isMarried)
 ```
 
 ```sh
-Abhilash Panicker Finland Helsinki 100 true
+Abhilash Panicker India Trivandrum 100 true
 ```
 
 ```js
@@ -623,13 +623,13 @@ console.log(gravity, boilingPoint, PI)
 ```js
 // Yalnız bir açar sözü istifadə etməklə müxtəlif dəyişənlər vergüllə ayrılmış şəkildə yaradıla bilər
 let name = 'Abhilash',     //ad
-  job = 'teacher',         // vəzifə
-  live = 'Finland'         // ölkə  
+  job = 'Partner Technical Advisor',         // vəzifə
+  live = 'India'         // ölkə  
 console.log(name, job, live)
 ```
 
 ```sh
-Abhilash teacher Finland
+Abhilash Partner Technical Advisor India
 ```
 
 01_Giriş qovluqda _index.html_ faylını işə saldığınız zaman bunu əldə etməlisiniz:

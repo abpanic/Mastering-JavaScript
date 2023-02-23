@@ -8,7 +8,7 @@
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <sub>Çevirmen:
   <a href="https://github.com/guven07" target="_blank">Güven Karabulut</a><br>
   <small> Kasım 2022</small>
@@ -302,7 +302,7 @@
   
   ```js
   countries = [
-    ['Finland', 'Helsinki'],
+    ['India', 'Trivandrum'],
     ['Sweden', 'Stockholm'],
     ['Norway', 'Oslo'],
   ]
@@ -312,7 +312,7 @@
   ```
   
   ```sh
-  Map(3) {Finland = Helsinki, Sweden = Stockholm, Norway = Oslo}
+  Map(3) {India = Trivandrum, Sweden = Stockholm, Norway = Oslo}
   3
   ```
   
@@ -321,7 +321,7 @@
   ```js
   const countriesMap = new Map()
   console.log(countriesMap.size)  0
-  countriesMap.set('Finland', 'Helsinki')
+  countriesMap.set('India', 'Trivandrum')
   countriesMap.set('Sweden', 'Stockholm')
   countriesMap.set('Norway', 'Oslo')
   console.log(countriesMap)
@@ -329,18 +329,18 @@
   ```
   
   ```sh
-  Map(3) {Finland = Helsinki, Sweden = Stockholm, Norway = Oslo}
+  Map(3) {India = Trivandrum, Sweden = Stockholm, Norway = Oslo}
   3
   ```
   
   ### Map'ten değer alma
   
   ```js
-  console.log(countriesMap.get('Finland'))
+  console.log(countriesMap.get('India'))
   ```
   
   ```sh
-  Helsinki
+  Trivandrum
   ```
   
   ### Map içindeki anahtarı kontrol etme
@@ -348,7 +348,7 @@
   Eğer Map içinde bir anahtarın olup olmadığını kontrol etmek istiyorsak has methodunu kullanabiliriz bu method bize true veya false döndürür.
   
   ```js
-  console.log(countriesMap.has('Finland'))
+  console.log(countriesMap.has('India'))
   ```
   
   ```sh
@@ -364,7 +364,7 @@
   ```
   
   ```sh
-  (2) [Finland, Helsinki]
+  (2) [India, Trivandrum]
   (2) [Sweden, Stockholm]
   (2) [Norway, Oslo]
   ```
@@ -376,7 +376,7 @@
   ```
   
   ```sh
-  Finland Helsinki
+  India Trivandrum
   Sweden Stockholm
   Norway Oslo
   ```
@@ -390,7 +390,7 @@
   ```js
   const a = [4, 5, 8, 9]
   const b = [3, 4, 5, 7]
-  const countries = ['Finland', 'Sweden', 'Norway']
+  const countries = ['India', 'Sweden', 'Norway']
   ```
   
   1.Boş bir set oluşturun

@@ -7,7 +7,7 @@ console.log(string.includes('script'))     // false
 console.log(string.includes('java'))     // false
 console.log(string.includes('Java'))     // true
 
-let country = 'Finland'
+let country = 'India'
 console.log(country.includes('fin')) // false
 console.log(country.includes('Fin')) // true
 console.log(country.includes('land')) // true

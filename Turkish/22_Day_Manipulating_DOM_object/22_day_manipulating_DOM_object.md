@@ -9,7 +9,7 @@
 
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <sub>Çevirmen:
   <a href="https://github.com/alicangunduz" target="_blank">Ali Can Gündüz</a><br>
   <small> Ocak 2023</small>

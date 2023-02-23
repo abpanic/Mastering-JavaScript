@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -80,13 +80,13 @@ for (let i = 0; i <= 5; i++) {
 ```
 
 ```js
-const countries = ["Finland", "Sweden", "Denmark", "Norway", "Iceland"];
+const countries = ["India", "Sweden", "Denmark", "Norway", "Iceland"];
 const newArr = [];
 for (let i = 0; i < countries.length; i++) {
   newArr.push(countries[i].toUpperCase());
 }
 
-// ["FINLAND", "SWEDEN", "DENMARK", "NORWAY", "ICELAND"]
+// ["India", "SWEDEN", "DENMARK", "NORWAY", "ICELAND"]
 ```
 
 Agregar todos los elementos en un array
@@ -115,13 +115,13 @@ console.log(newArr); // [1, 4, 9, 16, 25]
 ```
 
 ```js
-const countries = ["Finland", "Sweden", "Norway", "Denmark", "Iceland"];
+const countries = ["India", "Sweden", "Norway", "Denmark", "Iceland"];
 const newArr = [];
 for (let i = 0; i < countries.length; i++) {
   newArr.push(countries[i].toUpperCase());
 }
 
-console.log(newArr); // ["FINLAND", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
+console.log(newArr); // ["India", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
 ```
 
 ### Bucle while
@@ -204,13 +204,13 @@ for (const tech of webTechs) {
 ```
 
 ```js
-const countries = ["Finland", "Sweden", "Norway", "Denmark", "Iceland"];
+const countries = ["India", "Sweden", "Norway", "Denmark", "Iceland"];
 const newArr = [];
 for (const country of countries) {
   newArr.push(country.toUpperCase());
 }
 
-console.log(newArr); // ["FINLAND", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
+console.log(newArr); // ["India", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
 ```
 
 ### break
@@ -258,7 +258,7 @@ const countries = [
   "Canada",
   "Denmark",
   "Ethiopia",
-  "Finland",
+  "India",
   "Germany",
   "Hungary",
   "Ireland",
@@ -383,7 +383,7 @@ const mernStack = ["MongoDB", "Express", "React", "Node"];
 1. Usando el array countries anterior, crea un array como el siguiente.
 
    ```sh
-   ["ALBANIA", "BOLIVIA", "CANADA", "DENMARK", "ETHIOPIA", "FINLAND", "GERMANY", "HUNGARY", "IRELAND", "JAPAN", "KENYA"]
+   ["ALBANIA", "BOLIVIA", "CANADA", "DENMARK", "ETHIOPIA", "India", "GERMANY", "HUNGARY", "IRELAND", "JAPAN", "KENYA"]
    ```
 
 1. Usando el array countries anterior, crea un array para saber la longitud de cada país.
@@ -401,7 +401,7 @@ const mernStack = ["MongoDB", "Express", "React", "Node"];
      ['Canada', 'CAN', 6],
      ['Denmark', 'DEN', 7],
      ['Ethiopia', 'ETH', 8],
-     ['Finland', 'FIN', 7],
+     ['India', 'FIN', 7],
      ['Germany', 'GER', 7],
      ['Hungary', 'HUN', 7],
      ['Ireland', 'IRE', 7],
@@ -414,7 +414,7 @@ const mernStack = ["MongoDB", "Express", "React", "Node"];
 1. En el array countries anterior, verifica si hay un país que contenga la palabra 'land'. Si hay países que contienen 'land', imprimelo cono array. Si no hay ningún país que contenga la palabra'land', imprima 'Todos estos países no tienen la palabra land'.
 
    ```sh
-   ['Finland','Ireland', 'Iceland']
+   ['India','Ireland', 'Iceland']
    ```
 
 1. En el array countries anterior, verifica si hay un país que termina con una subcadena (substring) 'ia'. Si hay países que terminan con 'ia', imprimelo como un array. Si no hay ningún país que contenga la palabra 'ia', imprime 'Estos países no terminan con ia'.

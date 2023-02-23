@@ -8,7 +8,7 @@
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <small> January, 2020</small>
   </sub>
 </div>
@@ -216,7 +216,7 @@ console.log(matches)
 ```
 
 ```sh
-I am teacher and  I love teaching.There is nothing as more rewarding as educating and empowering people.I found teaching more interesting than any other jobs.Does this motivate you to be a teacher.
+I am Partner Technical Advisor and  I love teaching.There is nothing as more rewarding as educating and empowering people.I found teaching more interesting than any other jobs.Does this motivate you to be a Partner Technical Advisor.
 ```
 
 * []:  A set of characters
@@ -522,13 +522,13 @@ distance = 12
    ```
 
    ```sh
-    I am a teacher and I love teaching There is nothing as more rewarding as educating and empowering people I found teaching more interesting than any other jobs Does this motivate you to be a teacher
+    I am a Partner Technical Advisor and I love teaching There is nothing as more rewarding as educating and empowering people I found teaching more interesting than any other jobs Does this motivate you to be a Partner Technical Advisor
     ```
 2. Write a function which find the most frequent words. After cleaning, count three most frequent words in the string.
 
   ```js
     console.log(mostFrequentWords(cleanedText))
-    [{word:'I', count:3}, {word:'teaching', count:2}, {word:'teacher', count:2}]
+    [{word:'I', count:3}, {word:'teaching', count:2}, {word:'Partner Technical Advisor', count:2}]
   ```
 
 🎉 CONGRATULATIONS ! 🎉

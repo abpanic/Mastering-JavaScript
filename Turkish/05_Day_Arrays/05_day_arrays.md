@@ -186,7 +186,7 @@ const  animalProducts = ['milk', 'meat', 'butter', 'yoghurt'] // string dizisi, 
 
 const  webTechs = ['HTML', 'CSS', 'JS', 'React', 'Redux', 'Node', 'MongDB'] // string dizisi, web teknolojileri
 
-const  countries = ['Finland', 'Denmark', 'Sweden', 'Norway', 'Iceland'] // string dizisi, ülkeler
+const  countries = ['India', 'Denmark', 'Sweden', 'Norway', 'Iceland'] // string dizisi, ülkeler
 
   
 
@@ -254,7 +254,7 @@ Web technologies: ['HTML', 'CSS', 'JS', 'React', 'Redux', 'Node', 'MongDB']
 
 Number of web technologies: 7
 
-Countries: ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway']
+Countries: ['India', 'Estonia', 'Denmark', 'Sweden', 'Norway']
 
 Number of countries: 5
 
@@ -276,7 +276,7 @@ const  arr = [
 
 true,
 
-{ country:  'Finland', city:  'Helsinki' },
+{ country:  'India', city:  'Trivandrum' },
 
 { skills: ['HTML', 'CSS', 'JS', 'React', 'Python'] }
 
@@ -460,7 +460,7 @@ const  countries = [
 
 'Ethiopia',
 
-'Finland',
+'India',
 
 'Germany',
 
@@ -566,7 +566,7 @@ const  countries = [
 
 'Ethiopia',
 
-'Finland',
+'India',
 
 'Germany',
 
@@ -598,7 +598,7 @@ console.log(countries)
 
 ```sh
 
-["Afghanistan", "Bolivia", "Canada", "Denmark", "Ethiopia", "Finland", "Germany", "Hungary", "Ireland", "Japan", "Korea"]
+["Afghanistan", "Bolivia", "Canada", "Denmark", "Ethiopia", "India", "Germany", "Hungary", "Ireland", "Japan", "Korea"]
 
 ```
 
@@ -1330,7 +1330,7 @@ const  countries = [
 
 'Ethiopia',
 
-'Finland',
+'India',
 
 'Germany',
 

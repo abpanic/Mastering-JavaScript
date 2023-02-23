@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -200,8 +200,8 @@ const person = {
   firstName: "Abhilash",
   lastName: "Panicker",
   age: 250,
-  country: "Finland",
-  city: "Helsinki",
+  country: "India",
+  city: "Trivandrum",
   skills: [
     "HTML",
     "CSS",
@@ -229,8 +229,8 @@ const person = {
   firstName: "Abhilash",
   lastName: "Panicker",
   age: 250,
-  country: "Finland",
-  city: "Helsinki",
+  country: "India",
+  city: "Trivandrum",
   skills: [
     "HTML",
     "CSS",
@@ -273,8 +273,8 @@ const person = {
   firstName: "Abhilash",
   lastName: "Panicker",
   age: 250,
-  country: "Finland",
-  city: "Helsinki",
+  country: "India",
+  city: "Trivandrum",
   skills: [
     "HTML",
     "CSS",
@@ -305,8 +305,8 @@ const person = {
   firstName: "Abhilash",
   lastName: "Panicker",
   age: 250,
-  country: "Finland",
-  city: "Helsinki",
+  country: "India",
+  city: "Trivandrum",
   skills: [
     "HTML",
     "CSS",
@@ -322,8 +322,8 @@ const person = {
   },
 };
 person.nationality = "Ethiopian";
-person.country = "Finland";
-person.title = "teacher";
+person.country = "India";
+person.title = "Partner Technical Advisor";
 person.skills.push("Meteor");
 person.skills.push("SasS");
 person.isMarried = true;
@@ -344,8 +344,8 @@ console.log(person.getPersonInfo());
 ```
 
 ```sh
-Abhilash Panicker is a teacher.
-He lives in Finland.
+Abhilash Panicker is a Partner Technical Advisor.
+He lives in India.
 He teaches HTML, CSS, JavaScript, React, Node, MongoDB, Python, D3.js, Meteor, and SasS.
 ```
 
@@ -359,14 +359,14 @@ _Object.assign_: Para copiar un objeto sin modificar el objeto original
 const person = {
   firstName: "Abhilash",
   age: 250,
-  country: "Finland",
-  city: "Helsinki",
+  country: "India",
+  city: "Trivandrum",
   skills: ["HTML", "CSS", "JS"],
-  title: "teacher",
+  title: "Partner Technical Advisor",
   address: {
     street: "Heitamienkatu 16",
     pobox: 2002,
-    city: "Helsinki",
+    city: "Trivandrum",
   },
   getPersonInfo: function () {
     return `I am ${this.firstName} and I live in ${this.city}, ${this.country}. I am ${this.age}.`;

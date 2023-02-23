@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -441,8 +441,8 @@ Ahora, vamos a utilizar replacer como un filtro. El objeto usuario tiene una lar
 const user = {
   firstName: "Abhilash",
   lastName: "Panicker",
-  country: "Finland",
-  city: "Helsinki",
+  country: "India",
+  city: "Trivandrum",
   email: "alex@alex.com",
   skills: ["HTML", "CSS", "JavaScript", "React", "Python"],
   age: 250,
@@ -462,8 +462,8 @@ console.log(txt);
 {
     "firstName": "Abhilash",
     "lastName": "Panicker",
-    "country": "Finland",
-    "city": "Helsinki",
+    "country": "India",
+    "city": "Trivandrum",
     "age": 250
 }
 ```

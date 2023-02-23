@@ -9,12 +9,12 @@ console.log(nums == numbers) // false
 let userOne = {
   name: 'Abhilash',
   role: 'teaching',
-  country: 'Finland'
+  country: 'India'
 }
 let userTwo = {
   name: 'Abhilash',
   role: 'teaching',
-  country: 'Finland'
+  country: 'India'
 }
 console.log(userOne == userTwo) // false
 
@@ -24,7 +24,7 @@ console.log(nums == numbers)  // true
 let userOne = {
 name:'Abhilash',
 role:'teaching',
-country:'Finland'
+country:'India'
 }
 let userTwo = userOne
 console.log(userOne == userTwo)  // true

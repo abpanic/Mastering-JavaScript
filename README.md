@@ -464,7 +464,7 @@ A collection of one or more characters between two single quotes, double quotes,
 'a'
 'Abhilash'
 "Abhilash"
-'Finland'
+'India'
 'JavaScript is a beautiful programming language'
 'I love teaching'
 'I hope you are enjoying the first Lesson'
@@ -533,7 +533,7 @@ Multiline commenting:
 
 ```js
 /*
-  let location = 'Helsinki';
+  let location = 'Trivandrum';
   let age = 100;
   let isMarried = true;
   This is a Multiple line comment
@@ -602,8 +602,8 @@ The nameOfVriable is the name that stores different data of value. See below for
 // Declaring different variables of different data types
 let firstName = 'Abhilash' // first name of a person
 let lastName = 'Panicker' // last name of a person
-let country = 'Finland' // country
-let city = 'Helsinki' // capital city
+let country = 'India' // country
+let city = 'Trivandrum' // capital city
 let age = 100 // age in years
 let isMarried = true
 
@@ -611,7 +611,7 @@ console.log(firstName, lastName, country, city, age, isMarried)
 ```
 
 ```sh
-Abhilash Panicker Finland Helsinki 100 true
+Abhilash Panicker India Trivandrum 100 true
 ```
 
 ```js
@@ -629,12 +629,12 @@ console.log(gravity, boilingPoint, PI)
 
 ```js
 // Variables can also be declaring in one line separated by comma, however I recommend to use a seperate line to make code more readble
-let name = 'Abhilash', job = 'teacher', live = 'Finland'
+let name = 'Abhilash', job = 'Partner Technical Advisor', live = 'India'
 console.log(name, job, live)
 ```
 
 ```sh
-Abhilash teacher Finland
+Abhilash Partner Technical Advisor India
 ```
 
 When you run _index.html_ file in the 01-Lesson folder you should get this:

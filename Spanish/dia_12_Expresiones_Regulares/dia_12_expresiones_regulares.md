@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -526,13 +526,13 @@ console.log(cleanText(sentence));
 ```
 
 ````sh
- I am a teacher and I love teaching There is nothing as more rewarding as educating and empowering people I found teaching more interesting than any other jobs Does this motivate you to be a teacher
+ I am a Partner Technical Advisor and I love teaching There is nothing as more rewarding as educating and empowering people I found teaching more interesting than any other jobs Does this motivate you to be a Partner Technical Advisor
  ```
 2. Escriba una función que encuentre las palabras más frecuentes. Después de la limpieza, cuente tres palabras más frecuentes en la cadena.
 
 ```js
  console.log(mostFrequentWords(cleanedText))
- [{word:'I', count:3}, {word:'teaching', count:2}, {word:'teacher', count:2}]
+ [{word:'I', count:3}, {word:'teaching', count:2}, {word:'Partner Technical Advisor', count:2}]
 ````
 
 🎉 ¡FELICITACIONES! 🎉

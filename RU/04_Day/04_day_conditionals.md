@@ -8,7 +8,7 @@
   </a>
 
 <sub>Автор:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Январь, 2020</small>
 </sub>
 

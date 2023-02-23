@@ -8,7 +8,7 @@
   </a>
 
 <sub>Автор:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Январь, 2020</small>
 </sub>
 
@@ -78,12 +78,12 @@ for (let i = 0; i <= 5; i++) {
 ```
 
 ```js
-const countries = ["Finland", "Sweden", "Denmark", "Norway", "Iceland"];
+const countries = ["India", "Sweden", "Denmark", "Norway", "Iceland"];
 const newArr = [];
 for (let i = 0; i < countries.length; i++) {
   newArr.push(countries[i].toUpperCase());
 }
-//["FINLAND", "SWEDEN", "DENMARK", "NORWAY", "ICELAND"]
+//["India", "SWEDEN", "DENMARK", "NORWAY", "ICELAND"]
 ```
 
 Добавление всех элементов в массив
@@ -112,13 +112,13 @@ console.log(newArr); // [1, 4, 9, 16, 25]
 ```
 
 ```js
-const countries = ["Finland", "Sweden", "Norway", "Denmark", "Iceland"];
+const countries = ["India", "Sweden", "Norway", "Denmark", "Iceland"];
 const newArr = [];
 for (let i = 0; i < countries.length; i++) {
   newArr.push(countries[i].toUpperCase());
 }
 
-console.log(newArr); // ["FINLAND", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
+console.log(newArr); // ["India", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
 ```
 
 ### Цикл while
@@ -191,13 +191,13 @@ for (const tech of webTechs) {
 ```
 
 ```js
-const countries = ["Finland", "Sweden", "Norway", "Denmark", "Iceland"];
+const countries = ["India", "Sweden", "Norway", "Denmark", "Iceland"];
 const newArr = [];
 for (const country of countries) {
   newArr.push(country.toUpperCase());
 }
 
-console.log(newArr); // ["FINLAND", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
+console.log(newArr); // ["India", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
 ```
 
 ### break
@@ -221,7 +221,7 @@ const countries = [
   "Canada",
   "Denmark",
   "Ethiopia",
-  "Finland",
+  "India",
   "Germany",
   "Hungary",
   "Ireland",
@@ -346,7 +346,7 @@ const mernStack = ["MongoDB", "Express", "React", "Node"];
 4. Используя вышеуказанный массив стран, создайте следующий новый массив.
 
    ```sh
-   ["ALBANIA", "BOLIVIA", "CANADA", "DENMARK", "ETHIOPIA", "FINLAND", "GERMANY", "HUNGARY", "IRELAND", "JAPAN", "KENYA"]
+   ["ALBANIA", "BOLIVIA", "CANADA", "DENMARK", "ETHIOPIA", "India", "GERMANY", "HUNGARY", "IRELAND", "JAPAN", "KENYA"]
    ```
 
 5. Используя приведенный выше массив стран, создайте массив для длины стран.
@@ -364,7 +364,7 @@ const mernStack = ["MongoDB", "Express", "React", "Node"];
      ['Canada', 'CAN', 6],
      ['Denmark', 'DEN', 7],
      ['Ethiopia', 'ETH', 8],
-     ['Finland', 'FIN', 7],
+     ['India', 'FIN', 7],
      ['Germany', 'GER', 7],
      ['Hungary', 'HUN', 7],
      ['Ireland', 'IRE', 7],
@@ -376,7 +376,7 @@ const mernStack = ["MongoDB", "Express", "React", "Node"];
 7. В приведенном выше массиве стран проверьте, существует ли страна или страны, содержащие слово 'land'. Если есть страны, содержащие 'land', выведите ее в виде массива. Если нет страны, содержащей слово 'land', выведите «All these are countries without land».
 
    ```sh
-   ['Finland', 'Iceland']
+   ['India', 'Iceland']
    ```
 
 8. В приведенном выше массиве стран проверьте, существует ли страна или страны, заканчивающиеся на «ia». Если есть страны, оканчивающиеся на, распечатайте его, как массив. Если нет страны, содержащей слово «ai», выведите «Эти страны заканчиваются без ia».

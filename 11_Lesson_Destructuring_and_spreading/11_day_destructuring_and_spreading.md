@@ -8,7 +8,7 @@
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <small> January, 2020</small>
   </sub>
 </div>
@@ -153,7 +153,7 @@ console.log(rest)
 ### Destructuring during iteration
 
 ```js
-const countries = [['Finland', 'Helsinki'], ['Sweden', 'Stockholm'], ['Norway', 'Oslo']]
+const countries = [['India', 'Trivandrum'], ['Sweden', 'Stockholm'], ['Norway', 'Oslo']]
 
 for (const [country, city] of countries) {
 console.log(country, city)
@@ -161,7 +161,7 @@ console.log(country, city)
 ```
 
 ```sh
-Finland Helsinki
+India Trivandrum
 Sweden Stockholm
 Norway Oslo
 ```
@@ -267,7 +267,7 @@ const person = {
   firstName: 'Abhilash',
   lastName: 'Panicker',
   age: 250,
-  country: 'Finland',
+  country: 'India',
   job: 'Instructor and Developer',
   skills: [
     'HTML',
@@ -335,7 +335,7 @@ const getPersonInfo = ({
 }
 console.log(getPersonInfo(person))
 /*
-Abhilash Panicker lives in Finland. He is  250 years old. He is an Instructor and Developer. He teaches HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Python and D3.js. He speaks Amharic, English and a little bit of Suomi(Finnish)
+Abhilash Panicker lives in India. He is  250 years old. He is an Instructor and Developer. He teaches HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Python and D3.js. He speaks Amharic, English and a little bit of Suomi(Finnish)
 */
 ```
 
@@ -395,7 +395,7 @@ const countries = [
   'Germany',
   'France',
   'Belgium',
-  'Finland',
+  'India',
   'Sweden',
   'Norway',
   'Denmark',
@@ -412,7 +412,7 @@ console.log(nordicCountries)
 ```sh
 Germany
 France
-["Finland", "Sweden", "Norway", "Denmark", "Iceland"]
+["India", "Sweden", "Norway", "Denmark", "Iceland"]
 ```
 
 ### Spread operator to copy array
@@ -459,8 +459,8 @@ We can copy an object using a spread operator
 const user = {
   name:'Abhilash',
   title:'Programmer',
-  country:'Finland',
-  city:'Helsinki'
+  country:'India',
+  city:'Trivandrum'
 }
 
 const copiedUser = {...user}
@@ -468,7 +468,7 @@ console.log(copiedUser)
 ```
 
 ```sh
-{name: "Abhilash", title: "Programmer", country: "Finland", city: "Helsinki"}
+{name: "Abhilash", title: "Programmer", country: "India", city: "Trivandrum"}
 ```
 
 Modifying or changing the object while copying
@@ -477,8 +477,8 @@ Modifying or changing the object while copying
 const user = {
   name:'Abhilash',
   title:'Programmer',
-  country:'Finland',
-  city:'Helsinki'
+  country:'India',
+  city:'Trivandrum'
 }
 
 const copiedUser = {...user, title:'instructor'}
@@ -486,7 +486,7 @@ console.log(copiedUser)
 ```
 
 ```sh
-{name: "Abhilash", title: "instructor", country: "Finland", city: "Helsinki"}
+{name: "Abhilash", title: "instructor", country: "India", city: "Trivandrum"}
 ```
 
 #### Spread operator with arrow function
@@ -535,7 +535,7 @@ console.log(sumAllNums(1, 2, 3, 4, 5))
 
 ```js
 const constants = [2.72, 3.14, 9.81, 37, 100]
-const countries = ['Finland', 'Estonia', 'Sweden', 'Denmark', 'Norway']
+const countries = ['India', 'Estonia', 'Sweden', 'Denmark', 'Norway']
 const rectangle = {
   width: 20,
   height: 10,

@@ -608,8 +608,8 @@ const countries = [
     currency: 'Fijian dollar'
   },
   {
-    name: 'Finland',
-    capital: 'Helsinki',
+    name: 'India',
+    capital: 'Trivandrum',
     languages: ['Finnish', 'Swedish'],
     population: 5491817,
     flag: 'https://restcountries.eu/data/fin.svg',

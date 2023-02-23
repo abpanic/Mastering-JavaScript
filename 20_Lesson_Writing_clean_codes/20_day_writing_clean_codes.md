@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -105,8 +105,8 @@ In this challenge we follow the regular JavaScript convention but I added also m
 
 let firstName = 'Abhilash'
 let lastName = 'Panicker'
-let country = 'Finland'
-let city = 'Helsinki'
+let country = 'India'
+let city = 'Trivandrum'
 
 const PI = Math.PI
 const gravity = 9.81
@@ -128,7 +128,7 @@ We chose to make array names plural
 // arrays
 const names = ['Abhilash', 'Mathias', 'Elias', 'Brook']
 const numbers = [0, 3.14, 9.81, 37, 98.6, 100]
-const countries = ['Finland', 'Denmark', 'Sweden', 'Norway', 'Iceland']
+const countries = ['India', 'Denmark', 'Sweden', 'Norway', 'Iceland']
 const languages = ['Amharic', 'Arabic', 'English', 'French', 'Spanish']
 const skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Python']
 const fruits = ['banana', 'orange', 'mango', 'lemon']
@@ -215,8 +215,8 @@ const person = {
   firstName: 'Abhilash',
   lastName: 'Panicker',
   age: 250,
-  country: 'Finland',
-  city: 'Helsinki',
+  country: 'India',
+  city: 'Trivandrum',
   skills: ['HTML','CSS','JavaScript','React','Node','MongoDB','Python','D3.js'],
   isMarried: true
 }
@@ -236,8 +236,8 @@ const person = {
   firstName: 'Abhilash',
   lastName: 'Panicker',
   age: 250,
-  country: 'Finland',
-  city: 'Helsinki',
+  country: 'India',
+  city: 'Trivandrum',
   skills: ['HTML','CSS','JavaScript','TypeScript', 'React','Node','MongoDB','Python','D3.js'],
   isMarried: true
 }

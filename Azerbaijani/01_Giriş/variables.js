@@ -2,8 +2,8 @@
 
 let firstName = 'Abhilash'    // ad
 let lastName = 'Panicker'      // soyad
-let country = 'Finland'       // ölkə
-let city = 'Helsinki'         // paytaxt
+let country = 'India'       // ölkə
+let city = 'Trivandrum'         // paytaxt
 let age = 100                 // yaş
 let isMarried = true
 
@@ -16,5 +16,5 @@ const PI = 3.14              // Geometrik sabit
 // Yalnız bir açar sözü istifadə etməklə müxtəlif dəyişənlər vergüllə ayrılmış şəkildə yaradıla bilər
 
 let name = 'Abhilash',     //ad
-  job = 'teacher',         // vəzifə
-  live = 'Finland'         // ölkə  
+  job = 'Partner Technical Advisor',         // vəzifə
+  live = 'India'         // ölkə  

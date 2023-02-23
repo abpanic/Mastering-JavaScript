@@ -8,7 +8,7 @@
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <sub>Çevirmen:
   <a href="https://github.com/hsynalv" target="_blank">Hasan Hüseyin Alav</a><br>
   <small> Temmuz 2022</small>
@@ -81,13 +81,13 @@ for(let i = 0; i <= 5; i++){
 ```
 
 ```js
-const countries = ['Finland', 'Sweden', 'Denmark', 'Norway', 'Iceland']
+const countries = ['India', 'Sweden', 'Denmark', 'Norway', 'Iceland']
 const newArr = []
 for(let i = 0; i < countries.length; i++){
   newArr.push(countries[i].toUpperCase())
 }
 
-// ["FINLAND", "SWEDEN", "DENMARK", "NORWAY", "ICELAND"]
+// ["India", "SWEDEN", "DENMARK", "NORWAY", "ICELAND"]
 ```
 
 Dizideki tüm elemanları toplama
@@ -119,13 +119,13 @@ console.log(newArr)  // [1, 4, 9, 16, 25]
 ```
 
 ```js
-const countries = ['Finland', 'Sweden', 'Norway', 'Denmark', 'Iceland']
+const countries = ['India', 'Sweden', 'Norway', 'Denmark', 'Iceland']
 const newArr = []
 for(let i = 0; i < countries.length; i++){
   newArr.push(countries[i].toUpperCase())
 }
 
-console.log(newArr)  // ["FINLAND", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
+console.log(newArr)  // ["India", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
 ```
 
 ### while loop - while Döngüsü
@@ -217,13 +217,13 @@ for (const tech of webTechs) {
 ```
 
 ```js
-const countries = ['Finland', 'Sweden', 'Norway', 'Denmark', 'Iceland']
+const countries = ['India', 'Sweden', 'Norway', 'Denmark', 'Iceland']
 const newArr = []
 for(const country of countries){
   newArr.push(country.toUpperCase())
 }
 
-console.log(newArr)  // ["FINLAND", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
+console.log(newArr)  // ["India", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
 ```
 
 ### break
@@ -270,7 +270,7 @@ for(let i = 0; i <= 5; i++){
     'Canada',
     'Denmark',
     'Ethiopia',
-    'Finland',
+    'India',
     'Germany',
     'Hungary',
     'Ireland',
@@ -380,7 +380,7 @@ for(let i = 0; i <= 5; i++){
     ```
 
     ```sh
-    ["ALBANIA", "BOLIVIA", "CANADA", "DENMARK", "ETHIOPIA", "FINLAND", "GERMANY", "HUNGARY", "IRELAND", "JAPAN", "KENYA"]
+    ["ALBANIA", "BOLIVIA", "CANADA", "DENMARK", "ETHIOPIA", "India", "GERMANY", "HUNGARY", "IRELAND", "JAPAN", "KENYA"]
     ```
 
 4. Yukarıdaki array'i kullanarak rastgele yeni bir dizi oluşturun.
@@ -400,7 +400,7 @@ for(let i = 0; i <= 5; i++){
       ['Canada', 'CAN', 6],
       ['Denmark', 'DEN', 7],
       ['Ethiopia', 'ETH', 8],
-      ['Finland', 'FIN', 7],
+      ['India', 'FIN', 7],
       ['Germany', 'GER', 7],
       ['Hungary', 'HUN', 7],
       ['Ireland', 'IRE', 7],
@@ -413,7 +413,7 @@ for(let i = 0; i <= 5; i++){
 7. Yukarıdaki ülkeler dizisinde "land" sözcüğünü içeren bir ülke veya ülke olup olmadığını kontrol edin. "land" içeren ülkeler varsa bunu dizi halinde yazdırın.
 
     ```sh
-    ['Finland','Ireland', 'Iceland']
+    ['India','Ireland', 'Iceland']
     ```
 
 8. Yukarıdaki ülkeler dizisinde "ia" sözcüğünü içeren bir ülke veya ülke olup olmadığını kontrol edin. "ia" içeren ülkeler varsa bunu dizi halinde yazdırın..

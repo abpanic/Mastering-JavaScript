@@ -4,5 +4,5 @@ let string = 'JavaScript'
 console.log(string.toUpperCase())      // JAVASCRIPT
 let firstName = 'Abhilash'
 console.log(firstName.toUpperCase())  // Abhilash
-let country = 'Finland'
-console.log(country.toUpperCase())    // FINLAND
+let country = 'India'
+console.log(country.toUpperCase())    // India

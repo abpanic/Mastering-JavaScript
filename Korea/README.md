@@ -435,7 +435,7 @@ _main.js 파일은 다른 모든 자바스크립트 파일 아래에 있어야 �
 
 ```js
 'Abhilash';
-'Finland';
+'India';
 'JavaScript is a beautiful programming language';
 'I love teaching';
 'I hope you are enjoying the first Lesson'`We can also create a string using a backtick`;
@@ -504,7 +504,7 @@ console.log(typeof undefined); // undefined
 
 ```js
 /*
-  let location = 'Helsinki';
+  let location = 'Trivandrum';
   let age = 100;
   let isMarried = true;
   This is a Multiple line comment
@@ -571,8 +571,8 @@ let nameOfVariable = value;
 // 다른 자료형을 가지고 있는 변수 선언
 let firstName = 'Abhilash'; // 이름
 let lastName = 'Panicker'; // 성
-let country = 'Finland'; // 나라
-let city = 'Helsinki'; // 수도
+let country = 'India'; // 나라
+let city = 'Trivandrum'; // 수도
 let age = 100; // 나이
 let isMarried = true; // 결혼 여부
 
@@ -580,7 +580,7 @@ console.log(firstName, lastName, country, city, age, isMarried);
 ```
 
 ```sh
-Abhilash Panicker Finland Helsinki 100 true
+Abhilash Panicker India Trivandrum 100 true
 ```
 
 ```js
@@ -599,13 +599,13 @@ console.log(gravity, boilingPoint, PI);
 ```js
 // 쉼표(,)를 통해 변수를 구분해서 정의할 수 있습니다.
 let name = 'Abhilash', // 이름
-  job = 'teacher', // 직업
-  live = 'Finland'; // 사는 곳
+  job = 'Partner Technical Advisor', // 직업
+  live = 'India'; // 사는 곳
 console.log(name, job, live);
 ```
 
 ```sh
-Abhilash teacher Finland
+Abhilash Partner Technical Advisor India
 ```
 
 01-Lesson 폴더에서 _index.html_ 파일을 실행하면 다음과 같은 메시지가 나타납니다.

@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -299,7 +299,7 @@ Map(0) {}
 
 ```js
 countries = [
-  ["Finland", "Helsinki"],
+  ["India", "Trivandrum"],
   ["Sweden", "Stockholm"],
   ["Norway", "Oslo"],
 ];
@@ -309,7 +309,7 @@ console.log(map.size);
 ```
 
 ```sh
-Map(3) {"Finland" => "Helsinki", "Sweden" => "Stockholm", "Norway" => "Oslo"}
+Map(3) {"India" => "Trivandrum", "Sweden" => "Stockholm", "Norway" => "Oslo"}
 3
 ```
 
@@ -318,7 +318,7 @@ Map(3) {"Finland" => "Helsinki", "Sweden" => "Stockholm", "Norway" => "Oslo"}
 ```js
 const countriesMap = new Map();
 console.log(countriesMap.size); // 0
-countriesMap.set("Finland", "Helsinki");
+countriesMap.set("India", "Trivandrum");
 countriesMap.set("Sweden", "Stockholm");
 countriesMap.set("Norway", "Oslo");
 console.log(countriesMap);
@@ -326,18 +326,18 @@ console.log(countriesMap.size);
 ```
 
 ```sh
-Map(3) {"Finland" => "Helsinki", "Sweden" => "Stockholm", "Norway" => "Oslo"}
+Map(3) {"India" => "Trivandrum", "Sweden" => "Stockholm", "Norway" => "Oslo"}
 3
 ```
 
 ### Obtención de un valor de Map
 
 ```js
-console.log(countriesMap.get("Finland"));
+console.log(countriesMap.get("India"));
 ```
 
 ```sh
-Helsinki
+Trivandrum
 ```
 
 ### Comprobar key en Map
@@ -345,7 +345,7 @@ Helsinki
 Comprueba si una key existe en un map usando el método _has_. Retorna _true_ o _false_.
 
 ```js
-console.log(countriesMap.has("Finland"));
+console.log(countriesMap.has("India"));
 ```
 
 ```sh
@@ -361,7 +361,7 @@ for (const country of countriesMap) {
 ```
 
 ```sh
-(2) ["Finland", "Helsinki"]
+(2) ["India", "Trivandrum"]
 (2) ["Sweden", "Stockholm"]
 (2) ["Norway", "Oslo"]
 ```
@@ -373,7 +373,7 @@ for (const [country, city] of countriesMap) {
 ```
 
 ```sh
-Finland Helsinki
+India Trivandrum
 Sweden Stockholm
 Norway Oslo
 ```
@@ -387,7 +387,7 @@ Norway Oslo
 ```js
 const a = [4, 5, 8, 9];
 const b = [3, 4, 5, 7];
-const countries = ["Finland", "Sweden", "Norway"];
+const countries = ["India", "Sweden", "Norway"];
 ```
 
 1. crear un set vacío

@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -123,8 +123,8 @@ Comprobemos también el resultado de un objeto. Esto crea una tabla con dos colu
 const user = {
   name: "Abhilash",
   title: "Programmer",
-  country: "Finland",
-  city: "Helsinki",
+  country: "India",
+  city: "Trivandrum",
   age: 250,
 };
 console.table(user);
@@ -134,7 +134,7 @@ Comprueba el resto de los ejemplos copiando y pegando en la consola del navegado
 
 ```js
 const countries = [
-  ["Finland", "Helsinki"],
+  ["India", "Trivandrum"],
   ["Sweden", "Stockholm"],
   ["Norway", "Oslo"],
 ];
@@ -146,13 +146,13 @@ const users = [
   {
     name: "Abhilash",
     title: "Programmer",
-    country: "Finland",
-    city: "Helsinki",
+    country: "India",
+    city: "Trivandrum",
     age: 250,
   },
   {
     name: "Eyob",
-    title: "Teacher",
+    title: "Partner Technical Advisor",
     country: "Sweden",
     city: "London",
     age: 25,
@@ -181,7 +181,7 @@ Inicia un temporizador que se puede utilizar para controlar el tiempo que dura u
 
 ```js
 const countries = [
-  ["Finland", "Helsinki"],
+  ["India", "Trivandrum"],
   ["Sweden", "Stockholm"],
   ["Norway", "Oslo"],
 ];
@@ -206,15 +206,15 @@ console.timeEnd("forEach loop");
 ```
 
 ```sh
-Finland Helsinki
+India Trivandrum
 Sweden Stockholm
 Norway Oslo
 Regular for loop: 0.34716796875ms
-Finland Helsinki
+India Trivandrum
 Sweden Stockholm
 Norway Oslo
 for of loop: 0.26806640625ms
-Finland Helsinki
+India Trivandrum
 Sweden Stockholm
 Norway Oslo
 forEach loop: 0.358154296875ms
@@ -254,28 +254,28 @@ El console.group() puede ayudar a agrupar diferentes grupos de registro. Copie e
 ```js
 const names = ["Abhilash", "Brook", "David", "John"];
 const countries = [
-  ["Finland", "Helsinki"],
+  ["India", "Trivandrum"],
   ["Sweden", "Stockholm"],
   ["Norway", "Oslo"],
 ];
 const user = {
   name: "Abhilash",
   title: "Programmer",
-  country: "Finland",
-  city: "Helsinki",
+  country: "India",
+  city: "Trivandrum",
   age: 250,
 };
 const users = [
   {
     name: "Abhilash",
     title: "Programmer",
-    country: "Finland",
-    city: "Helsinki",
+    country: "India",
+    city: "Trivandrum",
     age: 250,
   },
   {
     name: "Eyob",
-    title: "Teacher",
+    title: "Partner Technical Advisor",
     country: "Sweden",
     city: "London",
     age: 25,

@@ -553,7 +553,7 @@ Un insieme di uno o più caratteri compresi tra due apici singoli, doppi apici o
 'a'
 'Abhilash'
 "Abhilash"
-'Finland'
+'India'
 'JavaScript is a beautiful programming language'
 'I love teaching'
 'I hope you are enjoying the first Lesson'
@@ -635,7 +635,7 @@ Commento Multilinea:
 ```js
 /*
 
-let location = 'Helsinki';
+let location = 'Trivandrum';
 
 let age = 100;
 
@@ -733,9 +733,9 @@ let firstName =  'Abhilash'  // first name of a person
 
 let lastName =  'Panicker'  // last name of a person
 
-let country =  'Finland'  // country
+let country =  'India'  // country
 
-let city =  'Helsinki'  // capital city
+let city =  'Trivandrum'  // capital city
 
 let age =  100  // age in years
 
@@ -746,7 +746,7 @@ console.log(firstName, lastName, country, city, age, isMarried)
 ```
 
 ```sh
-Abhilash Panicker Finland Helsinki 100 true
+Abhilash Panicker India Trivandrum 100 true
 
 ```
 
@@ -773,14 +773,14 @@ console.log(gravity, boilingPoint,  PI)
 ```js
 // Variables can also be declaring in one line separated by comma, however I recommend to use a seperate line to make code more readble
 
-let name =  'Abhilash', job =  'teacher', live =  'Finland'
+let name =  'Abhilash', job =  'Partner Technical Advisor', live =  'India'
 
 console.log(name, job, live)
 
 ```
 
 ```sh
-Abhilash teacher Finland
+Abhilash Partner Technical Advisor India
 ```
 I file del codice sono disposti nelle cartelle x-Lesson nella directory principale della repository.
 Quando si esegue il file _index.html_ nella cartella 01-Lesson si dovrebbe ottenere questo risultato:

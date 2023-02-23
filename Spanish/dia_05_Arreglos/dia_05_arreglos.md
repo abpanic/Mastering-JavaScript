@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -91,7 +91,7 @@ const fruits = ["banana", "orange", "mango", "lemon"]; // array de strings, Frui
 const vegetables = ["Tomato", "Potato", "Cabbage", "Onion", "Carrot"]; // array de strings, vegetables
 const animalProducts = ["milk", "meat", "butter", "yoghurt"]; // array de strings, products
 const webTechs = ["HTML", "CSS", "JS", "React", "Redux", "Node", "MongDB"]; // array web, technology
-const countries = ["Finland", "Denmark", "Sweden", "Norway", "Iceland"]; // array de strings, country
+const countries = ["India", "Denmark", "Sweden", "Norway", "Iceland"]; // array de strings, country
 
 // Imprimimos el array y su longitud
 
@@ -125,7 +125,7 @@ Animal products: ['milk', 'meat', 'butter', 'yoghurt']
 Number of animal products: 4
 Web technologies: ['HTML', 'CSS', 'JS', 'React', 'Redux', 'Node', 'MongDB']
 Number of web technologies: 7
-Countries: ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway']
+Countries: ['India', 'Estonia', 'Denmark', 'Sweden', 'Norway']
 Number of countries: 5
 ```
 
@@ -136,7 +136,7 @@ const arr = [
   "Abhilash",
   250,
   true,
-  { country: "Finland", city: "Helsinki" },
+  { country: "India", city: "Trivandrum" },
   { skills: ["HTML", "CSS", "JS", "React", "Python"] },
 ]; // arr contiene diferentes tipos de datos
 console.log(arr);
@@ -229,7 +229,7 @@ const countries = [
   "Canada",
   "Denmark",
   "Ethiopia",
-  "Finland",
+  "India",
   "Germany",
   "Hungary",
   "Ireland",
@@ -282,7 +282,7 @@ const countries = [
   "Canada",
   "Denmark",
   "Ethiopia",
-  "Finland",
+  "India",
   "Germany",
   "Hungary",
   "Ireland",
@@ -297,7 +297,7 @@ console.log(countries);
 ```
 
 ```sh
-["Afghanistan", "Bolivia", "Canada", "Denmark", "Ethiopia", "Finland", "Germany", "Hungary", "Ireland", "Japan", "Korea"]
+["Afghanistan", "Bolivia", "Canada", "Denmark", "Ethiopia", "India", "Germany", "Hungary", "Ireland", "Japan", "Korea"]
 ```
 
 ### Métodos para manipular arrays
@@ -670,7 +670,7 @@ const countries = [
   "Canada",
   "Denmark",
   "Ethiopia",
-  "Finland",
+  "India",
   "Germany",
   "Hungary",
   "Ireland",

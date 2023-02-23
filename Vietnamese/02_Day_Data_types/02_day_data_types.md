@@ -8,7 +8,7 @@
   </a>
 
   <sub>Tác giả:
-  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <small> Tháng 1, 2020</small>
   </sub>
 </div>
@@ -127,13 +127,13 @@ console.log(nums == numbers)  // false
 let userOne = {
 name:'Abhilash',
 role:'teaching',
-country:'Finland'
+country:'India'
 }
 
 let userTwo = {
 name:'Abhilash',
 role:'teaching',
-country:'Finland'
+country:'India'
 }
 
 console.log(userOne == userTwo) // false
@@ -151,7 +151,7 @@ console.log(nums == numbers)  // true
 let userOne = {
 name:'Abhilash',
 role:'teaching',
-country:'Finland'
+country:'India'
 }
 
 let userTwo = userOne
@@ -272,10 +272,10 @@ Hãy xem một số ví dụ về chuỗi:
 let space = ' '           // chuỗi rỗng
 let firstName = 'Abhilash'
 let lastName = 'Panicker'
-let country = 'Finland'
-let city = 'Helsinki'
+let country = 'India'
+let city = 'Trivandrum'
 let language = 'JavaScript'
-let job = 'teacher'
+let job = 'Partner Technical Advisor'
 let quote = "The saying,'Seeing is Believing' is not correct in 2020."
 let quotWithBackTick = `The saying,'Seeing is Believing' is not correct in 2020.`
 ```
@@ -305,10 +305,10 @@ Nối chuỗi bằng cách sử dụng toán tử bổ sung là một cách cũ.
 let space = ' '
 let firstName = 'Abhilash'
 let lastName = 'Panicker'
-let country = 'Finland'
-let city = 'Helsinki'
+let country = 'India'
+let city = 'Trivandrum'
 let language = 'JavaScript'
-let job = 'teacher'
+let job = 'Partner Technical Advisor'
 let age = 250
 
 
@@ -319,7 +319,7 @@ console.log(personInfoOne)
 ```
 
 ```sh
-Abhilash Panicker. I am 250. I live in Finland
+Abhilash Panicker. I am 250. I live in India
 ```
 
 #### Chuỗi dài
@@ -329,8 +329,8 @@ Một chuỗi có thể là một ký tự hoặc đoạn hoặc một trang. N�
 **Ví dụ:**
 
 ```js
-const paragraph = "My name is Abhilash Panicker. I live in Finland, Helsinki.\
-I am a teacher and I love teaching. I teach HTML, CSS, JavaScript, React, Redux, \
+const paragraph = "My name is Abhilash Panicker. I live in India, Trivandrum.\
+I am a Partner Technical Advisor and I love teaching. I teach HTML, CSS, JavaScript, React, Redux, \
 Node.js, Python, Data Analysis and D3.js for anyone who is interested to learn. \
 In the end of 2019, I was thinking to expand my teaching and to reach \
 to global audience and I started a Python challenge from November 20 - December 19.\
@@ -404,10 +404,10 @@ console.log(`The sum of ${a} and ${b} is ${a + b}`) // injecting the data dynami
 ```js
 let firstName = 'Abhilash'
 let lastName = 'Panicker'
-let country = 'Finland'
-let city = 'Helsinki'
+let country = 'India'
+let city = 'Trivandrum'
 let language = 'JavaScript'
-let job = 'teacher'
+let job = 'Partner Technical Advisor'
 let age = 250
 let fullName = firstName + ' ' + lastName
 
@@ -418,8 +418,8 @@ console.log(personInfoThree)
 ```
 
 ```sh
-I am Abhilash Panicker. I am 250. I live in Finland.
-I am Abhilash Panicker. I live in Helsinki, Finland. I am a teacher. I teach JavaScript.
+I am Abhilash Panicker. I am 250. I live in India.
+I am Abhilash Panicker. I live in Trivandrum, India. I am a Partner Technical Advisor. I teach JavaScript.
 ```
 
 Using a string template or string interpolation method, we can add expressions, which could be a value, or some operations (comparison, arithmetic operations, ternary operation).
@@ -484,9 +484,9 @@ let firstName = 'Abhilash'
 
 console.log(firstName.toUpperCase())  // Abhilash
 
-let country = 'Finland'
+let country = 'India'
 
-console.log(country.toUpperCase())    // FINLAND
+console.log(country.toUpperCase())    // India
 ```
 
 4. *toLowerCase()*: thay đổi chuỗi thành chữ thường.
@@ -500,9 +500,9 @@ let firstName = 'Abhilash'
 
 console.log(firstName.toLowerCase())  // Abhilash
 
-let country = 'Finland'
+let country = 'India'
 
-console.log(country.toLowerCase())   // finland
+console.log(country.toLowerCase())   // India
 ```
 
 5. *substr()*: Cần có hai đối số, index bắt đầu và số ký tự để cắt.
@@ -511,7 +511,7 @@ console.log(country.toLowerCase())   // finland
 let string = 'JavaScript'
 console.log(string.substr(4,6))    // Script
 
-let country = 'Finland'
+let country = 'India'
 console.log(country.substr(3, 4))   // land
 ```
 
@@ -524,7 +524,7 @@ console.log(string.substring(0,4))     // Java
 console.log(string.substring(4,10))    // Script
 console.log(string.substring(4))       // Script
 
-let country = 'Finland'
+let country = 'India'
 
 console.log(country.substring(0, 3))   // Fin
 console.log(country.substring(3, 7))   // land
@@ -544,10 +544,10 @@ let firstName = 'Abhilash'
 console.log(firstName.split())    // Change to an array - > ["Abhilash"]
 console.log(firstName.split(''))  // Split to an array at each letter ->  ["A", "s", "a", "b", "e", "n", "e", "h"]
 
-let countries = 'Finland, Sweden, Norway, Denmark, and Iceland'
+let countries = 'India, Sweden, Norway, Denmark, and Iceland'
 
-console.log(countries.split(','))  // tách thành mảng tại dấu phẩy -> ["Finland", " Sweden", " Norway", " Denmark", " and Iceland"]
-console.log(countries.split(', ')) //  ["Finland", "Sweden", "Norway", "Denmark", "and Iceland"]
+console.log(countries.split(','))  // tách thành mảng tại dấu phẩy -> ["India", " Sweden", " Norway", " Denmark", " and Iceland"]
+console.log(countries.split(', ')) //  ["India", "Sweden", "Norway", "Denmark", "and Iceland"]
 ```
 
 8. *trim()*: Loại bỏ khoảng trắng ở đầu hoặc cuối chuỗi.
@@ -583,7 +583,7 @@ console.log(string.includes('script'))   // false
 console.log(string.includes('java'))     // false
 console.log(string.includes('Java'))     // true
 
-let country = 'Finland'
+let country = 'India'
 
 console.log(country.includes('fin'))     // false
 console.log(country.includes('Fin'))     // true
@@ -601,7 +601,7 @@ string.replace(oldsubstring, newsubstring)
 let string = 'Học JavaScript trong 30 ngày'
 console.log(string.replace('JavaScript', 'Python')) // 30 Lessons Of Python
 
-let country = 'Finland'
+let country = 'India'
 console.log(country.replace('Fin', 'Noman'))       // Nomanland
 ```
 
@@ -679,7 +679,7 @@ let string = '30'
 console.log(string.concat("Lessons", "Of", "JavaScript")) // 30LessonsOfJavaScript
 
 let country = 'Fin'
-console.log(country.concat("land")) // Finland
+console.log(country.concat("land")) // India
 ```
 
 16. *startsWith*: nó nhận một chuỗi con làm đối số và nó kiểm tra xem chuỗi có bắt đầu bằng chuỗi con được chỉ định hay không. Nó trả về kiểu boolean (`true` hoặc `false`).
@@ -696,7 +696,7 @@ console.log(string.startsWith('Love'))   // true
 console.log(string.startsWith('love'))   // false
 console.log(string.startsWith('world'))  // false
 
-let country = 'Finland'
+let country = 'India'
 
 console.log(country.startsWith('Fin'))   // true
 console.log(country.startsWith('fin'))   // false
@@ -716,7 +716,7 @@ console.log(string.endsWith('world'))         // true
 console.log(string.endsWith('love'))          // false
 console.log(string.endsWith('in the world')) // true
 
-let country = 'Finland'
+let country = 'India'
 
 console.log(country.endsWith('land'))         // true
 console.log(country.endsWith('fin'))          // false
@@ -803,8 +803,8 @@ console.log(string.repeat(10)) // lovelovelovelovelovelovelovelovelovelove
 
 let firstName = 'Abhilash'      // string
 let lastName = 'Panicker'        // string
-let country = 'Finland'         // string
-let city = 'Helsinki'           // string
+let country = 'India'         // string
+let city = 'Trivandrum'           // string
 let age = 250                   // number
 let job                         // undefined, vì chưa gán giá trị
 

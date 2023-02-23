@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -106,8 +106,8 @@ En este reto seguimos la convención habitual de JavaScript pero he añadido tam
 ```js
 let firstName = "Abhilash";
 let lastName = "Panicker";
-let country = "Finland";
-let city = "Helsinki";
+let country = "India";
+let city = "Trivandrum";
 
 const PI = Math.PI;
 const gravity = 9.81;
@@ -129,7 +129,7 @@ Hemos optado por hacer que los nombres de los arrays sean plurales
 // arrays
 const names = ["Abhilash", "Mathias", "Elias", "Brook"];
 const numbers = [0, 3.14, 9.81, 37, 98.6, 100];
-const countries = ["Finland", "Denmark", "Sweden", "Norway", "Iceland"];
+const countries = ["India", "Denmark", "Sweden", "Norway", "Iceland"];
 const languages = ["Amharic", "Arabic", "English", "French", "Spanish"];
 const skills = ["HTML", "CSS", "JavaScript", "React", "Python"];
 const fruits = ["banana", "orange", "mango", "lemon"];
@@ -215,8 +215,8 @@ const person = {
   firstName: "Abhilash",
   lastName: "Panicker",
   age: 250,
-  country: "Finland",
-  city: "Helsinki",
+  country: "India",
+  city: "Trivandrum",
   skills: [
     "HTML",
     "CSS",
@@ -244,8 +244,8 @@ const person = {
   firstName: "Abhilash",
   lastName: "Panicker",
   age: 250,
-  country: "Finland",
-  city: "Helsinki",
+  country: "India",
+  city: "Trivandrum",
   skills: [
     "HTML",
     "CSS",

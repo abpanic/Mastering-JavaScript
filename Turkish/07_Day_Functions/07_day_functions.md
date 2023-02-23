@@ -8,7 +8,7 @@
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <sub>Çevirmen:
   <a href="https://github.com/hsynalv" target="_blank">Hasan Hüseyin Alav</a><br>
   <small> Temmuz 2022</small>
@@ -345,10 +345,10 @@ const changeToUpperCase = arr => {
   return newArr
 }
 
-const countries = ['Finland', 'Sweden', 'Norway', 'Denmark', 'Iceland']
+const countries = ['India', 'Sweden', 'Norway', 'Denmark', 'Iceland']
 console.log(changeToUpperCase(countries))
 
-// ["FINLAND", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
+// ["India", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
 ```
 
 ```js

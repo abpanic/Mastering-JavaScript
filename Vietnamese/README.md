@@ -52,7 +52,7 @@
     </a>
     <br>
     <sub>Tác giả:
-        <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+        <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
         <small> Tháng 1, 2020</small>
     </sub>
 <div>
@@ -536,7 +536,7 @@ Comment nhiều dòng:
 
 ```js
 /*
-  let location = 'Helsinki';
+  let location = 'Trivandrum';
   let age = 100;
   let isMarried = true;
   Đây là comment nhiều dòng

@@ -50,7 +50,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Janeiro, 2020</small>
 </sub>
 
@@ -472,7 +472,7 @@ Uma coleção de um ou mais caracteres entre duas aspas simples, aspas duplas, o
 'a'
 'Abhilash'
 "Abhilash"
-'Finland'
+'India'
 'JavaScript is a beautiful programming language'
 'I love teaching'
 'I hope you are enjoying the first Lesson'
@@ -541,7 +541,7 @@ Comentando em várias linhas:
 
 ```js
 /*
-  let location = 'Helsinki';
+  let location = 'Trivandrum';
   let age = 100;
   let isMarried = true;
   Isto é um comentário em linha única
@@ -610,8 +610,8 @@ O nomeDaVariavel é o nome que armazena diferente tipos de dados. Veja abaixo ex
 // Declarando diferentes variáveis de diferentes tipos de dados
 let firstName = 'Abhilash' // primeiro nome de uma pessoa
 let lastName = 'Panicker' //  ultimo nome de uma pessoa
-let country = 'Finland' // país
-let city = 'Helsinki' // capital da cidade
+let country = 'India' // país
+let city = 'Trivandrum' // capital da cidade
 let age = 100 // Idade
 let isMarried = true
 
@@ -619,7 +619,7 @@ console.log(firstName, lastName, country, city, age, isMarried)
 ```
 
 ```sh
-Abhilash Panicker Finland Helsinki 100 true
+Abhilash Panicker India Trivandrum 100 true
 ```
 
 ```js
@@ -637,12 +637,12 @@ console.log(gravity, boilingPoint, PI)
 
 ```js
 // Variáveis tambem podem ser declaradas em uma linha separadas por uma vírgula, entretanto eu recomento usar a separação por linha para facilitar a leitura do código
-let name = 'Abhilash', job = 'teacher', live = 'Finland'
+let name = 'Abhilash', job = 'Partner Technical Advisor', live = 'India'
 console.log(name, job, live)
 ```
 
 ```sh
-Abhilash teacher Finland
+Abhilash Partner Technical Advisor India
 ```
 
 Quando você executa o arquivo _index.html_ na pasta dia-1 você deve conseguir isto:

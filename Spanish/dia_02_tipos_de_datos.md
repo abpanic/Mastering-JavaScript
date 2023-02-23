@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -127,13 +127,13 @@ console.log(nums == numbers); // Falso
 let usuarioUno = {
   nombre: "Abhilash",
   papel: "teaching",
-  pais: "Finland",
+  pais: "India",
 };
 
 let usuarioDos = {
   nombre: "Abhilash",
   papel: "teaching",
-  pais: "Finland",
+  pais: "India",
 };
 
 console.log(usuarioUno == usuarioDos); // Falso
@@ -151,7 +151,7 @@ console.log(nums == numbers); // Verdadero
 let usuarioUno = {
   nombre: "Abhilash",
   papel: "teaching",
-  pais: "Finland",
+  pais: "India",
 };
 
 let userTwo = userOne;
@@ -272,10 +272,10 @@ Veamos algunos ejemplos de cadenas:
 let espacio = " "; // una cadena de espacio vacío
 let primerNombre = "Abhilash";
 let apellido = "Panicker";
-let pais = "Finland";
-let ciudad = "Helsinki";
+let pais = "India";
+let ciudad = "Trivandrum";
 let idioma = "JavaScript";
-let trabajo = "teacher";
+let trabajo = "Partner Technical Advisor";
 let cita = "The saying,'Seeing is Believing' is not correct in 2020.";
 let quotConBackTick = `The saying,'Seeing is Believing' is not correct in 2020.`;
 ```
@@ -305,10 +305,10 @@ Concatenar usando el operador de suma es una forma antigua. Esta forma de concat
 let espacio = " ";
 let primerNombre = "Abhilash";
 let apellido = "Panicker";
-let pais = "Finland";
-let ciudad = "Helsinki";
+let pais = "India";
+let ciudad = "Trivandrum";
 let idioma = "JavaScript";
-let trabajo = "teacher";
+let trabajo = "Partner Technical Advisor";
 let edad = 250;
 
 let nombreCompleto = primerNombre + espacio + apellido;
@@ -319,7 +319,7 @@ console.log(personInfoOne);
 ```
 
 ```sh
-Abhilash Panicker. Yo tengo 250v Finland
+Abhilash Panicker. Yo tengo 250v India
 ```
 
 #### Cadenas literales largas
@@ -329,7 +329,7 @@ Una cadena puede ser un solo carácter, un párrafo o una página. Si la longitu
 
 ```js
 const parrafo =
-  "Mi nombre es Abhilash Panicker. Vivo en Finlandia, Helsinki.\
+  "Mi nombre es Abhilash Panicker. Vivo en Indiaia, Trivandrum.\
 Soy profesora y me encanta enseñar. Enseño HTML, CSS, JavaScript, React, Redux, \
 Node.js, Python, Data Analysis y D3.js para cualquier persona interesada en aprender. \
 A fines de 2019, estaba pensando en expandir mi enseñanza y llegar a \
@@ -412,8 +412,8 @@ console.log(`La suma de ${a} y ${b} es ${a + b}`); // inyectando los datos diná
 let espacio = " ";
 let primerNombre = "Abhilash";
 let apellido = "Panicker";
-let pais = "Finland";
-let ciudad = "Helsinki";
+let pais = "India";
+let ciudad = "Trivandrum";
 let idioma = "JavaScript";
 let trabajo = "profesora";
 let edad = 250;
@@ -426,8 +426,8 @@ console.log(personaInfoTres);
 ```
 
 ```sh
-Soy Abhilash Panicker. Tengo 250 años. Vivo en  in Finland.
-Soy Abhilash Panicker. Vivo en Helsinki, Finland. Soy una profesora. Enseño JavaScript.
+Soy Abhilash Panicker. Tengo 250 años. Vivo en  in India.
+Soy Abhilash Panicker. Vivo en Trivandrum, India. Soy una profesora. Enseño JavaScript.
 ```
 
 Usando una plantilla de cadena o un método de interpolación de cadena, podemos agregar expresiones, que podrían ser un valor, o algunas operaciones (comparación, operaciones aritméticas, operación ternaria).
@@ -492,9 +492,9 @@ let firstName = "Abhilash";
 
 console.log(firstName.toUpperCase()); // Abhilash
 
-let country = "Finland";
+let country = "India";
 
-console.log(country.toUpperCase()); // FINLAND
+console.log(country.toUpperCase()); // India
 ```
 
 4. _toLowerCase()_: este método cambia la cadena a letras minúsculas.
@@ -508,9 +508,9 @@ let firstName = "Abhilash";
 
 console.log(firstName.toLowerCase()); // Abhilash
 
-let country = "Finland";
+let country = "India";
 
-console.log(country.toLowerCase()); // finland
+console.log(country.toLowerCase()); // India
 ```
 
 5. _substr()_: Se necesitan dos argumentos, el índice inicial y el número de caracteres para dividir.
@@ -519,7 +519,7 @@ console.log(country.toLowerCase()); // finland
 let string = "JavaScript";
 console.log(string.substr(4, 6)); // Script
 
-let country = "Finland";
+let country = "India";
 console.log(country.substr(3, 4)); // land
 ```
 
@@ -532,7 +532,7 @@ console.log(string.substring(0, 4)); // Java
 console.log(string.substring(4, 10)); // Script
 console.log(string.substring(4)); // Script
 
-let country = "Finland";
+let country = "India";
 
 console.log(country.substring(0, 3)); // Fin
 console.log(country.substring(3, 7)); // land
@@ -552,10 +552,10 @@ let firstName = "Abhilash";
 console.log(firstName.split()); // Cambiar a una matriz - > ["Abhilash"]
 console.log(firstName.split("")); // Dividir en una matriz en cada letra ->  ["A", "s", "a", "b", "e", "n", "e", "h"]
 
-let countries = "Finland, Sweden, Norway, Denmark, and Iceland";
+let countries = "India, Sweden, Norway, Denmark, and Iceland";
 
-console.log(countries.split(",")); // Dividir en cualquier matriz en coma -> ["Finland", " Sweden", " Norway", " Denmark", " and Iceland"]
-console.log(countries.split(", ")); //  ["Finland", "Sweden", "Norway", "Denmark", "and Iceland"]
+console.log(countries.split(",")); // Dividir en cualquier matriz en coma -> ["India", " Sweden", " Norway", " Denmark", " and Iceland"]
+console.log(countries.split(", ")); //  ["India", "Sweden", "Norway", "Denmark", "and Iceland"]
 ```
 
 8. _trim()_: Elimina el espacio final al principio o al final de una cadena.
@@ -591,7 +591,7 @@ console.log(string.includes("script")); // falso
 console.log(string.includes("java")); // falso
 console.log(string.includes("Java")); // verdadero
 
-let country = "Finland";
+let country = "India";
 
 console.log(country.includes("fin")); // falso
 console.log(country.includes("Fin")); // verdadero
@@ -609,7 +609,7 @@ string.replace(oldsubstring, newsubstring);
 let string = "30 Lessons Of JavaScript";
 console.log(string.replace("JavaScript", "Python")); // 30 Lessons Of Python
 
-let country = "Finland";
+let country = "India";
 console.log(country.replace("Fin", "Noman")); // Nomanland
 ```
 
@@ -686,7 +686,7 @@ let string = "30";
 console.log(string.concat("Lessons", "Of", "JavaScript")); // 30LessonsOfJavaScript
 
 let country = "Fin";
-console.log(country.concat("land")); // Finland
+console.log(country.concat("land")); // India
 ```
 
 16. _startsWith_: toma una subcadena como argumento y verifica si la cadena comienza con esa subcadena especificada. Devuelve un valor booleano (verdadero o falso).
@@ -703,7 +703,7 @@ console.log(string.startsWith("Love")); // verdadero
 console.log(string.startsWith("love")); // falso
 console.log(string.startsWith("world")); // falso
 
-let country = "Finland";
+let country = "India";
 
 console.log(country.startsWith("Fin")); // verdadero
 console.log(country.startsWith("fin")); // falso
@@ -723,7 +723,7 @@ console.log(string.endsWith("world")); // verdadero
 console.log(string.endsWith("love")); // falso
 console.log(string.endsWith("in the world")); // verdadero
 
-let country = "Finland";
+let country = "India";
 
 console.log(country.endsWith("land")); // verdadero
 console.log(country.endsWith("fin")); // falso
@@ -813,8 +813,8 @@ Para comprobar el tipo de datos de una determinada variable utilizamos el métod
 
 let firstName = 'Abhilash' // cadena
 let lastName = 'Panicker'   // cadena
-let pais = 'Finlandia'.    // cadena
-let ciudad = 'Helsinki'    // cadena
+let pais = 'Indiaia'.    // cadena
+let ciudad = 'Trivandrum'    // cadena
 let edad = 250             // numero, no es mi edad real, no te preocupes
 let trabajo                    // indefinido, porque no se asignó un valor
 

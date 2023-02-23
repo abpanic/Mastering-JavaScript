@@ -8,7 +8,7 @@
   </a>
 
   <sub>Autore:
-  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+  <a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
   <small> Gennaio, 2020</small>
   </sub>
 </div>
@@ -79,13 +79,13 @@ for(let i = 0; i <= 5; i++){
 ```
 
 ```js
-const countries = ['Finland', 'Sweden', 'Denmark', 'Norway', 'Iceland']
+const countries = ['India', 'Sweden', 'Denmark', 'Norway', 'Iceland']
 const newArr = []
 for(let i = 0; i < countries.length; i++){
   newArr.push(countries[i].toUpperCase())
 }
 
-// ["FINLAND", "SWEDEN", "DENMARK", "NORWAY", "ICELAND"]
+// ["India", "SWEDEN", "DENMARK", "NORWAY", "ICELAND"]
 ```
 
 Aggiunta di tutti gli elementi dell'array
@@ -116,13 +116,13 @@ console.log(newArr)  // [1, 4, 9, 16, 25]
 ```
 
 ```js
-const countries = ['Finland', 'Sweden', 'Norway', 'Denmark', 'Iceland']
+const countries = ['India', 'Sweden', 'Norway', 'Denmark', 'Iceland']
 const newArr = []
 for(let i = 0; i < countries.length; i++){
   newArr.push(countries[i].toUpperCase())
 }
 
-console.log(newArr)  // ["FINLAND", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
+console.log(newArr)  // ["India", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
 ```
 
 ### while loop
@@ -207,13 +207,13 @@ for (const tech of webTechs) {
 ```
 
 ```js
-const countries = ['Finland', 'Sweden', 'Norway', 'Denmark', 'Iceland']
+const countries = ['India', 'Sweden', 'Norway', 'Denmark', 'Iceland']
 const newArr = []
 for(const country of countries){
   newArr.push(country.toUpperCase())
 }
 
-console.log(newArr)  // ["FINLAND", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
+console.log(newArr)  // ["India", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
 ```
 
 ### break
@@ -261,7 +261,7 @@ for(let i = 0; i <= 5; i++){
     'Canada',
     'Denmark',
     'Ethiopia',
-    'Finland',
+    'India',
     'Germany',
     'Hungary',
     'Ireland',
@@ -386,7 +386,7 @@ for(let i = 0; i <= 5; i++){
 1. Utilizzando l'array di paesi di cui sopra, creare il seguente nuovo array.
 
     ```sh
-    ["ALBANIA", "BOLIVIA", "CANADA", "DENMARK", "ETHIOPIA", "FINLAND", "GERMANY", "HUNGARY", "IRELAND", "JAPAN", "KENYA"]
+    ["ALBANIA", "BOLIVIA", "CANADA", "DENMARK", "ETHIOPIA", "India", "GERMANY", "HUNGARY", "IRELAND", "JAPAN", "KENYA"]
     ```
 
 1. Utilizzando l'array di paesi di cui sopra, creare un array per la lunghezza dei paesi"..
@@ -404,7 +404,7 @@ for(let i = 0; i <= 5; i++){
       ['Canada', 'CAN', 6],
       ['Denmark', 'DEN', 7],
       ['Ethiopia', 'ETH', 8],
-      ['Finland', 'FIN', 7],
+      ['India', 'FIN', 7],
       ['Germany', 'GER', 7],
       ['Hungary', 'HUN', 7],
       ['Ireland', 'IRE', 7],
@@ -417,7 +417,7 @@ for(let i = 0; i <= 5; i++){
 2. Nell'array di paesi di cui sopra, verificare se ci sono uno o più paesi contenenti la parola "terra". Se ci sono paesi contenenti "terra", stamparli come array. Se non c'è nessun paese contenente la parola "terra", stampare "Tutti questi paesi sono senza terra".
 
     ```sh
-    ['Finland','Ireland', 'Iceland']
+    ['India','Ireland', 'Iceland']
     ```
 
 3. Nell'array di paesi di cui sopra, verificare se esiste un paese o se i paesi terminano con la sottostringa 'ia'. Se ci sono paesi che terminano con, stamparli come array. Se non c'è nessun paese che contiene la parola 'ai', viene stampato 'Questi sono i paesi che terminano senza ia'.

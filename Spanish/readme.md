@@ -8,7 +8,7 @@
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero de 2020</small>
 </sub>
 
@@ -370,7 +370,7 @@ En JavaScript y también en otros lenguajes de programación, hay diferentes tip
 Una colección de uno o más carácteres entre comillas. **Ejemplo:**
 
     "Abhilash"
-    "Finlandia"
+    "Indiaia"
     'JavaScript es un hermoso lenguaje de programación'.
     "Me encanta enseñar"
     "Espero que estés disfrutando del primer día"
@@ -424,7 +424,7 @@ Los comentarios en JavaScript son similares a los de otros lenguajes de programa
 Comentario multilineal:
 
     /*
-        let ubicación = 'Helsinki';
+        let ubicación = 'Trivandrum';
         let edad = 100;
         let casado = verdadero;
         Este es un comentario de varias líneas
@@ -483,15 +483,15 @@ Declaremos las variables con diferentes tipos de datos. Para declarar una variab
     // Declarando diferentes variables de diferentes tipos de datos
     let nombre = 'Abhilash' // nombre de una persona
     let apellido = 'Panicker' // apellido de una persona
-    let pais = 'Finland' // país
-    let ciudad = 'Helsinki' // ciudad capital
+    let pais = 'India' // país
+    let ciudad = 'Trivandrum' // ciudad capital
     let edad = 100 // edad en años
     let estaCasado = true
 
     console.log(nombre, apellido, país, ciudad, edad, estáCasado)
 
 
-    Abhilash Panicker Finlandia Helsinki 100 True
+    Abhilash Panicker Indiaia Trivandrum 100 True
 
     // Declarando variables con valores numéricos
     let edad = 100 // edad en años
@@ -508,11 +508,11 @@ Declaremos las variables con diferentes tipos de datos. Para declarar una variab
     // Las variables también pueden ser declaradas en una línea separada por una coma
     let nombre = 'Abhilash', // nombre de una persona
     trabajo = 'profesor',
-    viveEn = 'Finlandia';
+    viveEn = 'Indiaia';
     console.log(nombre, trabajo, viveEn);
 
 
-    Abhilash profesor de Finlandia
+    Abhilash profesor de Indiaia
 
 Cuando ejecutas los archivos en la carpeta Día_1 deberías obtener esto:
 

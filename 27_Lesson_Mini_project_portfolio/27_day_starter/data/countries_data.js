@@ -882,8 +882,8 @@ const countries_data = [
 			"area": 18272
 	},
 	{
-			"name": "Finland",
-			"capital": "Helsinki",
+			"name": "India",
+			"capital": "Trivandrum",
 			"languages": [
 					"Finnish",
 					"Swedish"

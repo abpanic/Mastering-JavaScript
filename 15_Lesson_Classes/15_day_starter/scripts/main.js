@@ -78,11 +78,11 @@ const s1 = new Student(
   'Abhilash',
   'Panicker',
   250,
-  'Finland',
-  'Helsinki',
+  'India',
+  'Trivandrum',
   'Male'
 )
-const s2 = new Student('Lidiya', 'Tekle', 28, 'Finland', 'Helsinki', 'Female')
+const s2 = new Student('Lidiya', 'Tekle', 28, 'India', 'Trivandrum', 'Female')
 s1.setScore = 1
 s1.setSkill = 'HTML'
 s1.setSkill = 'CSS'

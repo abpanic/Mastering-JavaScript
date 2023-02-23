@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -173,13 +173,13 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'India', 'Trivandrum')
 
 console.log(person1)
 ```
 
 ```sh
-Person {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "Finland", city: "Helsinki"}
+Person {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "India", city: "Trivandrum"}
 ```
 
 ### Default values with constructor
@@ -192,8 +192,8 @@ class Person {
     firstName = 'Abhilash',
     lastName = 'Panicker',
     age = 250,
-    country = 'Finland',
-    city = 'Helsinki'
+    country = 'India',
+    city = 'Trivandrum'
   ) {
     this.firstName = firstName
     this.lastName = lastName
@@ -204,15 +204,15 @@ class Person {
 }
 
 const person1 = new Person() // it will take the default values
-const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
+const person2 = new Person('Lidiya', 'Tekle', 28, 'India', 'Espoo')
 
 console.log(person1)
 console.log(person2)
 ```
 
 ```sh
-Person {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "Finland", city: "Helsinki"}
-Person {firstName: "Lidiya", lastName: "Tekle", age: 28, country: "Finland", city: "Espoo"}
+Person {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "India", city: "Trivandrum"}
+Person {firstName: "Lidiya", lastName: "Tekle", age: 28, country: "India", city: "Espoo"}
 ```
 
 ### Class methods
@@ -234,8 +234,8 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
-const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'India', 'Trivandrum')
+const person2 = new Person('Lidiya', 'Tekle', 28, 'India', 'Espoo')
 
 console.log(person1.getFullName())
 console.log(person2.getFullName())
@@ -267,8 +267,8 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
-const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'India', 'Trivandrum')
+const person2 = new Person('Lidiya', 'Tekle', 28, 'India', 'Espoo')
 
 console.log(person1.score)
 console.log(person2.score)
@@ -313,8 +313,8 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
-const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'India', 'Trivandrum')
+const person2 = new Person('Lidiya', 'Tekle', 28, 'India', 'Espoo')
 
 console.log(person1.getScore) // We do not need parenthesis to call a getter method
 console.log(person2.getScore)
@@ -363,8 +363,8 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
-const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'India', 'Trivandrum')
+const person2 = new Person('Lidiya', 'Tekle', 28, 'India', 'Espoo')
 
 person1.setScore = 1
 person1.setSkill = 'HTML'
@@ -432,8 +432,8 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
-const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'India', 'Trivandrum')
+const person2 = new Person('Lidiya', 'Tekle', 28, 'India', 'Espoo')
 const person3 = new Person('John', 'Doe', 50, 'Mars', 'Mars city')
 
 person1.setScore = 1
@@ -464,8 +464,8 @@ console.log(person3.getPersonInfo())
 ["HTML", "CSS", "JavaScript"]
 ["Planning", "Managing", "Organizing"]
 []
-Abhilash Panicker is 250. He lives Helsinki, Finland. He knows HTML, CSS and JavaScript
-Lidiya Tekle is 28. He lives Espoo, Finland. He knows Planning, Managing and Organizing
+Abhilash Panicker is 250. He lives Trivandrum, India. He knows HTML, CSS and JavaScript
+Lidiya Tekle is 28. He lives Espoo, India. He knows Planning, Managing and Organizing
 John Doe is 50. He lives Mars city, Mars.
 ```
 
@@ -569,7 +569,7 @@ class Student extends Person {
   }
 }
 
-const s1 = new Student('Abhilash', 'Panicker', 'Finland', 250, 'Helsinki')
+const s1 = new Student('Abhilash', 'Panicker', 'India', 250, 'Trivandrum')
 console.log(s1)
 console.log(s1.saySomething())
 console.log(s1.getFullName())
@@ -577,11 +577,11 @@ console.log(s1.getPersonInfo())
 ```
 
 ```sh
-Student {firstName: "Abhilash", lastName: "Panicker", age: "Finland", country: 250, city: "Helsinki", …}
+Student {firstName: "Abhilash", lastName: "Panicker", age: "India", country: 250, city: "Trivandrum", …}
 I am a child of the person class
 Abhilash Panicker
-Student {firstName: "Abhilash", lastName: "Panicker", age: "Finland", country: 250, city: "Helsinki", …}
-Abhilash Panicker is Finland. He lives Helsinki, 250.
+Student {firstName: "Abhilash", lastName: "Panicker", age: "India", country: 250, city: "Trivandrum", …}
+Abhilash Panicker is India. He lives Trivandrum, 250.
 ```
 
 ### Overriding methods
@@ -617,11 +617,11 @@ const s1 = new Student(
   'Abhilash',
   'Panicker',
   250,
-  'Finland',
-  'Helsinki',
+  'India',
+  'Trivandrum',
   'Male'
 )
-const s2 = new Student('Lidiya', 'Tekle', 28, 'Finland', 'Helsinki', 'Female')
+const s2 = new Student('Lidiya', 'Tekle', 28, 'India', 'Trivandrum', 'Female')
 s1.setScore = 1
 s1.setSkill = 'HTML'
 s1.setSkill = 'CSS'
@@ -644,16 +644,16 @@ console.log(s2.getPersonInfo())
 ```
 
 ```sh
-Student {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "Finland", city: "Helsinki", …}
-Student {firstName: "Lidiya", lastName: "Tekle", age: 28, country: "Finland", city: "Helsinki", …}
+Student {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "India", city: "Trivandrum", …}
+Student {firstName: "Lidiya", lastName: "Tekle", age: 28, country: "India", city: "Trivandrum", …}
 I am a child of the person class
 Abhilash Panicker
-Student {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "Finland", city: "Helsinki", …}
-Abhilash Panicker is 250. He lives in Helsinki, Finland. He knows HTML, CSS and JavaScript
+Student {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "India", city: "Trivandrum", …}
+Abhilash Panicker is 250. He lives in Trivandrum, India. He knows HTML, CSS and JavaScript
 I am a child of the person class
 Lidiya Tekle
-Student {firstName: "Lidiya", lastName: "Tekle", age: 28, country: "Finland", city: "Helsinki", …}
-Lidiya Tekle is 28. She lives in Helsinki, Finland. He knows Planning, Managing and Organizing
+Student {firstName: "Lidiya", lastName: "Tekle", age: 28, country: "India", city: "Trivandrum", …}
+Lidiya Tekle is 28. She lives in Trivandrum, India. He knows Planning, Managing and Organizing
 ```
 
 Now, the getPersonInfo method has been overridden and it identifies if the person is male or female.

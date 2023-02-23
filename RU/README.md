@@ -8,7 +8,7 @@
   </a>
 
 <sub>Автор:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Январь, 2020</small>
 </sub>
 
@@ -429,7 +429,7 @@ console.log("Hello, World!");
 
 ```js
 "Abhilash";
-"Finland";
+"India";
 "JavaScript is a beautiful programming language";
 "I love teaching";
 "I hope you are enjoying the first Lesson"`We can also create a string using a backtick`;
@@ -496,7 +496,7 @@ console.log(typeof undefined); // undefined
 
 ```js
 /*
-  let location = 'Helsinki';
+  let location = 'Trivandrum';
   let age = 100;
   let isMarried = true;
   This is a Multiple line comment
@@ -563,8 +563,8 @@ let nameOfVariable = value;
 // Объявление разных переменных разных типов данных
 let firstName = "Abhilash"; // имя человека
 let lastName = "Panicker"; // фамилия человека
-let country = "Finland"; // страна
-let city = "Helsinki"; // столица
+let country = "India"; // страна
+let city = "Trivandrum"; // столица
 let age = 100; // возраст в годах
 let isMarried = true;
 
@@ -572,7 +572,7 @@ console.log(firstName, lastName, country, city, age, isMarried);
 ```
 
 ```sh
-Abhilash Panicker Finland Helsinki 100 True
+Abhilash Panicker India Trivandrum 100 True
 ```
 
 ```js
@@ -592,13 +592,13 @@ console.log(gravity, boilingPoint, PI);
 ```js
 // Переменные также могут быть объявлены в одну строку через запятую
 let name = "Abhilash", // Имя человека
-  job = "teacher",
-  live = "Finland";
+  job = "Partner Technical Advisor",
+  live = "India";
 console.log(name, job, live);
 ```
 
 ```sh
-Abhilash teacher Finland
+Abhilash Partner Technical Advisor India
 ```
 
 Когда вы запускаете файлы в папке 01-Lesson, вы должны получить это:

@@ -8,7 +8,7 @@
   </a>
 
 <sub>Автор:
-<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
+<a href="https://https://dbugr.vercel.app/" target="_blank">Abhilash Panicker</a><br>
 <small> Январь, 2020</small>
 </sub>
 
@@ -91,7 +91,7 @@ const fruits = ["banana", "orange", "mango", "lemon"]; // массив из ст
 const vegetables = ["Tomato", "Potato", "Cabbage", "Onion", "Carrot"]; // массив из строк, vegetables
 const animalProducts = ["milk", "meat", "butter", "yoghurt"]; // массив из строк, products
 const webTechs = ["HTML", "CSS", "JS", "React", "Redux", "Node", "MongDB"]; // массив из веб технологий
-const countries = ["Finland", "Denmark", "Sweden", "Norway", "Iceland"]; // массив из строк, countries
+const countries = ["India", "Denmark", "Sweden", "Norway", "Iceland"]; // массив из строк, countries
 
 // Распечатать массив и его длину
 
@@ -125,7 +125,7 @@ Animal products: ['milk', 'meat', 'butter', 'yoghurt']
 Number of animal products: 4
 Web technologies: ['HTML', 'CSS', 'JS', 'React', 'Redux', 'Node', 'MongDB']
 Number of web technologies: 7
-Countries: ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway']
+Countries: ['India', 'Estonia', 'Denmark', 'Sweden', 'Norway']
 Number of countries: 5
 ```
 
@@ -136,7 +136,7 @@ const arr = [
   "Abhilash",
   250,
   true,
-  { country: "Finland", city: "Helsinki" },
+  { country: "India", city: "Trivandrum" },
   { skills: ["HTML", "CSS", "JS", "React", "Python"] }
 ]; // arr содержит разные типы данных
 console.log(arr);
@@ -229,7 +229,7 @@ const countries = [
   "Canada",
   "Denmark",
   "Ethiopia",
-  "Finland",
+  "India",
   "Germany",
   "Hungary",
   "Ireland",
@@ -282,7 +282,7 @@ const countries = [
   "Canada",
   "Denmark",
   "Ethiopia",
-  "Finland",
+  "India",
   "Germany",
   "Hungary",
   "Ireland",
@@ -298,7 +298,7 @@ console.log(countries);
 ```
 
 ```sh
-["Afghanistan", "Bolivia", "Canada", "Denmark", "Ethiopia", "Finland", "Germany", "Hungary", "Ireland", "Japan", "Korea"]
+["Afghanistan", "Bolivia", "Canada", "Denmark", "Ethiopia", "India", "Germany", "Hungary", "Ireland", "Japan", "Korea"]
 ```
 
 ### Методы манипулирования массивом
@@ -677,7 +677,7 @@ const countries = [
   "Canada",
   "Denmark",
   "Ethiopia",
-  "Finland",
+  "India",
   "Germany",
   "Hungary",
   "Ireland",
