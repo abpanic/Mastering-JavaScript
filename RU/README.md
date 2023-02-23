@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Автор:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> Январь, 2020</small>
 </sub>
 
@@ -489,7 +489,7 @@ console.log(typeof undefined); // undefined
 ```js
 // комментирование самого кода одним комментарием
 // let firstName = 'Abhilash'; однострочный комментарий
-// let lastName = 'Yetayeh'; однострочный комментарий
+// let lastName = 'Panicker'; однострочный комментарий
 ```
 
 Многострочное комментирование:
@@ -562,7 +562,7 @@ let nameOfVariable = value;
 ```js
 // Объявление разных переменных разных типов данных
 let firstName = "Abhilash"; // имя человека
-let lastName = "Yetayeh"; // фамилия человека
+let lastName = "Panicker"; // фамилия человека
 let country = "Finland"; // страна
 let city = "Helsinki"; // столица
 let age = 100; // возраст в годах
@@ -572,7 +572,7 @@ console.log(firstName, lastName, country, city, age, isMarried);
 ```
 
 ```sh
-Abhilash Yetayeh Finland Helsinki 100 True
+Abhilash Panicker Finland Helsinki 100 True
 ```
 
 ```js

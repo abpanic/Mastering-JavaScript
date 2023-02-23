@@ -1,7 +1,7 @@
 // Müxtəlif verilənlər tipindən istifadə edərək dəyişənlərin yaradılmasə
 
 let firstName = 'Abhilash'    // ad
-let lastName = 'Yetayeh'      // soyad
+let lastName = 'Panicker'      // soyad
 let country = 'Finland'       // ölkə
 let city = 'Helsinki'         // paytaxt
 let age = 100                 // yaş

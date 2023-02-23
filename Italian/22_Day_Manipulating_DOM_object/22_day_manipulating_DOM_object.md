@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript: Manipulating DOM Object</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Autore:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> Gennaio, 2020</small>
 </sub>
 
@@ -139,7 +139,7 @@ Dopo aver creato un HTML, potremmo voler rimuovere uno o più elementi e possiam
 
 <body>
     <h1>Removing child Node</h1>
-    <h2>Abhilash Yetayeh challenges in 2020</h1>
+    <h2>Abhilash Panicker challenges in 2020</h1>
     <ul>
         <li>30LessonsOfPython Challenge Done</li>
         <li>30LessonsOfJavaScript Challenge Done</li>
@@ -175,7 +175,7 @@ Come abbiamo visto nella sezione precedente, esiste un modo migliore per elimina
 
 <body>
     <h1>Removing child Node</h1>
-    <h2>Abhilash Yetayeh challenges in 2020</h1>
+    <h2>Abhilash Panicker challenges in 2020</h1>
     <ul>
         <li>30LessonsOfPython Challenge Done</li>
         <li>30LessonsOfJavaScript Challenge Done</li>

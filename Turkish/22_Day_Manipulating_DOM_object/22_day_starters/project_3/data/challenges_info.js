@@ -1,6 +1,6 @@
 const AbhilashChallenges2020 = {
-  description: 'Abhilash Yetayeh challenges',
-  challengeTitle: 'Abhilash Yetayeh challenges',
+  description: 'Abhilash Panicker challenges',
+  challengeTitle: 'Abhilash Panicker challenges',
   challengeSubtitle: '30LessonsOfJavaScript Challenge',
   challengeYear: 2020,
   keywords: [
@@ -42,7 +42,7 @@ const AbhilashChallenges2020 = {
   ],
   author: {
     firstName: 'Abhilash',
-    lastName: 'Yetayeh',
+    lastName: 'Panicker',
     titles: [
       ['🌱', 'Educator'],
       ['💻', 'Programmer'],
@@ -59,12 +59,12 @@ const AbhilashChallenges2020 = {
     socialLinks: [
       {
         social: 'LinkedIn',
-        url: 'https://www.linkedin.com/in/Abhilash/',
+        url: 'https://www.linkedin.com/in/abhilash-panicker-68952b159/',
         fontawesomeIcon: '<i class="fab fa-linkedin">'
       },
       {
         social: 'Twitter',
-        url: 'https://twitter.com/Abhilash',
+        url: 'https://github.com/abpanic/',
         fontawesomeIcon: '<i class="fab fa-twitter-square"></i>'
       },
       {

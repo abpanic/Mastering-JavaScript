@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Días de JavaScript: Tipos de Datos</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -271,7 +271,7 @@ Veamos algunos ejemplos de cadenas:
 ```js
 let espacio = " "; // una cadena de espacio vacío
 let primerNombre = "Abhilash";
-let apellido = "Yetayeh";
+let apellido = "Panicker";
 let pais = "Finland";
 let ciudad = "Helsinki";
 let idioma = "JavaScript";
@@ -291,7 +291,7 @@ console.log(nombreCompleto);
 ```
 
 ```sh
-Abhilash Yetayeh
+Abhilash Panicker
 ```
 
 Podemos concatenar cadenas de diferentes formas.
@@ -304,7 +304,7 @@ Concatenar usando el operador de suma es una forma antigua. Esta forma de concat
 // Declarar diferentes variables de diferentes tipos de datos
 let espacio = " ";
 let primerNombre = "Abhilash";
-let apellido = "Yetayeh";
+let apellido = "Panicker";
 let pais = "Finland";
 let ciudad = "Helsinki";
 let idioma = "JavaScript";
@@ -319,7 +319,7 @@ console.log(personInfoOne);
 ```
 
 ```sh
-Abhilash Yetayeh. Yo tengo 250v Finland
+Abhilash Panicker. Yo tengo 250v Finland
 ```
 
 #### Cadenas literales largas
@@ -329,7 +329,7 @@ Una cadena puede ser un solo carácter, un párrafo o una página. Si la longitu
 
 ```js
 const parrafo =
-  "Mi nombre es Abhilash Yetayeh. Vivo en Finlandia, Helsinki.\
+  "Mi nombre es Abhilash Panicker. Vivo en Finlandia, Helsinki.\
 Soy profesora y me encanta enseñar. Enseño HTML, CSS, JavaScript, React, Redux, \
 Node.js, Python, Data Analysis y D3.js para cualquier persona interesada en aprender. \
 A fines de 2019, estaba pensando en expandir mi enseñanza y llegar a \
@@ -411,7 +411,7 @@ console.log(`La suma de ${a} y ${b} es ${a + b}`); // inyectando los datos diná
 ```js
 let espacio = " ";
 let primerNombre = "Abhilash";
-let apellido = "Yetayeh";
+let apellido = "Panicker";
 let pais = "Finland";
 let ciudad = "Helsinki";
 let idioma = "JavaScript";
@@ -426,8 +426,8 @@ console.log(personaInfoTres);
 ```
 
 ```sh
-Soy Abhilash Yetayeh. Tengo 250 años. Vivo en  in Finland.
-Soy Abhilash Yetayeh. Vivo en Helsinki, Finland. Soy una profesora. Enseño JavaScript.
+Soy Abhilash Panicker. Tengo 250 años. Vivo en  in Finland.
+Soy Abhilash Panicker. Vivo en Helsinki, Finland. Soy una profesora. Enseño JavaScript.
 ```
 
 Usando una plantilla de cadena o un método de interpolación de cadena, podemos agregar expresiones, que podrían ser un valor, o algunas operaciones (comparación, operaciones aritméticas, operación ternaria).
@@ -812,7 +812,7 @@ Para comprobar el tipo de datos de una determinada variable utilizamos el métod
 // Declaremos diferentes tipos de datos
 
 let firstName = 'Abhilash' // cadena
-let lastName = 'Yetayeh'   // cadena
+let lastName = 'Panicker'   // cadena
 let pais = 'Finlandia'.    // cadena
 let ciudad = 'Helsinki'    // cadena
 let edad = 250             // numero, no es mi edad real, no te preocupes

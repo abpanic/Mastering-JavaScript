@@ -76,7 +76,7 @@ class Student extends Person {
 
 const s1 = new Student(
   'Abhilash',
-  'Yetayeh',
+  'Panicker',
   250,
   'Finland',
   'Helsinki',

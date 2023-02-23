@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript: JSON</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -43,7 +43,7 @@ JSON stands for JavaScript Object Notation. The JSON syntax is derived from Java
 "users":[
   {
     "firstName":"Abhilash",
-    "lastName":"Yetayeh",
+    "lastName":"Panicker",
     "age":250,
     "email":"asab@asb.com"
   },
@@ -188,7 +188,7 @@ const usersText = `{
 "users":[
   {
     "firstName":"Abhilash",
-    "lastName":"Yetayeh",
+    "lastName":"Panicker",
     "age":250,
     "email":"asab@asb.com"
   },
@@ -220,7 +220,7 @@ const usersText = `{
 "users":[
   {
     "firstName":"Abhilash",
-    "lastName":"Yetayeh",
+    "lastName":"Panicker",
     "age":250,
     "email":"asab@asb.com"
   },
@@ -440,7 +440,7 @@ Now, lets use the replacer as a filter. The user object has long list of keys bu
 ```js
 const user = {
   firstName: 'Abhilash',
-  lastName: 'Yetayeh',
+  lastName: 'Panicker',
   country: 'Finland',
   city: 'Helsinki',
   email: 'alex@alex.com',
@@ -457,7 +457,7 @@ console.log(txt)
 ```sh
 {
     "firstName": "Abhilash",
-    "lastName": "Yetayeh",
+    "lastName": "Panicker",
     "country": "Finland",
     "city": "Helsinki",
     "age": 250
@@ -474,7 +474,7 @@ let age = 250;
 let isMarried = true
 const student = {
   firstName:'Abhilash',
-  lastName:'Yetayehe',
+  lastName:'Panickere',
   age:250,
   isMarried:true,
   skills:['HTML', 'CSS', 'JS', 'React','Node', 'Python', ]

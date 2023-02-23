@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript: Document Object Model(DOM)</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -240,7 +240,7 @@ It value we assign is going to be a string of HTML elements.
   </head>
   <body>
     <div class="wrapper">
-        <h1>Abhilash Yetayeh challenges in 2020</h1>
+        <h1>Abhilash Panicker challenges in 2020</h1>
         <h2>30LessonsOfJavaScript Challenge</h2>
         <ul></ul>
     </div>
@@ -270,7 +270,7 @@ The innerHTML property can allow us also to remove all the children of a parent 
   </head>
   <body>
     <div class="wrapper">
-        <h1>Abhilash Yetayeh challenges in 2020</h1>
+        <h1>Abhilash Panicker challenges in 2020</h1>
         <h2>30LessonsOfJavaScript Challenge</h2>
         <ul>
             <li>30LessonsOfPython Challenge Done</li>
@@ -384,7 +384,7 @@ As you have notice, the properties of css when we use it in JavaScript is going 
   </head>
   <body>
     <div class="wrapper">
-        <h1>Abhilash Yetayeh challenges in 2020</h1>
+        <h1>Abhilash Panicker challenges in 2020</h1>
         <h2>30LessonsOfJavaScript Challenge</h2>
         <ul>
             <li>30LessonsOfPython Challenge Done</li>

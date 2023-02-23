@@ -44,15 +44,15 @@
 
 <div align="center">
     <h1> Học JavaScript trong 30 ngày: Giới thiệu</h1>
-    <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+    <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
         <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
     </a>
-    <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+    <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+        <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
     </a>
     <br>
     <sub>Tác giả:
-        <a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+        <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
         <small> Tháng 1, 2020</small>
     </sub>
 <div>
@@ -529,7 +529,7 @@ Có hai cách comment:
 ```js
 // comment chính nó là một comment 1 dòng
 // let firstName = 'Abhilash'; comment 1 dòng
-// let lastName = 'Yetayeh'; comment 1 dòng
+// let lastName = 'Panicker'; comment 1 dòng
 ```
 
 Comment nhiều dòng:

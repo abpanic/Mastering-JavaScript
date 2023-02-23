@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript: Error handling</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -54,7 +54,7 @@ try {
 
 ```js
 try {
-  let lastName = 'Yetayeh'
+  let lastName = 'Panicker'
   let fullName = fistName + ' ' + lastName
 } catch (err) {
   console.log(err)
@@ -68,7 +68,7 @@ ReferenceError: fistName is not defined
 
 ```js
 try {
-  let lastName = 'Yetayeh'
+  let lastName = 'Panicker'
   let fullName = fistName + ' ' + lastName
 } catch (err) {
   console.error(err) // we can use console.log() or console.error()
@@ -85,7 +85,7 @@ In any case it  will be executed
 The catch block take a parameter. It is common to pass e, err or error as a parameter to the catch block. This parameter is an object and it has name and message keys. Lets use the name and message.
 ```js
 try {
-  let lastName = 'Yetayeh'
+  let lastName = 'Panicker'
   let fullName = fistName + ' ' + lastName
 } catch (err) {
   console.log('Name of the error', err.name)

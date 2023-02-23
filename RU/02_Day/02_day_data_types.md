@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Автор:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> Январь, 2020</small>
 </sub>
 
@@ -271,7 +271,7 @@ console.log(randomNumRoundToFloor); // это даёт от 0 до 10
 ```js
 let space = " "; // Пусто - пробел
 let firstName = "Abhilash";
-let lastName = "Yetayeh";
+let lastName = "Panicker";
 let country = "Finland";
 let city = "Helsinki";
 let language = "JavaScript";
@@ -286,7 +286,7 @@ let job = "teacher";
 // Объявление разных переменных разных типов данных
 let space = " ";
 let firstName = "Abhilash";
-let lastName = "Yetayeh";
+let lastName = "Panicker";
 let country = "Finland";
 let city = "Helsinki";
 let language = "JavaScript";
@@ -299,7 +299,7 @@ console.log(fullName);
 ```
 
 ```sh
-Abhilash Yetayeh
+Abhilash Panicker
 ```
 
 Мы можем объединять строки разными способами.
@@ -312,7 +312,7 @@ Abhilash Yetayeh
 // Объявление разных переменных разных типов данных
 let space = " ";
 let firstName = "Abhilash";
-let lastName = "Yetayeh";
+let lastName = "Panicker";
 let country = "Finland";
 let city = "Helsinki";
 let language = "JavaScript";
@@ -326,7 +326,7 @@ console.log(personInfoOne);
 ```
 
 ```sh
-Abhilash Yetayeh. I am 250. I live in Finland
+Abhilash Panicker. I am 250. I live in Finland
 ```
 
 #### Длинные буквенные строки
@@ -337,7 +337,7 @@ Abhilash Yetayeh. I am 250. I live in Finland
 
 ```js
 const paragraph =
-  "My name is Abhilash Yetayeh. I live in Finland, Helsinki.\
+  "My name is Abhilash Panicker. I live in Finland, Helsinki.\
 I am a teacher and I love teaching. I teach HTML, CSS, JavaScript, React, Redux, \
 Node.js, Python, Data Analysis and D3.js for anyone who is interested to learn. \
 In the end of 2019, I was thinking to expand my teaching and to reach \
@@ -395,7 +395,7 @@ console.log(`The sum of ${a} and ${b} is ${a + b}`); // ввод данных д
 
 ```js
 let firstName = "Abhilash";
-let lastName = "Yetayeh";
+let lastName = "Panicker";
 let country = "Finland";
 let city = "Helsinki";
 let language = "JavaScript";
@@ -410,8 +410,8 @@ console.log(personInfoThree);
 ```
 
 ```sh
-I am Abhilash Yetayeh. I am 250. I live in Finland.
-I am Abhilash Yetayeh. I live in Helsinki, Finland. I am a teacher. I teach JavaScript.
+I am Abhilash Panicker. I am 250. I live in Finland.
+I am Abhilash Panicker. I live in Helsinki, Finland. I am a teacher. I teach JavaScript.
 ```
 
 Используя шаблон строки или метод интерполяции строки, мы можем добавить выражение, которое может быть значением или некоторыми операциями (сравнение, арифметические операции, троичные операции).
@@ -794,7 +794,7 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
 // Давайте объявим разные типы данных
 
 let firstName = "Abhilash"; // string
-let lastName = "Yetayeh"; // string
+let lastName = "Panicker"; // string
 let country = "Finland"; // string
 let city = "Helsinki"; // string
 let age = 250; // number, это не мой настоящий возраст, не переживай

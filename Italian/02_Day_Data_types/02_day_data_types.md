@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript: Data Types</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
   <sub>Autore:
-  <a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
   <small> Gennaio, 2020</small>
   </sub>
 </div>
@@ -270,7 +270,7 @@ Le stringhe sono testi, che si trovano sotto le virgolette  **_singole_**, **_do
 ```js
 let space = ' '           // an empty space string
 let firstName = 'Abhilash'
-let lastName = 'Yetayeh'
+let lastName = 'Panicker'
 let country = 'Finland'
 let city = 'Helsinki'
 let language = 'JavaScript'
@@ -290,7 +290,7 @@ console.log(fullName);
 ```
 
 ```sh
-Abhilash Yetayeh
+Abhilash Panicker
 ```
 
 Possiamo concatenare le stringhe in diversi modi.
@@ -303,7 +303,7 @@ La concatenazione con l'operatore di addizione è un vecchio metodo. Questo modo
 // Declaring different variables of different data types
 let space = ' '
 let firstName = 'Abhilash'
-let lastName = 'Yetayeh'
+let lastName = 'Panicker'
 let country = 'Finland'
 let city = 'Helsinki'
 let language = 'JavaScript'
@@ -318,7 +318,7 @@ console.log(personInfoOne)
 ```
 
 ```sh
-Abhilash Yetayeh. I am 250. I live in Finland
+Abhilash Panicker. I am 250. I live in Finland
 ```
 
 #### Stringhe Letterali Lunghe
@@ -328,7 +328,7 @@ Una stringa può essere un singolo carattere, un paragrafo o una pagina. Se la l
 **Esempio:**
 
 ```js
-const paragraph = "My name is Abhilash Yetayeh. I live in Finland, Helsinki.\
+const paragraph = "My name is Abhilash Panicker. I live in Finland, Helsinki.\
 I am a teacher and I love teaching. I teach HTML, CSS, JavaScript, React, Redux, \
 Node.js, Python, Data Analysis and D3.js for anyone who is interested to learn. \
 In the end of 2019, I was thinking to expand my teaching and to reach \
@@ -402,7 +402,7 @@ console.log(`The sum of ${a} and ${b} is ${a + b}`) // injecting the data dynami
 
 ```js
 let firstName = 'Abhilash'
-let lastName = 'Yetayeh'
+let lastName = 'Panicker'
 let country = 'Finland'
 let city = 'Helsinki'
 let language = 'JavaScript'
@@ -417,8 +417,8 @@ console.log(personInfoThree)
 ```
 
 ```sh
-I am Abhilash Yetayeh. I am 250. I live in Finland.
-I am Abhilash Yetayeh. I live in Helsinki, Finland. I am a teacher. I teach JavaScript.
+I am Abhilash Panicker. I am 250. I live in Finland.
+I am Abhilash Panicker. I live in Helsinki, Finland. I am a teacher. I teach JavaScript.
 ```
 
 Utilizzando un modello di stringa o un metodo di interpolazione delle stringhe, si possono aggiungere espressioni, che possono essere un valore o alcune operazioni (confronto, operazioni aritmetiche, operazioni ternarie).
@@ -801,7 +801,7 @@ Per verificare il tipo di dati di una certa variabile si utilizza il metodo _typ
 // Let's declare different data types
 
 let firstName = 'Abhilash'      // string
-let lastName = 'Yetayeh'        // string
+let lastName = 'Panicker'        // string
 let country = 'Finland'         // string
 let city = 'Helsinki'           // string
 let age = 250                   // number, it is not my real age, do not worry about it

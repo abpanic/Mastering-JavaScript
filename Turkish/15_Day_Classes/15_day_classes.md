@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript: Classes</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -124,13 +124,13 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Yetayeh')
+const person1 = new Person('Abhilash', 'Panicker')
 
 console.log(person1)
 ```
 
 ```sh
-Person {firstName: "Abhilash", lastName: "Yetayeh"}
+Person {firstName: "Abhilash", lastName: "Panicker"}
 ```
 
 En başta da belirttiğimiz gibi bir sınıf oluşturduğumuzda, sınıfı kullanarak birçok nesne oluşturabiliriz. Şimdi, Person sınıfını kullanarak birden fazla kişi nesnesi oluşturalım.
@@ -144,9 +144,9 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Yetayeh')
+const person1 = new Person('Abhilash', 'Panicker')
 const person2 = new Person('Lidiya', 'Tekle')
-const person3 = new Person('Abraham', 'Yetayeh')
+const person3 = new Person('Abraham', 'Panicker')
 
 console.log(person1)
 console.log(person2)
@@ -154,9 +154,9 @@ console.log(person3)
 ```
 
 ```sh
-Person {firstName: "Abhilash", lastName: "Yetayeh"}
+Person {firstName: "Abhilash", lastName: "Panicker"}
 Person {firstName: "Lidiya", lastName: "Tekle"}
-Person {firstName: "Abraham", lastName: "Yetayeh"}
+Person {firstName: "Abraham", lastName: "Panicker"}
 ```
 
 Person sınıfını kullanarak 3 kişi nesnesi oluşturduk. Gördüğünüz gibi sınıfımızda çok fazla özellik yok,hadi biraz daha sınıfımızın içerisine özellik ekleyelim.
@@ -172,13 +172,13 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Yetayeh', 250, 'Finland', 'Helsinki')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
 
 console.log(person1)
 ```
 
 ```sh
-Person {firstName: "Abhilash", lastName: "Yetayeh", age: 250, country: "Finland", city: "Helsinki"}
+Person {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "Finland", city: "Helsinki"}
 ```
 
 ### Constructor ile varsayılan değerler
@@ -189,7 +189,7 @@ Constructor fonksiyonun özellikleri,diğer normal fonksiyonlar gibi bir değere
 class Person {
   constructor(
     firstName = 'Abhilash',
-    lastName = 'Yetayeh',
+    lastName = 'Panicker',
     age = 250,
     country = 'Finland',
     city = 'Helsinki'
@@ -210,7 +210,7 @@ console.log(person2)
 ```
 
 ```sh
-Person {firstName: "Abhilash", lastName: "Yetayeh", age: 250, country: "Finland", city: "Helsinki"}
+Person {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "Finland", city: "Helsinki"}
 Person {firstName: "Lidiya", lastName: "Tekle", age: 28, country: "Finland", city: "Espoo"}
 ```
 
@@ -233,7 +233,7 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Yetayeh', 250, 'Finland', 'Helsinki')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
 const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
 
 console.log(person1.getFullName())
@@ -241,7 +241,7 @@ console.log(person2.getFullName())
 ```
 
 ```sh
-Abhilash Yetayeh
+Abhilash Panicker
 test.js:19 Lidiya Tekle
 ```
 
@@ -266,7 +266,7 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Yetayeh', 250, 'Finland', 'Helsinki')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
 const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
 
 console.log(person1.score)
@@ -312,7 +312,7 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Yetayeh', 250, 'Finland', 'Helsinki')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
 const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
 
 console.log(person1.getScore) // We do not need parenthesis to call a getter method
@@ -362,7 +362,7 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Yetayeh', 250, 'Finland', 'Helsinki')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
 const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
 
 person1.setScore = 1
@@ -431,7 +431,7 @@ class Person {
   }
 }
 
-const person1 = new Person('Abhilash', 'Yetayeh', 250, 'Finland', 'Helsinki')
+const person1 = new Person('Abhilash', 'Panicker', 250, 'Finland', 'Helsinki')
 const person2 = new Person('Lidiya', 'Tekle', 28, 'Finland', 'Espoo')
 const person3 = new Person('John', 'Doe', 50, 'Mars', 'Mars city')
 
@@ -463,7 +463,7 @@ console.log(person3.getPersonInfo())
 ["HTML", "CSS", "JavaScript"]
 ["Planning", "Managing", "Organizing"]
 []
-Abhilash Yetayeh is 250. He lives Helsinki, Finland. He knows HTML, CSS and JavaScript
+Abhilash Panicker is 250. He lives Helsinki, Finland. He knows HTML, CSS and JavaScript
 Lidiya Tekle is 28. He lives Espoo, Finland. He knows Planning, Managing and Organizing
 John Doe is 50. He lives Mars city, Mars.
 ```
@@ -569,7 +569,7 @@ class Student extends Person {
   }
 }
 
-const s1 = new Student('Abhilash', 'Yetayeh', 'Finland', 250, 'Helsinki')
+const s1 = new Student('Abhilash', 'Panicker', 'Finland', 250, 'Helsinki')
 console.log(s1)
 console.log(s1.saySomething())
 console.log(s1.getFullName())
@@ -577,11 +577,11 @@ console.log(s1.getPersonInfo())
 ```
 
 ```sh
-Student {firstName: "Abhilash", lastName: "Yetayeh", age: "Finland", country: 250, city: "Helsinki", …}
+Student {firstName: "Abhilash", lastName: "Panicker", age: "Finland", country: 250, city: "Helsinki", …}
 I am a child of the person class
-Abhilash Yetayeh
-Student {firstName: "Abhilash", lastName: "Yetayeh", age: "Finland", country: 250, city: "Helsinki", …}
-Abhilash Yetayeh is Finland. He lives Helsinki, 250.
+Abhilash Panicker
+Student {firstName: "Abhilash", lastName: "Panicker", age: "Finland", country: 250, city: "Helsinki", …}
+Abhilash Panicker is Finland. He lives Helsinki, 250.
 ```
 
 ### Overriding method
@@ -615,7 +615,7 @@ class Student extends Person {
 
 const s1 = new Student(
   'Abhilash',
-  'Yetayeh',
+  'Panicker',
   250,
   'Finland',
   'Helsinki',
@@ -644,12 +644,12 @@ console.log(s2.getPersonInfo())
 ```
 
 ```sh
-Student {firstName: "Abhilash", lastName: "Yetayeh", age: 250, country: "Finland", city: "Helsinki", …}
+Student {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "Finland", city: "Helsinki", …}
 Student {firstName: "Lidiya", lastName: "Tekle", age: 28, country: "Finland", city: "Helsinki", …}
 I am a child of the person class
-Abhilash Yetayeh
-Student {firstName: "Abhilash", lastName: "Yetayeh", age: 250, country: "Finland", city: "Helsinki", …}
-Abhilash Yetayeh is 250. He lives in Helsinki, Finland. He knows HTML, CSS and JavaScript
+Abhilash Panicker
+Student {firstName: "Abhilash", lastName: "Panicker", age: 250, country: "Finland", city: "Helsinki", …}
+Abhilash Panicker is 250. He lives in Helsinki, Finland. He knows HTML, CSS and JavaScript
 I am a child of the person class
 Lidiya Tekle
 Student {firstName: "Lidiya", lastName: "Tekle", age: 28, country: "Finland", city: "Helsinki", …}

@@ -42,15 +42,15 @@
 
 <div align="center">
   <h1> 30 Dias de JavaScript: Introdução</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> Janeiro, 2020</small>
 </sub>
 
@@ -534,7 +534,7 @@ Existe dois modos de comentar:
 ```js
 // Comentando o código com um único comentário
 // let firstName = 'Abhilash'; Comentando em linha única_
-// let lastName = 'Yetayeh'; Comentando em linha única_
+// let lastName = 'Panicker'; Comentando em linha única_
 ```
 
 Comentando em várias linhas:
@@ -609,7 +609,7 @@ O nomeDaVariavel é o nome que armazena diferente tipos de dados. Veja abaixo ex
 ```js
 // Declarando diferentes variáveis de diferentes tipos de dados
 let firstName = 'Abhilash' // primeiro nome de uma pessoa
-let lastName = 'Yetayeh' //  ultimo nome de uma pessoa
+let lastName = 'Panicker' //  ultimo nome de uma pessoa
 let country = 'Finland' // país
 let city = 'Helsinki' // capital da cidade
 let age = 100 // Idade
@@ -619,7 +619,7 @@ console.log(firstName, lastName, country, city, age, isMarried)
 ```
 
 ```sh
-Abhilash Yetayeh Finland Helsinki 100 true
+Abhilash Panicker Finland Helsinki 100 true
 ```
 
 ```js

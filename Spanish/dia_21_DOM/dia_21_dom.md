@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Días de JavaScript: Document Object Model(DOM)</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -238,7 +238,7 @@ El valor que asignemos será una cadena de elementos HTML.
   </head>
   <body>
     <div class="wrapper">
-      <h1>Abhilash Yetayeh desafíos en 2020</h1>
+      <h1>Abhilash Panicker desafíos en 2020</h1>
       <h2>Reto 30LessonsOfJavaScript</h2>
       <ul></ul>
     </div>
@@ -268,7 +268,7 @@ La propiedad innerHTML puede permitirnos también eliminar todos los hijos de un
   </head>
   <body>
     <div class="wrapper">
-      <h1>Abhilash Yetayeh challenges in 2020</h1>
+      <h1>Abhilash Panicker challenges in 2020</h1>
       <h2>30LessonsOfJavaScript Challenge</h2>
       <ul>
         <li>30LessonsOfPython Challenge Done</li>
@@ -382,7 +382,7 @@ Como has notado, las propiedades de css cuando lo usamos en JavaScript va a ser 
   </head>
   <body>
     <div class="wrapper">
-      <h1>Abhilash Yetayeh retos en 2020</h1>
+      <h1>Abhilash Panicker retos en 2020</h1>
       <h2>Reto 30LessonsOfJavaScript</h2>
       <ul>
         <li>Reto 30LessonsOfPython Realizado</li>

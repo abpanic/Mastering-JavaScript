@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript: Booleans, Operators, Date</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
   <sub>Autore:
-  <a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
   <small> Gennaio, 2020</small>
   </sub>
 </div>
@@ -585,11 +585,11 @@ console.log(`${date}/${month}/${year} ${hours}:${minutes}`) // 4/1/2020 0:56
 
     ```js
     let firstName = 'Abhilash'
-    let lastName = 'Yetayeh'
+    let lastName = 'Panicker'
     ```
 
     ```sh
-    Il tuo nome, Abhilash, è più lungo del tuo cognome, Yetayeh
+    Il tuo nome, Abhilash, è più lungo del tuo cognome, Panicker
     ```
 
 1. Dichiarare due variabili _myAge_ e _yourAge_ e assegnare loro i valori iniziali myAge e yourAge.

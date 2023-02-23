@@ -497,7 +497,7 @@ console.log(typeof undefined); // undefined
 ```js
 // 한 줄 주석으로 코드 자체에 주석 달기
 // let firstName = 'Abhilash'; 한 줄 주석
-// let lastName = 'Yetayeh'; 한 줄 주석
+// let lastName = 'Panicker'; 한 줄 주석
 ```
 
 여러 줄 주석:
@@ -570,7 +570,7 @@ let nameOfVariable = value;
 ```js
 // 다른 자료형을 가지고 있는 변수 선언
 let firstName = 'Abhilash'; // 이름
-let lastName = 'Yetayeh'; // 성
+let lastName = 'Panicker'; // 성
 let country = 'Finland'; // 나라
 let city = 'Helsinki'; // 수도
 let age = 100; // 나이
@@ -580,7 +580,7 @@ console.log(firstName, lastName, country, city, age, isMarried);
 ```
 
 ```sh
-Abhilash Yetayeh Finland Helsinki 100 true
+Abhilash Panicker Finland Helsinki 100 true
 ```
 
 ```js

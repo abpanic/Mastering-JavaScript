@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Автор:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> Январь, 2020</small>
 </sub>
 
@@ -598,11 +598,11 @@ console.log(`${date}/${month}/${year} ${hours}:${minutes}`); // 4/1/2020 0:56
 
     ```js
     let firstName = "Abhilash";
-    let lastName = "Yetayeh";
+    let lastName = "Panicker";
     ```
 
     ```sh
-    Твоё имя, Abhilash длиннее твоей фамилии, Yetayeh
+    Твоё имя, Abhilash длиннее твоей фамилии, Panicker
     ```
 
 12. Объявите две переменные _myAge_ и _yourAge_ и присвойте им начальные значения, myAge и yourAge.

@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Días de JavaScript: Funciones</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero, 2020</small>
 </sub>
 
@@ -106,7 +106,7 @@ addTwoNumbers(); // una función tiene que ser llamada por su nombre para ser ej
 ```js
 function printFullName() {
   let firstName = "Abhilash";
-  let lastName = "Yetayeh";
+  let lastName = "Panicker";
   let space = " ";
   let fullName = firstName + space + lastName;
   console.log(fullName);
@@ -122,7 +122,7 @@ La función también puede devolver valores, si una función no devuelve valores
 ```js
 function printFullName() {
   let firstName = "Abhilash";
-  let lastName = "Yetayeh";
+  let lastName = "Panicker";
   let space = " ";
   let fullName = firstName + space + lastName;
   return fullName;
@@ -191,7 +191,7 @@ console.log(sumTwoNumbers(10, 20));
 function printFullName(firstName, lastName) {
   return `${firstName} ${lastName}`;
 }
-console.log(printFullName("Abhilash", "Yetayeh"));
+console.log(printFullName("Abhilash", "Panicker"));
 ```
 
 ### Función con muchos parámetros
@@ -380,7 +380,7 @@ const printFullName = (firstName, lastName) => {
   return `${firstName} ${lastName}`;
 };
 
-console.log(printFullName("Abhilash", "Yetayeh"));
+console.log(printFullName("Abhilash", "Panicker"));
 ```
 
 La función anterior solo tiene la declaración de return, por lo tanto, podemos retornar explícitamente de la siguiente manera.
@@ -388,7 +388,7 @@ La función anterior solo tiene la declaración de return, por lo tanto, podemos
 ```js
 const printFullName = (firstName, lastName) => `${firstName} ${lastName}`;
 
-console.log(printFullName("Abhilash", "Yetayeh"));
+console.log(printFullName("Abhilash", "Panicker"));
 ```
 
 ### Función con parámetros por defecto
@@ -420,7 +420,7 @@ console.log(greetings("Abhilash"));
 ```
 
 ```js
-function generateFullName(firstName = "Abhilash", lastName = "Yetayeh") {
+function generateFullName(firstName = "Abhilash", lastName = "Panicker") {
   let space = " ";
   let fullName = firstName + space + lastName;
   return fullName;
@@ -476,7 +476,7 @@ console.log(greetings("Abhilash"));
 ```
 
 ```js
-const generateFullName = (firstName = "Abhilash", lastName = "Yetayeh") => {
+const generateFullName = (firstName = "Abhilash", lastName = "Panicker") => {
   let space = " ";
   let fullName = firstName + space + lastName;
   return fullName;

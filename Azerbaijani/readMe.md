@@ -42,15 +42,15 @@
 
 <div align="center">
   <h1> 30 Günlük JavaScript: Giriş</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> Yanvar, 2020</small>
 </sub>
 
@@ -520,7 +520,7 @@ Bildiyimiz kimi JavaScript-də şərh yazmaq digər proqramlaşdırma dillərin�
 
 ```js
 // let firstName = 'Abhilash'; tək sətirli şərh
-// let lastName = 'Yetayeh'; tək sətirli şərh
+// let lastName = 'Panicker'; tək sətirli şərh
 ```
 
 Çoxsətirli şərhlər:
@@ -594,7 +594,7 @@ let nameOfVariable = value
 ```js
 // Müxtəlif verilənlər tipindən istifadə edərək dəyişənlərin yaradılmasə
 let firstName = 'Abhilash'    // ad
-let lastName = 'Yetayeh'      // soyad
+let lastName = 'Panicker'      // soyad
 let country = 'Finland'       // ölkə
 let city = 'Helsinki'         // paytaxt
 let age = 100                 // yaş
@@ -604,7 +604,7 @@ console.log(firstName, lastName, country, city, age, isMarried)
 ```
 
 ```sh
-Abhilash Yetayeh Finland Helsinki 100 true
+Abhilash Panicker Finland Helsinki 100 true
 ```
 
 ```js

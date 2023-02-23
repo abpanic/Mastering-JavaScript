@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Días de JavaScript</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Autor:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> Enero de 2020</small>
 </sub>
 
@@ -419,7 +419,7 @@ Los comentarios en JavaScript son similares a los de otros lenguajes de programa
 
         // comentando el código mismo con un solo comentario
         // let nombre = 'Abhilash'; comentario de una sola línea
-        // let apellido = 'Yetayeh'; comentario de una sola línea
+        // let apellido = 'Panicker'; comentario de una sola línea
 
 Comentario multilineal:
 
@@ -482,7 +482,7 @@ Declaremos las variables con diferentes tipos de datos. Para declarar una variab
 
     // Declarando diferentes variables de diferentes tipos de datos
     let nombre = 'Abhilash' // nombre de una persona
-    let apellido = 'Yetayeh' // apellido de una persona
+    let apellido = 'Panicker' // apellido de una persona
     let pais = 'Finland' // país
     let ciudad = 'Helsinki' // ciudad capital
     let edad = 100 // edad en años
@@ -491,7 +491,7 @@ Declaremos las variables con diferentes tipos de datos. Para declarar una variab
     console.log(nombre, apellido, país, ciudad, edad, estáCasado)
 
 
-    Abhilash Yetayeh Finlandia Helsinki 100 True
+    Abhilash Panicker Finlandia Helsinki 100 True
 
     // Declarando variables con valores numéricos
     let edad = 100 // edad en años

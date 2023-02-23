@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Günde JavaScript: Destructuring ve Spreading</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
       <sub>Çevirmen:
   <a href="https://github.com/guvenkarabulut" target="_blank">Güven Karabulut</a><br>
   <small> Aralık, 2022</small>
@@ -269,7 +269,7 @@ console.log(calculatePerimeter(rect)) // 60
 //Başka örnek
 const person = {
   firstName: 'Abhilash',
-  lastName: 'Yetayeh',
+  lastName: 'Panicker',
   age: 250,
   country: 'Finland',
   job: 'Instructor and Developer',
@@ -339,7 +339,7 @@ const getPersonInfo = ({
 }
 console.log(getPersonInfo(person))
 /*
-Abhilash Yetayeh lives in Finland. He is  250 years old. He is an Instructor and Developer. He teaches HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Python and D3.js. He speaks Amharic, English and a little bit of Suomi(Finnish)
+Abhilash Panicker lives in Finland. He is  250 years old. He is an Instructor and Developer. He teaches HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Python and D3.js. He speaks Amharic, English and a little bit of Suomi(Finnish)
 */
 ```
 

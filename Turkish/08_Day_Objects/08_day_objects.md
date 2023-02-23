@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Günde Javascript: Objects - Nesneler</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <sub>Çevirmen:
   <a href="https://github.com/hsynalv" target="_blank">Hasan Hüseyin Alav</a><br>
   <small> Temmuz 2022</small>
@@ -206,7 +206,7 @@ const person = {}
 ```
 const person = {
   firstName: 'Abhilash',
-  lastName: 'Yetayeh',
+  lastName: 'Panicker',
   age: 250,
   country: 'Finland',
   city: 'Helsinki',
@@ -235,7 +235,7 @@ Nesnenin değerlerine iki yöntem kullanarak erişebiliriz:
 ```js
 const person = {
   firstName: 'Abhilash',
-  lastName: 'Yetayeh',
+  lastName: 'Panicker',
   age: 250,
   country: 'Finland',
   city: 'Helsinki',
@@ -279,7 +279,7 @@ console.log(person['phone number'])
 ```js
 const person = {
   firstName: 'Abhilash',
-  lastName: 'Yetayeh',
+  lastName: 'Panicker',
   age: 250,
   country: 'Finland',
   city: 'Helsinki',
@@ -299,7 +299,7 @@ const person = {
 }
 
 console.log(person.getFullName())
-// Abhilash Yetayeh
+// Abhilash Panicker
 ```
 
 ### Object için yeni bir anahtar değer (key) oluşturma
@@ -311,7 +311,7 @@ nesne de yeni key'ler oluşturabilme
 ```js
 const person = {
   firstName: 'Abhilash',
-  lastName: 'Yetayeh',
+  lastName: 'Panicker',
   age: 250,
   country: 'Finland',
   city: 'Helsinki',
@@ -352,7 +352,7 @@ console.log(person.getPersonInfo())
 ```
 
 ```sh
-Abhilash Yetayeh is a teacher.
+Abhilash Panicker is a teacher.
 He lives in Finland.
 He teaches HTML, CSS, JavaScript, React, Node, MongoDB, Python, D3.js, Meteor, and SasS.
 ```

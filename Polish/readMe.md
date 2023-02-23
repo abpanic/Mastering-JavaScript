@@ -37,15 +37,15 @@
 
 <div align="center">
   <h1> 30 Lessons Of JavaScript: Introduction</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -526,7 +526,7 @@ There are two ways of commenting:
 ```js
 // commenting the code itself with a single comment
 // let firstName = 'Abhilash'; single line comment
-// let lastName = 'Yetayeh'; single line comment
+// let lastName = 'Panicker'; single line comment
 ```
 
 Multiline commenting:
@@ -601,7 +601,7 @@ The nameOfVriable is the name that stores different data of value. See below for
 ```js
 // Declaring different variables of different data types
 let firstName = "Abhilash"; // first name of a person
-let lastName = "Yetayeh"; // last name of a person
+let lastName = "Panicker"; // last name of a person
 let country = "Finland"; // country
 let city = "Helsinki"; // capital city
 let age = 100; // age in years
@@ -611,7 +611,7 @@ console.log(firstName, lastName, country, city, age, isMarried);
 ```
 
 ```sh
-Abhilash Yetayeh Finland Helsinki 100 true
+Abhilash Panicker Finland Helsinki 100 true
 ```
 
 ```js

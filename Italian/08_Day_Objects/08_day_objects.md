@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Lessons Of JavaScript: Objects</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
   <sub>Autore:
-  <a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
   <small> Gennaio, 2020</small>
   </sub>
 </div>
@@ -203,7 +203,7 @@ console.log(rectangle) // {length: 20, width: 20}
 
 const person = {
   firstName: 'Abhilash',
-  lastName: 'Yetayeh',
+  lastName: 'Panicker',
   age: 250,
   country: 'Finland',
   city: 'Helsinki',
@@ -232,7 +232,7 @@ Possiamo accedere ai valori degli oggetti utilizzando due metodi:
 ```js
 const person = {
   firstName: 'Abhilash',
-  lastName: 'Yetayeh',
+  lastName: 'Panicker',
   age: 250,
   country: 'Finland',
   city: 'Helsinki',
@@ -276,7 +276,7 @@ Ora, l'oggetto persona ha le proprietà getFullName. Il metodo getFullName è un
 ```js
 const person = {
   firstName: 'Abhilash',
-  lastName: 'Yetayeh',
+  lastName: 'Panicker',
   age: 250,
   country: 'Finland',
   city: 'Helsinki',
@@ -296,7 +296,7 @@ const person = {
 }
 
 console.log(person.getFullName())
-// Abhilash Yetayeh
+// Abhilash Panicker
 ```
 
 ### Impostare nuove chiavi per un oggetto
@@ -308,7 +308,7 @@ Impostazione di nuove chiavi in un oggetto
 ```js
 const person = {
   firstName: 'Abhilash',
-  lastName: 'Yetayeh',
+  lastName: 'Panicker',
   age: 250,
   country: 'Finland',
   city: 'Helsinki',
@@ -349,7 +349,7 @@ console.log(person.getPersonInfo())
 ```
 
 ```sh
-Abhilash Yetayeh is a teacher.
+Abhilash Panicker is a teacher.
 He lives in Finland.
 He teaches HTML, CSS, JavaScript, React, Node, MongoDB, Python, D3.js, Meteor, and SasS.
 ```

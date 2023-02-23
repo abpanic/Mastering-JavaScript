@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Günde Javascript: Objects - Nesneler</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
 <sub>Çevirmen:
   <a href="https://github.com/alicangunduz" target="_blank">Ali Can Gündüz</a><br>
   <small> Ocak 2023</small>
@@ -240,7 +240,7 @@ Bir ebeveyn elemana tamamen yeni bir child içeriği eklemek veya değiştirmek 
   </head>
   <body>
     <div class="wrapper">
-        <h1>Abhilash Yetayeh challenges in 2020</h1>
+        <h1>Abhilash Panicker challenges in 2020</h1>
         <h2>30LessonsOfJavaScript Challenge</h2>
         <ul></ul>
     </div>
@@ -270,7 +270,7 @@ innerHTML özelliği, bir üst elemanın tüm çocuklarını kaldırmamıza da o
   </head>
   <body>
     <div class="wrapper">
-        <h1>Abhilash Yetayeh challenges in 2020</h1>
+        <h1>Abhilash Panicker challenges in 2020</h1>
         <h2>30LessonsOfJavaScript Challenge</h2>
         <ul>
             <li>30LessonsOfPython Challenge Done</li>
@@ -384,7 +384,7 @@ Fark etmişsinizdir, JavaScript içinde kullandığımızda css özellikleri cam
   </head>
   <body>
     <div class="wrapper">
-        <h1>Abhilash Yetayeh challenges in 2020</h1>
+        <h1>Abhilash Panicker challenges in 2020</h1>
         <h2>30LessonsOfJavaScript Challenge</h2>
         <ul>
             <li>30LessonsOfPython Challenge Done</li>

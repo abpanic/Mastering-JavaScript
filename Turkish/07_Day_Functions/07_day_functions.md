@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 günde JavaScript: Fonksiyonlar</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Abhilash/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Abhilash">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Abhilash?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/abpanic/">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/Abhilash/" target="_blank">Abhilash Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/abhilash-panicker-68952b159/" target="_blank">Abhilash Panicker</a><br>
   <sub>Çevirmen:
   <a href="https://github.com/hsynalv" target="_blank">Hasan Hüseyin Alav</a><br>
   <small> Temmuz 2022</small>
@@ -132,7 +132,7 @@ addTwoNumbers() // fonksiyon, kendisine verilen isim ile çağırılmalı
 ```js
   function printFullName (){
       let firstName = 'Abhilash'
-      let lastName = 'Yetayeh'
+      let lastName = 'Panicker'
       let space = ' '
       let fullName = firstName + space + lastName
       console.log(fullName)
@@ -148,7 +148,7 @@ Fonksiyonlar geriye bir değer döndürebilir. bu işlemi `return` anahtar kelim
 ```js
 function printFullName (){
       let firstName = 'Abhilash'
-      let lastName = 'Yetayeh'
+      let lastName = 'Panicker'
       let space = ' '
       let fullName = firstName + space + lastName
       return fullName
@@ -220,7 +220,7 @@ console.log(sumTwoNumbers(10, 20))
 function printFullName(firstName, lastName) {
   return `${firstName} ${lastName}`
 }
-console.log(printFullName('Abhilash', 'Yetayeh'))
+console.log(printFullName('Abhilash', 'Panicker'))
 ```
 
 ### Çok parametreli fonksiyon
@@ -356,14 +356,14 @@ const printFullName = (firstName, lastName) => {
   return `${firstName} ${lastName}`
 }
 
-console.log(printFullName('Abhilash', 'Yetayeh'))
+console.log(printFullName('Abhilash', 'Panicker'))
 ```
 
 Yukarıdaki fonksiyon yalnızca geri dönüş ifadesine sahiptir, bu nedenle bunu aşağıdaki şekilde açıkça iade edebiliriz.
 ```js
 const printFullName = (firstName, lastName) => `${firstName} ${lastName}`
 
-console.log(printFullName('Abhilash', 'Yetayeh'))
+console.log(printFullName('Abhilash', 'Panicker'))
 ```
 
 #### Arrow function'da sınırsız sayıda parametre
@@ -430,7 +430,7 @@ console.log(greetings('Abhilash'))
 ```
 
 ```js
-function generateFullName(firstName = 'Abhilash', lastName = 'Yetayeh') {
+function generateFullName(firstName = 'Abhilash', lastName = 'Panicker') {
   let space = ' '
   let fullName = firstName + space + lastName
   return fullName
@@ -486,7 +486,7 @@ console.log(greetings('Abhilash'))
 ```
 
 ```js
-const generateFullName = (firstName = 'Abhilash', lastName = 'Yetayeh') => {
+const generateFullName = (firstName = 'Abhilash', lastName = 'Panicker') => {
   let space = ' '
   let fullName = firstName + space + lastName
   return fullName
