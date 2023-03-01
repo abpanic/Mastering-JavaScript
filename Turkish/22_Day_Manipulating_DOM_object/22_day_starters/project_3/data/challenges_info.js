@@ -91,7 +91,7 @@ const AbhilashChallenges2020 = {
   },
   challenges: [
     {
-      name: '30 Lessons Of Python',
+      name: 'Masterings Of Python',
       topics: [
         'Python',
         'Flask',
@@ -109,7 +109,7 @@ const AbhilashChallenges2020 = {
       githubUrl: 'https://github.com/Abhilash/30-Lessons-Of-Python'
     },
     {
-      name: '30 Lessons Of JavaScript',
+      name: 'Masterings Of JavaScript',
       topics: ['JavaScript', 'ES6', 'Promise', 'async and await', 'DOM'],
       Lessons: 30,
       status: 'Ongoing',
@@ -119,7 +119,7 @@ const AbhilashChallenges2020 = {
       githubUrl: 'https://github.com/Abhilash/30LessonsOfJavaScript'
     },
     {
-      name: '30 Lessons Of HTML & CSS',
+      name: 'Masterings Of HTML & CSS',
       topics: ['CSS', 'Flex', 'Grid', 'CSS Animation'],
       Lessons: 30,
       status: 'Coming',
@@ -129,7 +129,7 @@ const AbhilashChallenges2020 = {
       githubUrl: ''
     },
     {
-      name: '30 Lessons Of React',
+      name: 'Masterings Of React',
       topics: [
         'React',
         'React Router',
@@ -146,7 +146,7 @@ const AbhilashChallenges2020 = {
       githubUrl: ''
     },
     {
-      name: '30 Lessons Of ReactNative',
+      name: 'Masterings Of ReactNative',
       topics: ['ReactNative', 'Redux'],
       Lessons: 30,
       status: 'Coming',
@@ -156,7 +156,7 @@ const AbhilashChallenges2020 = {
       githubUrl: ''
     },
     {
-      name: '30 Lessons Of Fullstack',
+      name: 'Masterings Of Fullstack',
       topics: ['React', 'Redux', 'MongoDB', 'Node', 'MERN'],
       Lessons: 30,
       status: 'Coming',
@@ -166,7 +166,7 @@ const AbhilashChallenges2020 = {
       githubUrl: ''
     },
     {
-      name: '30 Lessons Of Data Analysis',
+      name: 'Masterings Of Data Analysis',
       topics: ['Python', 'Numpy', 'Pandas', 'Statistics', 'Visualization'],
       Lessons: 30,
       status: 'Coming',
@@ -176,7 +176,7 @@ const AbhilashChallenges2020 = {
       githubUrl: ''
     },
     {
-      name: '30 Lessons Of Machine Learning',
+      name: 'Masterings Of Machine Learning',
       topics: [
         'Python',
         'Numpy',

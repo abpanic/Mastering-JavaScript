@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Lessons Of JavaScript: Functions</h1>
+  <h1> Masterings Of JavaScript: Functions</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -412,7 +412,7 @@ functionName(arg)
 
 ```js
 function greetings(name = 'Peter') {
-  let message = `${name}, welcome to 30 Lessons Of JavaScript!`
+  let message = `${name}, welcome to Masterings Of JavaScript!`
   return message
 }
 
@@ -468,7 +468,7 @@ functionName(arg)
 
 ```js
 const greetings = (name = 'Peter') => {
-  let message = name + ', welcome to 30 Lessons Of JavaScript!'
+  let message = name + ', welcome to Masterings Of JavaScript!'
   return message
 }
 

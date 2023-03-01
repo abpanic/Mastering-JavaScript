@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Lessons Of JavaScript: Console Object Methods</h1>
+  <h1> Masterings Of JavaScript: Console Object Methods</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -52,11 +52,11 @@ We use console.log() to show output on the browser console. We can substitute va
 - Showing output on browser console
 
 ```js
-console.log('30 Lessons of JavaScript')
+console.log('Masterings of JavaScript')
 ```
 
 ```sh
-30 Lessons of JavaScript
+Masterings of JavaScript
 ```
 
 - Substitution
@@ -66,7 +66,7 @@ console.log('%d %s of JavaScript', 30, 'Lessons')
 ```
 
 ```sh
-30 Lessons of JavaScript
+Masterings of JavaScript
 ```
 
 - CSS
@@ -74,9 +74,9 @@ console.log('%d %s of JavaScript', 30, 'Lessons')
 We can style logging message using css. Copy the following code and paste it on browser console to see the result.
 
 ```js
-console.log('%c30 Lessons Of JavaScript', 'color:green') // log output is green
+console.log('%cMasterings Of JavaScript', 'color:green') // log output is green
 console.log(
-  '%c30 Lessons%c %cOf%c %cJavaScript%c',
+  '%cMasterings%c %cOf%c %cJavaScript%c',
   'color:green',
   '',
   'color:red',
@@ -227,9 +227,9 @@ According the above output the regular for loop is slower than for of or forEach
 It displays information message on browser console.
 
 ```js
-console.info('30 Lessons Of JavaScript challenge is trending on Github')
-console.info('30 Lessons Of fullStack challenge might be released')
-console.info('30 Lessons Of HTML and CSS challenge might be released')
+console.info('Masterings Of JavaScript challenge is trending on Github')
+console.info('Masterings Of fullStack challenge might be released')
+console.info('Masterings Of HTML and CSS challenge might be released')
 ```
 
 ### console.assert()

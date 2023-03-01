@@ -4,7 +4,7 @@
 
 <div  align="center">
 
-<h1> 30 Lessons Of JavaScript: Arrays</h1>
+<h1> Masterings Of JavaScript: Arrays</h1>
 
 <a  class="header-badge"  target="_blank"  href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
 

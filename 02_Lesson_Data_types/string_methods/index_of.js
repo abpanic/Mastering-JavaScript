@@ -1,7 +1,7 @@
 // indexOf(): Takes takes a substring and if the substring exists in a string it returns the first position of the substring if does not exist it returns -1
 
 string.indexOf(substring)
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 console.log(string.indexOf('D'))          // 3
 console.log(string.indexOf('Lessons'))       // 3
 console.log(string.indexOf('Lessons'))       // -1

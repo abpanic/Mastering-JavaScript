@@ -599,7 +599,7 @@ string.replace(oldsubstring, newsubstring)
 
 ```js
 let string = 'Học JavaScript trong 30 ngày'
-console.log(string.replace('JavaScript', 'Python')) // 30 Lessons Of Python
+console.log(string.replace('JavaScript', 'Python')) // Masterings Of Python
 
 let country = 'India'
 console.log(country.replace('Fin', 'Noman'))       // Nomanland
@@ -767,7 +767,7 @@ console.log(string.match(pattern))   // ["love", "love", "love"]
 Chúng ta hãy tách các số từ văn bản bằng cách sử dụng một biểu thức chính quy. Đây không phải là phần biểu thức chính quy, đừng hoảng sợ! Chúng ta sẽ đề cập đến các cụm từ thông dụng ở phần sau.
 
 ```js
-let txt = 'In 2019, I ran 30 Lessons of Python. Now, in 2020 I am super exited to start this challenge'
+let txt = 'In 2019, I ran Masterings of Python. Now, in 2020 I am super exited to start this challenge'
 let regEx = /\d+/
 
 // d with escape character means d not a normal d instead acts a digit

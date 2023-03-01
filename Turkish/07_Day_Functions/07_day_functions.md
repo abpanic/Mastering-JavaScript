@@ -421,7 +421,7 @@ functionName(arg)
 
 ```js
 function greetings(name = 'Peter') {
-  let message = `${name}, welcome to 30 Lessons Of JavaScript!`
+  let message = `${name}, welcome to Masterings Of JavaScript!`
   return message
 }
 
@@ -477,7 +477,7 @@ functionName(arg)
 
 ```js
 const greetings = (name = 'Peter') => {
-  let message = name + ', welcome to 30 Lessons Of JavaScript!'
+  let message = name + ', welcome to Masterings Of JavaScript!'
   return message
 }
 

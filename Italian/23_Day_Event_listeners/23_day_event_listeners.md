@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Lessons Of JavaScript: Event Listeners</h1>
+  <h1> Masterings Of JavaScript: Event Listeners</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -201,7 +201,7 @@ Di solito compiliamo moduli e i moduli accettano dati. I campi dei moduli vengon
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>
@@ -235,7 +235,7 @@ Nell'esempio precedente, siamo riusciti a ottenere il valore di input da due cam
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>
@@ -265,7 +265,7 @@ A differenza di _input_ o _change_, l'evento _blur_ si verifica quando il campo 
 <html>
 
 <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
 </head>
 
 <body>
@@ -297,7 +297,7 @@ Possiamo accedere a tutti i numeri dei tasti della tastiera utilizzando diversi 
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>

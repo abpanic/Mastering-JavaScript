@@ -1,4 +1,4 @@
-# 30 Lessons Of JavaScript
+# Masterings Of JavaScript
 
 | # Lesson |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -36,7 +36,7 @@
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
 <div align="center">
-  <h1> 30 Lessons Of JavaScript: Introduction</h1>
+  <h1> Masterings Of JavaScript: Introduction</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -66,7 +66,7 @@
 
 ![Mastering JavaScript](./images/Lesson_1_1.png)
 
-- [30 Lessons Of JavaScript](#30-Lessons-of-javascript)
+- [Masterings Of JavaScript](#30-Lessons-of-javascript)
 - [📔 Lesson 1](#-Lesson-1)
 	- [Introduction](#introduction)
 	- [Requirements](#requirements)
@@ -104,7 +104,7 @@
 
 ## Introduction
 
-**Congratulations** on deciding to participate in 30 Lessons of JavaScript programming challenge. In this challenge you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge you will get a 30LessonsOfJavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the [telegram group](https://t.me/ThirtyLessonsOfJavaScript).
+**Congratulations** on deciding to participate in Masterings of JavaScript programming challenge. In this challenge you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge you will get a 30LessonsOfJavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the [telegram group](https://t.me/ThirtyLessonsOfJavaScript).
 
 **A 30LessonsOfJavaScript** challenge is a guide for both beginners and advanced JavaScript developers. Welcome to JavaScript. JavaScript is the language of the web. I enjoy using and teaching JavaScript and I hope you will do so too.
 
@@ -279,7 +279,7 @@ console.log(3 ** 2) // Exponentiation 3 ** 2 == 3 * 3
 
 ### Code Editor
 
-We can write our codes on the browser console, but it won't be for bigger projects. In a real working environment, developers use different code editors to write their codes. In this 30 Lessons of JavaScript challenge, we will be using Visual Studio Code.
+We can write our codes on the browser console, but it won't be for bigger projects. In a real working environment, developers use different code editors to write their codes. In this Masterings of JavaScript challenge, we will be using Visual Studio Code.
 
 #### Installing Visual Studio Code
 

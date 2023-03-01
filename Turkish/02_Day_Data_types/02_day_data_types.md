@@ -361,7 +361,7 @@ JavaScript ve diğer programlama dillerinde \ (ters eğik çizgi ) ardından baz
   
 ```js
 // kodları console kısmına yazarak denerseniz daha iyi anlarsınız.
-console.log('I hope everyone is enjoying the 30 Lessons Of JavaScript challenge.\nDo you ?') //  Buradakı \n satır sonu anlamına gelir sonrası aşağı iner
+console.log('I hope everyone is enjoying the Masterings Of JavaScript challenge.\nDo you ?') //  Buradakı \n satır sonu anlamına gelir sonrası aşağı iner
 console.log('Lessons\tTopics\tExercises') // Burada her kelimeden sonra bir tab (\t) tuşuna basılmış etkisi verir
 console.log('Lesson 1\t3\t5') // \t bir başka örnek
 console.log('Lesson 2\t3\t5') // \t bir başka örnek
@@ -376,7 +376,7 @@ console.log('The saying \'Seeing is Believing\' isn\'t correct in 2020') // Bu k
 Konsol çıktıları :
 
 ```sh
-I hope everyone is enjoying the 30 Lessons Of JavaScript challenge.
+I hope everyone is enjoying the Masterings Of JavaScript challenge.
 Do you ?
 Lessons  Topics  Exercises
 Lesson 1 3 5
@@ -545,9 +545,9 @@ console.log(country.substring(3))      // land
 7. *split()*: Bu metot bir stringi belirtilen yerden bölmeye yarar. ( array oluşturuyor )
 
 ```js
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 
-console.log(string.split())     // bu kısımda birşey belirtmediğin için 1 elementli array oluştu -> ["30 Lessons Of JavaScript"]
+console.log(string.split())     // bu kısımda birşey belirtmediğin için 1 elementli array oluştu -> ["Masterings Of JavaScript"]
 console.log(string.split(' '))  // bu kısımda boşluktan böl dediğimiz için 4 elementli array oluştu -> ["30", "Lessons", "Of", "JavaScript"]
 
 let firstName = 'Abhilash'
@@ -564,7 +564,7 @@ console.log(countries.split(', ')) // Dikkat edin burayada. ', ' virgül ve boş
 8. *trim()*: String'in başında ve sonundaki boşlukları silmeye yarar.
 
 ```js
-let string = '   30 Lessons Of JavaScript   '
+let string = '   Masterings Of JavaScript   '
 
 console.log(string)
 console.log(string.trim(' '))
@@ -576,8 +576,8 @@ console.log(firstName.trim())  // içinde tırnak kullanmasanız dahi boşluklar
 ```
 
 ```sh
-   30 Lessons Of JavasCript   
-30 Lessons Of JavasCript
+   Masterings Of JavasCript   
+Masterings Of JavasCript
   Abhilash 
 Abhilash
 ```
@@ -585,7 +585,7 @@ Abhilash
 9. *includes()*: Bu metot string içerisinde varlık kontrolü yapmaya yarar. Eğer bulursa true, bulamazsa false döner. ( birebir arama yapar )
 
 ```js
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 
 console.log(string.includes('Lessons'))     // true
 console.log(string.includes('Lessons'))     // false - birebir arama yapar!
@@ -609,8 +609,8 @@ string.replace(oldsubstring, newsubstring)
 ```
 
 ```js
-let string = '30 Lessons Of JavaScript'
-console.log(string.replace('JavaScript', 'Python')) // 30 Lessons Of Python
+let string = 'Masterings Of JavaScript'
+console.log(string.replace('JavaScript', 'Python')) // Masterings Of Python
 
 let country = 'India'
 console.log(country.replace('Fin', 'Noman'))       // Nomanland
@@ -623,7 +623,7 @@ string.charAt(index)
 ```
 
 ```js
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 console.log(string.charAt(0))        // 3 (0. indeksin değerini döndürdü)
 
 let lastIndex = string.length - 1 // bu kısımda yukardaki değişkenin karakter sayısını alıyor (21) sonra bu sonucu 1 ile çıkartıyor sonuç 20. aşağı bak
@@ -637,7 +637,7 @@ string.charCodeAt(index)
 ```
 
 ```js
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 console.log(string.charCodeAt(3))        // D ASCII 68
 
 let lastIndex = string.length - 1
@@ -652,7 +652,7 @@ string.indexOf(substring)
 ```
 
 ```js
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 
 console.log(string.indexOf('D'))          // 3
 console.log(string.indexOf('Lessons'))       // 3
@@ -778,7 +778,7 @@ console.log(string.match(pattern))   // ["love", "love", "love"]
 Normal bir ifade kullanarak metinden sayıları çıkaralım. Burası normal ifade bölümü değil, panik yapmayın! Düzenli ifadeleri daha sonra ele alacağız.
 
 ```js
-let txt = 'In 2019, I ran 30 Lessons of Python. Now, in 2020 I am super exited to start this challenge'
+let txt = 'In 2019, I ran Masterings of Python. Now, in 2020 I am super exited to start this challenge'
 let regEx = /\d+/
 
 // kaçış karakterli d, d'nin normal olmadığı anlamına gelir, d bunun yerine bir rakam gibi davranır
@@ -916,33 +916,33 @@ console.log(numInt) // 9
 
 ### Exercise: Seviye 1
 
-1. Challenge adında bir değişken tanımlayın ve  **'30 Lessons Of JavaScript'** başlangıç ​​değerine atayın.
+1. Challenge adında bir değişken tanımlayın ve  **'Masterings Of JavaScript'** başlangıç ​​değerine atayın.
 2. __console.log()__ kullanarak tarayıcı konsolunda değişkeni yazdırın,
 3. _console.log()_ kullanarak tarayıcı konsolunda dizenin __length__ değerini yazdırın,
 4. __toUpperCase()__ yöntemini kullanarak tüm dize karakterlerini büyük harflerle değiştirin,
 5. __toLowerCase()__ yöntemini kullanarak tüm dize karakterlerini küçük harflerle değiştirin,
 6. __substr()__ veya __substring()__ yöntemini kullanarak string'in ilk kelimesini kesin-silin (dilimleyin)
-7. *Lessons Of JavaScript* ifadesini *30 Lessons Of JavaScript*'ten ayırın.
+7. *Lessons Of JavaScript* ifadesini *Masterings Of JavaScript*'ten ayırın.
 8. __includes()__ yöntemini kullanarak string'in __Script__ kelimesini içerip içermediğini kontrol edin
 9. __split()__ yöntemini kullanarak __string__ öğesini bir __array__'ye bölün
-10. 30 Lessons Of JavaScript dizesini __split()__ yöntemini kullanarak boşlukta bölün
+10. Masterings Of JavaScript dizesini __split()__ yöntemini kullanarak boşlukta bölün
 11. 'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon' dizeyi virgülden __split__ ve bir dizi olarak değiştirin.
-12. __replace()__ yöntemini kullanarak 30 Lessons of JavaScript'i 30 Lessons of Python olarak değiştirin.
+12. __replace()__ yöntemini kullanarak Masterings of JavaScript'i Masterings of Python olarak değiştirin.
 13. 'JavaScript'in 30 Günü' dizesinde dizin 15'teki karakter nedir? __charAt()__ yöntemini kullanın.
 14. __charCodeAt()__ kullanan 'JavaScript'in 30 Günü' dizesindeki J karakter kodu nedir?
-15. 30 Lessons of JavaScript'te __a__ öğesinin ilk oluşumunun konumunu belirlemek için __indexOf__ kullanın
-16. 30 Lessons of JavaScript'te __a__ öğesinin son oluşumunun konumunu belirlemek için __lastIndexOf__ kullanın.
+15. Masterings of JavaScript'te __a__ öğesinin ilk oluşumunun konumunu belirlemek için __indexOf__ kullanın
+16. Masterings of JavaScript'te __a__ öğesinin son oluşumunun konumunu belirlemek için __lastIndexOf__ kullanın.
 17. Aşağıdaki cümlede __çünkü__ kelimesinin ilk geçtiği yeri bulmak için __indexOf__ kullanın:
 __'Bir cümleyi çünkü ile bitiremezsiniz çünkü çünkü bir bağlaçtır'__
 18. Aşağıdaki cümlede __çünkü__ kelimesinin son geçtiği yeri bulmak için __lastIndexOf__ kullanın:
 __'Bir cümleyi çünkü ile bitiremezsiniz çünkü çünkü bir bağlaçtır'__
 19. Aşağıdaki cümlede __çünkü__ kelimesinin ilk geçtiği yeri bulmak için __search__ kullanın:
 __'Bir cümleyi çünkü ile bitiremezsiniz çünkü çünkü bir bağlaçtır'__
-20. Bir dizgenin başındaki ve sonundaki boşlukları kaldırmak için __trim()__ kullanın. Örneğin '30 Lessons Of JavaScript'.
-21. *30 Lessons Of JavaScript* dizesiyle __startsWith()__ yöntemini kullanın ve sonucu doğru yapın
-22. *30 Lessons Of JavaScript* dizesiyle __endsWith()__ yöntemini kullanın ve sonucu doğru yapın
+20. Bir dizgenin başındaki ve sonundaki boşlukları kaldırmak için __trim()__ kullanın. Örneğin 'Masterings Of JavaScript'.
+21. *Masterings Of JavaScript* dizesiyle __startsWith()__ yöntemini kullanın ve sonucu doğru yapın
+22. *Masterings Of JavaScript* dizesiyle __endsWith()__ yöntemini kullanın ve sonucu doğru yapın
 23. JavaScript'in 30 Günü'ndeki tüm __a__'leri bulmak için __match()__ yöntemini kullanın
-24. __concat()__ kullanın ve '30 Lessons of' ve 'JavaScript'i tek bir dize olan '30 Lessons of JavaScript' ile birleştirin
+24. __concat()__ kullanın ve 'Masterings of' ve 'JavaScript'i tek bir dize olan 'Masterings of JavaScript' ile birleştirin
 25. 30 Gün JavaScript'i 2 kez yazdırmak için __repeat()__ yöntemini kullanın
  
 

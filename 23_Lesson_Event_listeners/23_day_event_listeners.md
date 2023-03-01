@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Lessons Of JavaScript: Event Listeners</h1>
+  <h1> Masterings Of JavaScript: Event Listeners</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -200,7 +200,7 @@ We usually fill forms and forms accept data. Form fields are created using input
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>
@@ -234,7 +234,7 @@ In the above example, we managed to get input values from two input fields by cl
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>
@@ -264,7 +264,7 @@ In contrast to _input_ or _change_, the _blur_ event occur when the input field 
 <html>
 
 <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
 </head>
 
 <body>
@@ -296,7 +296,7 @@ We can access all the key numbers of the keyboard using different event listener
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>

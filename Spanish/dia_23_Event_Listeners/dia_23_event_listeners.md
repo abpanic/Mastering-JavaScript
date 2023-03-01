@@ -202,7 +202,7 @@ Normalmente rellenamos formularios y los formularios aceptan datos. Los campos d
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>
@@ -236,7 +236,7 @@ En el ejemplo anterior, hemos conseguido obtener los valores de entrada de dos c
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>
@@ -266,7 +266,7 @@ A diferencia de _input_ o _change_, el evento _blur_ se produce cuando el campo 
 <html>
 
 <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
 </head>
 
 <body>
@@ -298,7 +298,7 @@ Podemos acceder a todos los números de teclas del teclado utilizando diferentes
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>

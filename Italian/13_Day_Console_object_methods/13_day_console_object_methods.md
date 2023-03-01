@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Lessons Of JavaScript: Console Object Methods</h1>
+  <h1> Masterings Of JavaScript: Console Object Methods</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -52,11 +52,11 @@ Usiamo console.log() per mostrare l'output sulla console del browser. Possiamo s
 - Mostrare l'output sulla console del browser
 
 ```js
-console.log('30 Lessons of JavaScript')
+console.log('Masterings of JavaScript')
 ```
 
 ```sh
-30 Lessons of JavaScript
+Masterings of JavaScript
 ```
 
 - Substitution
@@ -66,7 +66,7 @@ console.log('%d %s of JavaScript', 30, 'Lessons')
 ```
 
 ```sh
-30 Lessons of JavaScript
+Masterings of JavaScript
 ```
 
 - CSS
@@ -74,9 +74,9 @@ console.log('%d %s of JavaScript', 30, 'Lessons')
 Possiamo stilizzare il messaggio di registrazione usando i css. Copiare il codice seguente e incollarlo nella console del browser per vedere il risultato.
 
 ```js
-console.log('%c30 Lessons Of JavaScript', 'color:green') // log output is green
+console.log('%cMasterings Of JavaScript', 'color:green') // log output is green
 console.log(
-  '%c30 Lessons%c %cOf%c %cJavaScript%c',
+  '%cMasterings%c %cOf%c %cJavaScript%c',
   'color:green',
   '',
   'color:red',
@@ -227,9 +227,9 @@ Secondo l'output sopra riportato, il ciclo for regolare è più lento del ciclo 
 Visualizza un messaggio informativo sulla console del browser.
 
 ```js
-console.info('30 Lessons Of JavaScript challenge is trending on Github')
-console.info('30 Lessons Of fullStack challenge might be released')
-console.info('30 Lessons Of HTML and CSS challenge might be released')
+console.info('Masterings Of JavaScript challenge is trending on Github')
+console.info('Masterings Of fullStack challenge might be released')
+console.info('Masterings Of HTML and CSS challenge might be released')
 ```
 
 ### console.assert()

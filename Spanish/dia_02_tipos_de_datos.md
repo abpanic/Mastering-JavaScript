@@ -542,9 +542,9 @@ console.log(country.substring(3)); // land
 7. _split()_: El método split divide una cadena en un lugar específico.
 
 ```js
-let string = "30 Lessons Of JavaScript";
+let string = "Masterings Of JavaScript";
 
-console.log(string.split()); // Cambios en una matriz -> ["30 Lessons Of JavaScript"]
+console.log(string.split()); // Cambios en una matriz -> ["Masterings Of JavaScript"]
 console.log(string.split(" ")); // Dividir a una matriz en el espacio -> ["30", "Lessons", "Of", "JavaScript"]
 
 let firstName = "Abhilash";
@@ -561,7 +561,7 @@ console.log(countries.split(", ")); //  ["India", "Sweden", "Norway", "Denmark"
 8. _trim()_: Elimina el espacio final al principio o al final de una cadena.
 
 ```js
-let string = "   30 Lessons Of JavaScript   ";
+let string = "   Masterings Of JavaScript   ";
 
 console.log(string);
 console.log(string.trim(" "));
@@ -573,8 +573,8 @@ console.log(firstName.trim()); // todavía elimina espacios al principio y al fi
 ```
 
 ```sh
-   30 Lessons Of JavasCript
-30 Lessons Of JavasCript
+   Masterings Of JavasCript
+Masterings Of JavasCript
   Abhilash
 Abhilash
 ```
@@ -582,7 +582,7 @@ Abhilash
 9. _includes()_: Toma un argumento de subcadena y verifica si existe un argumento de subcadena en la cadena. _includes()_ devuelve un valor booleano. Si existe una subcadena en una cadena, devuelve verdadero; de lo contrario, devuelve falso.
 
 ```js
-let string = "30 Lessons Of JavaScript";
+let string = "Masterings Of JavaScript";
 
 console.log(string.includes("Lessons")); // verdadero
 console.log(string.includes("Lessons")); // falso: ¡se distingue entre mayúsculas y minúsculas!
@@ -606,8 +606,8 @@ string.replace(oldsubstring, newsubstring);
 ```
 
 ```js
-let string = "30 Lessons Of JavaScript";
-console.log(string.replace("JavaScript", "Python")); // 30 Lessons Of Python
+let string = "Masterings Of JavaScript";
+console.log(string.replace("JavaScript", "Python")); // Masterings Of Python
 
 let country = "India";
 console.log(country.replace("Fin", "Noman")); // Nomanland
@@ -620,7 +620,7 @@ string.charAt(index);
 ```
 
 ```js
-let string = "30 Lessons Of JavaScript";
+let string = "Masterings Of JavaScript";
 console.log(string.charAt(0)); // 3
 
 let lastIndex = string.length - 1;
@@ -634,7 +634,7 @@ string.charCodeAt(index);
 ```
 
 ```js
-let string = "30 Lessons Of JavaScript";
+let string = "Masterings Of JavaScript";
 console.log(string.charCodeAt(3)); // D ASCII numbero es 68
 
 let lastIndex = string.length - 1;
@@ -648,7 +648,7 @@ string.indexOf(substring);
 ```
 
 ```js
-let string = "30 Lessons Of JavaScript";
+let string = "Masterings Of JavaScript";
 
 console.log(string.indexOf("D")); // 3
 console.log(string.indexOf("Lessons")); // 3
@@ -777,7 +777,7 @@ Extraigamos números del texto usando una expresión regular. Esta no es la secc
 
 ```js
 let txt =
-  "In 2019, I ran 30 Lessons of Python. Now, in 2020 I am super exited to start this challenge";
+  "In 2019, I ran Masterings of Python. Now, in 2020 I am super exited to start this challenge";
 let regEx = /\d+/;
 
 // d con carácter de escape significa que d no es una d normal sino que actúa como un dígito
@@ -920,7 +920,7 @@ console.log(numInt); // 9
 4. Cambie todos los caracteres de cadena a letras mayúsculas usando el método **toUpperCase()**
 5. Cambie todos los caracteres de la cadena a letras minúsculas usando el método **toLowerCase()**
 6. Corta (segmenta) la primera palabra de la cadena usando el método **substr()** o **substring()**
-7. Corta la frase _Lessons Of JavaScript_ de _30 Lessons Of JavaScript_.
+7. Corta la frase _Lessons Of JavaScript_ de _Masterings Of JavaScript_.
 8. Verifique si la cadena contiene una palabra **Script** usando el método **includes()**
 9. Divide la **cadena** en un **array** usando el método **split()**
 10. Divida la cadena 30 días de JavaScript en el espacio usando el método **split()**

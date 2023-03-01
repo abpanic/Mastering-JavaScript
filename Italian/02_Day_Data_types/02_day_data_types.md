@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Lessons Of JavaScript: Data Types</h1>
+  <h1> Masterings Of JavaScript: Data Types</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -351,7 +351,7 @@ In JavaScript e in altri linguaggi di programmazione il carattere \ seguito da a
 - \\": Double quote (")
   
 ```js
-console.log('I hope everyone is enjoying the 30 Lessons Of JavaScript challenge.\nDo you ?') // line break
+console.log('I hope everyone is enjoying the Masterings Of JavaScript challenge.\nDo you ?') // line break
 console.log('Lessons\tTopics\tEsercizios')
 console.log('Lesson 1\t3\t5')
 console.log('Lesson 2\t3\t5')
@@ -366,7 +366,7 @@ console.log('The saying \'Seeing is Believing\' isn\'t correct in 2020')
 Output in console:
 
 ```sh
-I hope everyone is enjoying the 30 Lessons Of JavaScript challenge.
+I hope everyone is enjoying the Masterings Of JavaScript challenge.
 Do you ?
 Lessons  Topics  Esercizios
 Lesson 1 3 5
@@ -533,9 +533,9 @@ console.log(country.substring(3))      // land
 7. *split()*: Il metodo split divide una stringa in un punto specificato.
 
 ```js
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 
-console.log(string.split())     // Changes to an array -> ["30 Lessons Of JavaScript"]
+console.log(string.split())     // Changes to an array -> ["Masterings Of JavaScript"]
 console.log(string.split(' '))  // Split to an array at space -> ["30", "Lessons", "Of", "JavaScript"]
 
 let firstName = 'Abhilash'
@@ -552,7 +552,7 @@ console.log(countries.split(', ')) //  ["India", "Sweden", "Norway", "Denmark",
 8. *trim()*: Rimuove lo spazio di coda all'inizio o alla fine di una stringa.
 
 ```js
-let string = '   30 Lessons Of JavaScript   '
+let string = '   Masterings Of JavaScript   '
 
 console.log(string)
 console.log(string.trim(' '))
@@ -564,8 +564,8 @@ console.log(firstName.trim())  // still removes spaces at the beginning and the 
 ```
 
 ```sh
-   30 Lessons Of JavasCript   
-30 Lessons Of JavasCript
+   Masterings Of JavasCript   
+Masterings Of JavasCript
   Abhilash 
 Abhilash
 ```
@@ -573,7 +573,7 @@ Abhilash
 9. *includes()*: Prende un argomento di sottostringa e controlla se l'argomento di sottostringa esiste nella stringa. *include()* restituisce un booleano. Se una sottostringa esiste in una stringa, restituisce true, altrimenti restituisce false.
 
 ```js
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 
 console.log(string.includes('Lessons'))     // true
 console.log(string.includes('Lessons'))     // false - it is case sensitive!
@@ -597,8 +597,8 @@ string.replace(oldsubstring, newsubstring)
 ```
 
 ```js
-let string = '30 Lessons Of JavaScript'
-console.log(string.replace('JavaScript', 'Python')) // 30 Lessons Of Python
+let string = 'Masterings Of JavaScript'
+console.log(string.replace('JavaScript', 'Python')) // Masterings Of Python
 
 let country = 'India'
 console.log(country.replace('Fin', 'Noman'))       // Nomanland
@@ -611,7 +611,7 @@ string.charAt(index)
 ```
 
 ```js
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 console.log(string.charAt(0))        // 3
 
 let lastIndex = string.length - 1
@@ -625,7 +625,7 @@ string.charCodeAt(index)
 ```
 
 ```js
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 console.log(string.charCodeAt(3))        // D ASCII number is 68
 
 let lastIndex = string.length - 1
@@ -640,7 +640,7 @@ string.indexOf(substring)
 ```
 
 ```js
-let string = '30 Lessons Of JavaScript'
+let string = 'Masterings Of JavaScript'
 
 console.log(string.indexOf('D'))          // 3
 console.log(string.indexOf('Lessons'))       // 3
@@ -766,7 +766,7 @@ console.log(string.match(pattern))   // ["love", "love", "love"]
 Estraiamo i numeri dal testo utilizzando un'espressione regolare. Questa non è la sezione delle espressioni regolari, niente panico! Tratteremo le espressioni regolari più avanti.
 
 ```js
-let txt = 'In 2019, I ran 30 Lessons of Python. Now, in 2020 I am super exited to start this challenge'
+let txt = 'In 2019, I ran Masterings of Python. Now, in 2020 I am super exited to start this challenge'
 let regEx = /\d+/
 
 // d with escape character means d not a normal d instead acts a digit
@@ -903,7 +903,7 @@ console.log(numInt) // 9
 
 ### Esercizio: Livello 1
 
-1. Dichiarare una variabile chiamata sfida e assegnarle un valore iniziale **'30 Lessons Of JavaScript'**.
+1. Dichiarare una variabile chiamata sfida e assegnarle un valore iniziale **'Masterings Of JavaScript'**.
 2. Stampate la stringa sulla console del browser usando __console.log()__.
 3. Stampate la __lunghezza__ della stringa nella console del browser usando _console.log()_.
 4. Cambiare tutti i caratteri della stringa in lettere maiuscole utilizzando il metodo __toUpperCase()__.
@@ -912,19 +912,19 @@ console.log(numInt) // 9
 7. Tagliare la frase *Giorni di JavaScript* da *30 Giorni di JavaScript*.
 8. Verificare se la stringa contiene la parola __Script__ utilizzando il metodo __includes()__.
 9. Dividere la __stringa__ in un __array__ usando il metodo __split()__.
-10. Dividere la stringa 30 Lessons Of JavaScript nello spazio usando il metodo __split()__.
+10. Dividere la stringa Masterings Of JavaScript nello spazio usando il metodo __split()__.
 11. Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon" __split__ la stringa alla virgola e la trasforma in un array.
-12. Cambiare 30 Lessons Of JavaScript in 30 Lessons Of Python usando il metodo __replace()__.
+12. Cambiare Masterings Of JavaScript in Masterings Of Python usando il metodo __replace()__.
 13. Qual è il carattere all'indice 15 nella stringa '30 giorni di JavaScript'? Usate il metodo __charAt()__.
-14. Qual è il codice del carattere J nella stringa '30 Lessons Of JavaScript' usando il metodo __charCodeAt()__.
+14. Qual è il codice del carattere J nella stringa 'Masterings Of JavaScript' usando il metodo __charCodeAt()__.
 15. Usate __indexOf__ per determinare la posizione della prima occorrenza di __a__ in 30 Giorni Di JavaScript.
-16. Usate __lastIndexOf__ per determinare la posizione dell'ultima occorrenza di __a__ in 30 Lessons Of JavaScript.
+16. Usate __lastIndexOf__ per determinare la posizione dell'ultima occorrenza di __a__ in Masterings Of JavaScript.
 17. Usate __indexOf__ per trovare la posizione della prima occorrenza della parola __perché__ nella seguente frase:__"Non si può terminare una frase con perché perché perché è una congiunzione"__.
 18. Usate __lastIndexOf__ per trovare la posizione dell'ultima occorrenza della parola __because__ nella seguente frase:__'Non si può concludere una frase con perché perché perché è una congiunzione'__.
 19. Usare __search__ per trovare la posizione della prima occorrenza della parola __because__ nella seguente frase:__'Non si può terminare una frase con perché perché perché è una congiunzione'__
-20. Usate __trim()__ per rimuovere gli spazi bianchi all'inizio e alla fine di una stringa, ad esempio ' 30 Lessons Of JavaScript '.
-21. Usate il metodo __startsWith()__ con la stringa *30 Lessons Of JavaScript* e rendete il risultato vero.
-22. Usate il metodo __endsWith()__ con la stringa *30 Lessons Of JavaScript* e fate in modo che il risultato sia vero.
+20. Usate __trim()__ per rimuovere gli spazi bianchi all'inizio e alla fine di una stringa, ad esempio ' Masterings Of JavaScript '.
+21. Usate il metodo __startsWith()__ con la stringa *Masterings Of JavaScript* e rendete il risultato vero.
+22. Usate il metodo __endsWith()__ con la stringa *Masterings Of JavaScript* e fate in modo che il risultato sia vero.
 23. Usare il metodo __match()__ per trovare tutti gli __a__ in 30 Giorni Di JavaScript
 24. Usare il metodo __concat()__ e unire '30 giorni di' e 'JavaScript' in un'unica stringa, '30 giorni di JavaScript'.
 25. Usate il metodo __repeat()__ per stampare 30 Giorni Di JavaScript 2 volte.

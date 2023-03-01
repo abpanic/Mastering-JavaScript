@@ -52,11 +52,11 @@ Usamos console.log() para mostrar la salida en la consola del navegador. Podemos
 - Mostrando la salida en la consola del navegador
 
 ```js
-console.log("30 Lessons of JavaScript");
+console.log("Masterings of JavaScript");
 ```
 
 ```sh
-30 Lessons of JavaScript
+Masterings of JavaScript
 ```
 
 - Sustitución
@@ -66,7 +66,7 @@ console.log("%d %s of JavaScript", 30, "Lessons");
 ```
 
 ```sh
-30 Lessons of JavaScript
+Masterings of JavaScript
 ```
 
 - CSS
@@ -74,9 +74,9 @@ console.log("%d %s of JavaScript", 30, "Lessons");
 Podemos darle estilo al mensaje de registro usando css. Copia el siguiente código y pégalo en la consola del navegador para ver el resultado.
 
 ```js
-console.log("%c30 Lessons Of JavaScript", "color:green"); // la salida del registro es verde
+console.log("%cMasterings Of JavaScript", "color:green"); // la salida del registro es verde
 console.log(
-  "%c30 Lessons%c %cOf%c %cJavaScript%c",
+  "%cMasterings%c %cOf%c %cJavaScript%c",
   "color:green",
   "",
   "color:red",
@@ -227,9 +227,9 @@ De acuerdo con la salida anterior, el bucle for regular es más lento que el buc
 Muestra un mensaje de información en la consola del navegador.
 
 ```js
-console.info("30 Lessons Of JavaScript challenge is trending on Github");
-console.info("30 Lessons Of fullStack challenge might be released");
-console.info("30 Lessons Of HTML and CSS challenge might be released");
+console.info("Masterings Of JavaScript challenge is trending on Github");
+console.info("Masterings Of fullStack challenge might be released");
+console.info("Masterings Of HTML and CSS challenge might be released");
 ```
 
 ### console.assert()

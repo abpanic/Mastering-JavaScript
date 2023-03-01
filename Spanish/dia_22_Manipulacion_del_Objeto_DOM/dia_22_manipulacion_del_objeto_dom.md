@@ -46,7 +46,7 @@ document.createElement("tagname");
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>
@@ -71,7 +71,7 @@ Después de crear el elemento podemos asignar valor a las diferentes propiedades
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>
@@ -97,7 +97,7 @@ Para ver un elemento creado en el documento HTML debemos añadirlo al padre como
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
   </head>
 
   <body>
@@ -127,7 +127,7 @@ Después de crear un HTML, es posible que queramos eliminar uno o varios element
 <html>
 
 <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
 </head>
 
 <body>
@@ -163,7 +163,7 @@ Como hemos visto en la sección anterior hay una forma mejor de eliminar todos l
 <html>
 
 <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
 </head>
 
 <body>

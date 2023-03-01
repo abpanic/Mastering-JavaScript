@@ -1,5 +1,5 @@
 
-# 30 Lessons Of JavaScript
+# Masterings Of JavaScript
 
 | # Giorni |                                                                       Topics                                                                        |
 | ---- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -76,7 +76,7 @@
 
 <div  align="center">
 
-<h1> 30 Lessons Of JavaScript: Introduzione</h1>
+<h1> Masterings Of JavaScript: Introduzione</h1>
 
 <a  class="header-badge"  target="_blank"  href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
 
@@ -128,7 +128,7 @@
 
 ![Mastering JavaScript](../images/Lesson_1_1.png)
 
-- [30 Lessons Of JavaScript](#30-Lessons-of-javascript)
+- [Masterings Of JavaScript](#30-Lessons-of-javascript)
 - [📔 Giorno 1](#-Lesson-1)
   - [Introduzione](#introduction)
   - [Requisiti](#requirements)
@@ -166,7 +166,7 @@
 
 ## Introduzione
 
-**Congratulazioni** per aver deciso di partecipare a 30 Lessons of JavaScript programming challenge. In questa challenge imparerai tutto quello di cui hai bisogno per essere un programmatore JavaScript, ed in generale, il concetto di programmazione. Al termine della challenge otterrai un certificato di completamento della 30LessonsOfJavaScript programming challenge. In caso avessi bisogno di aiuto o vorrei aiutare altri puoi unirti al [gruppo_telegram](https://t.me/ThirtyLessonsOfJavaScript).
+**Congratulazioni** per aver deciso di partecipare a Masterings of JavaScript programming challenge. In questa challenge imparerai tutto quello di cui hai bisogno per essere un programmatore JavaScript, ed in generale, il concetto di programmazione. Al termine della challenge otterrai un certificato di completamento della 30LessonsOfJavaScript programming challenge. In caso avessi bisogno di aiuto o vorrei aiutare altri puoi unirti al [gruppo_telegram](https://t.me/ThirtyLessonsOfJavaScript).
 
 **Un 30LessonsOfJavaScript** è una challenge sviluppatori JavaScript esperti o alle prime armi. Benvenuto in JavaScript. JavaScript è un linguaggio per il web. Mi piace insegnarlo ed usarlo, spero che lo faccia presto anche tu.
 

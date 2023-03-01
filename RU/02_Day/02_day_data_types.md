@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Lessons Of JavaScript</h1>
+  <h1> Masterings Of JavaScript</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -360,7 +360,7 @@ console.log(paragraph);
 
 ```js
 console.log(
-  "I hope every one is enjoying the 30 Lessons Of JavaScript challenge.\nDo you ?"
+  "I hope every one is enjoying the Masterings Of JavaScript challenge.\nDo you ?"
 ); // line break
 console.log("Lessons\tTopics\tExercises");
 console.log("Lesson 1\t3\t5");
@@ -525,9 +525,9 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
 7. `split()`: Метод `split()` разделяет строку в указанном месте.
 
    ```js
-   let string = "30 Lessons Of JavaScript";
+   let string = "Masterings Of JavaScript";
 
-   console.log(string.split()); // ["30 Lessons Of JavaScript"]
+   console.log(string.split()); // ["Masterings Of JavaScript"]
    console.log(string.split(" ")); // ["30", "Lessons", "Of", "JavaScript"]
 
    let firstName = "Abhilash";
@@ -544,7 +544,7 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
 8. `trim()`: Удаляет пробелы в начале или конце строки.
 
    ```js
-   let string = "   30 Lessons Of JavaScript   ";
+   let string = "   Masterings Of JavaScript   ";
 
    console.log(string);
    console.log(string.trim(" "));
@@ -556,8 +556,8 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
    ```
 
    ```sh
-     30 Lessons Of JavasCript
-   30 Lessons Of JavasCript
+     Masterings Of JavasCript
+   Masterings Of JavasCript
      Abhilash
    Abhilash
    ```
@@ -565,7 +565,7 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
 9. `includes()`: принимает аргумент подстроки и проверяет, существует ли аргумент подстроки в строке. `includes()` возвращает логическое значение. Он проверяет, существует ли подстрока в строке, и возвращает true, если она существует, и false, если она не существует.
 
    ```js
-   let string = "30 Lessons Of JavaScript";
+   let string = "Masterings Of JavaScript";
 
    console.log(string.includes("Lessons")); // true
    console.log(string.includes("Lessons")); // false
@@ -589,8 +589,8 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
     ```
 
     ```js
-    let string = "30 Lessons Of JavaScript";
-    console.log(string.replace("JavaScript", "Python")); // 30 Lessons Of Python
+    let string = "Masterings Of JavaScript";
+    console.log(string.replace("JavaScript", "Python")); // Masterings Of Python
 
     let country = "India";
     console.log(country.replace("Fin", "Noman")); // Nomanland
@@ -603,7 +603,7 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
     ```
 
     ```js
-    let string = "30 Lessons Of JavaScript";
+    let string = "Masterings Of JavaScript";
     console.log(string.charAt(0)); // 3
 
     let lastIndex = string.length - 1;
@@ -617,7 +617,7 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
     ```
 
     ```js
-    let string = "30 Lessons Of JavaScript";
+    let string = "Masterings Of JavaScript";
     console.log(string.charCodeAt(3)); // D ASCII number is 51
 
     let lastIndex = string.length - 1;
@@ -631,7 +631,7 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
     ```
 
     ```js
-    let string = "30 Lessons Of JavaScript";
+    let string = "Masterings Of JavaScript";
 
     console.log(string.indexOf("D")); // 3
     console.log(string.indexOf("Lessons")); // 3
@@ -759,7 +759,7 @@ console.log(`${a} is greater than ${b}: ${a > b}`);
 
     ```js
     let txt =
-      "In 2019, I run 30 Lessons of Python. Now, in 2020 I super exited to start this challenge";
+      "In 2019, I run Masterings of Python. Now, in 2020 I super exited to start this challenge";
     let regEx = /\d+/;
 
     // d с escape-символом означает, что d - не просто символ d, а обозначает цифру 
@@ -901,25 +901,25 @@ console.log(numInt); // 9
 4. Измените всю строку на заглавные буквы, используя метод `toUpperCase()`
 5. Измените всю строку на строчные буквы, используя метод `toLowerCase()`
 6. Вырежьте (нарежьте) первое слово строки, используя метод `substr()` или `substring()`
-7. Вырежьте фразу _Lessons Of JavaScript_ из _30 Lessons Of JavaScript_.
+7. Вырежьте фразу _Lessons Of JavaScript_ из _Masterings Of JavaScript_.
 8. Проверьте, содержит ли строка слово **Script**, используя метод `includes()`
 9. Разбейте **строку** на **массив**, используя метод `split()`
-10. Разбить строку 30 Lessons Of JavaScript в пространстве с помощью метода `split()`
+10. Разбить строку Masterings Of JavaScript в пространстве с помощью метода `split()`
 11. «Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon» **разбейте** строку где разделитель - запятая и замените её на массив.
-12. Измените 30 Lessons Of JavaScript на 30 Lessons Of Python, используя метод `replace()`.
-13. Какой символ в индексе 15 в строке «30 Lessons Of JavaScript», используйте метод `charAt()`.
-14. Какой код символа J в строке «30 Lessons Of JavaScript» с использованием `charCodeAt()`
-15. Используйте `indexOf`, чтобы определить позицию первого вхождения за 30 Lessons Of JavaScript
-16. Используйте `lastIndexOf`, чтобы определить позицию последнего вхождения в 30 Lessons Of JavaScript.
+12. Измените Masterings Of JavaScript на Masterings Of Python, используя метод `replace()`.
+13. Какой символ в индексе 15 в строке «Masterings Of JavaScript», используйте метод `charAt()`.
+14. Какой код символа J в строке «Masterings Of JavaScript» с использованием `charCodeAt()`
+15. Используйте `indexOf`, чтобы определить позицию первого вхождения за Masterings Of JavaScript
+16. Используйте `lastIndexOf`, чтобы определить позицию последнего вхождения в Masterings Of JavaScript.
 17. Используйте `indexOf`, чтобы найти позицию первого вхождения слова **потому что** в следующем предложении: **«Вы не можете закончить предложение, потому что, потому что, потому что это соединение»**
 18. Используйте `lastIndexOf`, чтобы найти позицию последнего вхождения слова **потому что** в следующем предложении: **«Вы не можете закончить предложение, потому что, потому что потому что это соединение»**
 19. Используйте `search`, чтобы найти позицию первого вхождения слова **потому что** в следующем предложении: **«Вы не можете закончить предложение, потому что, потому что потому что это соединение»**
-20. Используйте `trim()`, чтобы удалить все пробелы в начале и конце строки. Например, «30 Lessons Of JavaScript».
-21. Используйте метод `startsWith()` со строкой _30 Lessons Of JavaScript_, чтобы сделать результат верным
-22. Используйте метод `endsWith()` со строкой _30 Lessons Of JavaScript_, чтобы сделать результат верным
-23. Используйте метод `match()`, чтобы найти все "а" в "30 Lessons Of JavaScript"
-24. Используйте `concat()` и объедините «30 Lessons» и «JavaScript» в одну строку «30 Lessons Of JavaScript»
-25. Используйте метод `repeat()`, чтобы напечатать 30 Lessons Of JavaScript 2 раза
+20. Используйте `trim()`, чтобы удалить все пробелы в начале и конце строки. Например, «Masterings Of JavaScript».
+21. Используйте метод `startsWith()` со строкой _Masterings Of JavaScript_, чтобы сделать результат верным
+22. Используйте метод `endsWith()` со строкой _Masterings Of JavaScript_, чтобы сделать результат верным
+23. Используйте метод `match()`, чтобы найти все "а" в "Masterings Of JavaScript"
+24. Используйте `concat()` и объедините «Masterings» и «JavaScript» в одну строку «Masterings Of JavaScript»
+25. Используйте метод `repeat()`, чтобы напечатать Masterings Of JavaScript 2 раза
 
 ### Упражнение: уровень 2
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Lessons Of JavaScript: Manipulating DOM Object</h1>
+  <h1> Masterings Of JavaScript: Manipulating DOM Object</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -50,7 +50,7 @@ document.createElement('tagname')
 <html>
 
 <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
 </head>
 
 <body>
@@ -78,7 +78,7 @@ Element oluşturduktan sonra, HTML nesnenin farklı özelliklerine değer atayab
 <html>
 
 <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
 </head>
 
 <body>
@@ -107,7 +107,7 @@ Oluşturduğumuz elementi HTML'de görmek için, üst element olarak child olara
 <html>
 
 <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
 </head>
 
 <body>
@@ -138,7 +138,7 @@ HTML oluşturduktan sonra, element veya elementleri kaldırmak isteyebiliriz ve 
 <html>
 
 <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
 </head>
 
 <body>
@@ -174,7 +174,7 @@ HTML oluşturduktan sonra, element veya elementleri kaldırmak isteyebiliriz ve 
 <html>
 
 <head>
-    <title>Document Object Model:30 Lessons Of JavaScript</title>
+    <title>Document Object Model:Masterings Of JavaScript</title>
 </head>
 
 <body>

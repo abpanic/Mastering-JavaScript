@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Lessons Of JavaScript: Conditionals</h1>
+  <h1> Mastering JavaScript: Conditionals</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -14,8 +14,6 @@
 </div>
 
 [<< Lesson 3](../03_Lesson_Booleans_operators_date/03_booleans_operators_date.md) | [Lesson 5 >>](../05_Lesson_Arrays/05_Lesson_arrays.md)
-
-![Mastering JavaScript](../images/banners/MasteringJavscript.png)
 
 - [📔 Lesson 4](#-Lesson-4)
 	- [Conditionals](#conditionals)
