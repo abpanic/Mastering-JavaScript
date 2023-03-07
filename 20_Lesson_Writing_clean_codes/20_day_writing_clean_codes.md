@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Masterings Of JavaScript: Writing Clean Codes</h1>
+  <h1> Mastering JavaScript: Writing Clean Codes</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -25,7 +25,7 @@
 			- [Standard JavaScript Style Guide](#standard-javascript-style-guide)
 			- [Google JavaScript Style Guide](#google-javascript-style-guide)
 		- [JavaScript Coding Conventions](#javascript-coding-conventions)
-			- [Conventions use in 30LessonsOfJavaScript](#conventions-use-in-30Lessonsofjavascript)
+			- [Conventions use in Mastering JavaScript](#conventions-use-in-Mastering JavaScript)
 			- [Variables](#variables)
 			- [Arrays](#arrays)
 			- [Functions](#functions)
@@ -84,7 +84,7 @@ Coding conventions includes
 - Rules for the use of white space, indentation, and comments
 - Programming practices and principles
 
-#### Conventions use in 30LessonsOfJavaScript
+#### Conventions use in Mastering JavaScript
 
 In this challenge we follow the regular JavaScript convention but I added also my preference of writing. 
 

@@ -1,7 +1,7 @@
 const AbhilashChallenges2020 = {
   description: 'Abhilash Panicker challenges',
   challengeTitle: 'Abhilash Panicker challenges',
-  challengeSubtitle: '30LessonsOfJavaScript Challenge',
+  challengeSubtitle: 'Mastering JavaScript Challenge',
   challengeYear: 2020,
   keywords: [
     'HTML',
@@ -109,14 +109,14 @@ const AbhilashChallenges2020 = {
       githubUrl: 'https://github.com/Abhilash/30-Lessons-Of-Python'
     },
     {
-      name: 'Masterings Of JavaScript',
+      name: 'Mastering JavaScript',
       topics: ['JavaScript', 'ES6', 'Promise', 'async and await', 'DOM'],
       Lessons: 30,
       status: 'Ongoing',
       questions: 'Above 500',
       projects: 'About 30',
       interviewQns: '',
-      githubUrl: 'https://github.com/Abhilash/30LessonsOfJavaScript'
+      githubUrl: 'https://github.com/Abhilash/Mastering JavaScript'
     },
     {
       name: 'Masterings Of HTML & CSS',

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Masterings Of JavaScript: Arrays</h1>
+  <h1> Mastering JavaScript: Arrays</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -765,8 +765,8 @@ const webTechs = [
     - Find the average age(all items divided by number of items)
     - Find the range of the ages(max minus min)
     - Compare the value of (min - average) and (max - average), use _abs()_ method
-1.Slice the first ten countries from the [countries array](https://github.com/Abhilash/30LessonsOfJavaScript/tree/master/data/countries.js)
-1. Find the middle country(ies) in the [countries array](https://github.com/Abhilash/30LessonsOfJavaScript/tree/master/data/countries.js)
+1.Slice the first ten countries from the [countries array](https://github.com/Abhilash/Mastering JavaScript/tree/master/data/countries.js)
+1. Find the middle country(ies) in the [countries array](https://github.com/Abhilash/Mastering JavaScript/tree/master/data/countries.js)
 2. Divide the countries array into two equal arrays if it is even.  If countries array is not even , one more country for the first half.
   
 🎉 CONGRATULATIONS ! 🎉

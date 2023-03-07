@@ -1,1 +1,1 @@
-console.log('Welcome to 30LessonsOfJavaScript')
+console.log('Welcome to Mastering JavaScript')

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Masterings Of JavaScript: Document Object Model(DOM)</h1>
+  <h1> Mastering JavaScript: Document Object Model(DOM)</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -241,13 +241,13 @@ It value we assign is going to be a string of HTML elements.
   <body>
     <div class="wrapper">
         <h1>Abhilash Panicker challenges in 2020</h1>
-        <h2>30LessonsOfJavaScript Challenge</h2>
+        <h2>Mastering JavaScript Challenge</h2>
         <ul></ul>
     </div>
     <script>
     const lists = `
     <li>30LessonsOfPython Challenge Done</li>
-            <li>30LessonsOfJavaScript Challenge Ongoing</li>
+            <li>Mastering JavaScript Challenge Ongoing</li>
             <li>30LessonsOfReact Challenge Coming</li>
             <li>30LessonsOfFullStack Challenge Coming</li>
             <li>30LessonsOfDataAnalysis Challenge Coming</li>
@@ -271,10 +271,10 @@ The innerHTML property can allow us also to remove all the children of a parent 
   <body>
     <div class="wrapper">
         <h1>Abhilash Panicker challenges in 2020</h1>
-        <h2>30LessonsOfJavaScript Challenge</h2>
+        <h2>Mastering JavaScript Challenge</h2>
         <ul>
             <li>30LessonsOfPython Challenge Done</li>
-            <li>30LessonsOfJavaScript Challenge Ongoing</li>
+            <li>Mastering JavaScript Challenge Ongoing</li>
             <li>30LessonsOfReact Challenge Coming</li>
             <li>30LessonsOfFullStack Challenge Coming</li>
             <li>30LessonsOfDataAnalysis Challenge Coming</li>
@@ -385,10 +385,10 @@ As you have notice, the properties of css when we use it in JavaScript is going 
   <body>
     <div class="wrapper">
         <h1>Abhilash Panicker challenges in 2020</h1>
-        <h2>30LessonsOfJavaScript Challenge</h2>
+        <h2>Mastering JavaScript Challenge</h2>
         <ul>
             <li>30LessonsOfPython Challenge Done</li>
-            <li>30LessonsOfJavaScript Challenge Ongoing</li>
+            <li>Mastering JavaScript Challenge Ongoing</li>
             <li>30LessonsOfReact Challenge Coming</li>
             <li>30LessonsOfFullStack Challenge Coming</li>
             <li>30LessonsOfDataAnalysis Challenge Coming</li>

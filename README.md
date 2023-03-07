@@ -1,4 +1,4 @@
-# Masterings Of JavaScript
+# Mastering Of JavaScript
 
 | # Lesson |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -36,7 +36,7 @@
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
 <div align="center">
-  <h1> Masterings Of JavaScript: Introduction</h1>
+  <h1> Mastering JavaScript: Introduction</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -44,20 +44,6 @@
   <img alt="Github Follow" src="https://img.shields.io/github/followers/abpanic?style=social">
   </a>
 
-<div>
-
-🇬🇧 [English](./readMe.md)
-🇪🇸 [Spanish](./Spanish/readme.md)
-🇮🇹 [Italian](./Italian/readMe.md)
-🇷🇺 [Russian](./RU/README.md)
-🇹🇷 [Turkish](./Turkish/readMe.md)
-🇦🇿 [Azerbaijan](./Azerbaijani/readMe.md)
-🇰🇷 [Korean](./Korea/README.md)
-🇻🇳 [Vietnamese](./Vietnamese/README.md)
-🇵🇱 [Polish](./Polish/readMe.md)
-🇧🇷 [Portuguese](./Portuguese/readMe.md)
-
-</div>
 
 </div>
 </div>
@@ -66,7 +52,7 @@
 
 ![Mastering JavaScript](./images/Lesson_1_1.png)
 
-- [Masterings Of JavaScript](#30-Lessons-of-javascript)
+- [Mastering JavaScript](#30-Lessons-of-javascript)
 - [📔 Lesson 1](#-Lesson-1)
 	- [Introduction](#introduction)
 	- [Requirements](#requirements)
@@ -104,9 +90,9 @@
 
 ## Introduction
 
-**Congratulations** on deciding to participate in Masterings of JavaScript programming challenge. In this challenge you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge you will get a 30LessonsOfJavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the [telegram group](https://t.me/ThirtyLessonsOfJavaScript).
+**Congratulations** on deciding to participate in Mastering JavaScript programming challenge. In this challenge you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge you will get a Mastering JavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the [telegram group](https://t.me/ThirtyLessonsOfJavaScript).
 
-**A 30LessonsOfJavaScript** challenge is a guide for both beginners and advanced JavaScript developers. Welcome to JavaScript. JavaScript is the language of the web. I enjoy using and teaching JavaScript and I hope you will do so too.
+**A Mastering JavaScript** challenge is a guide for both beginners and advanced JavaScript developers. Welcome to JavaScript. JavaScript is the language of the web. I enjoy using and teaching JavaScript and I hope you will do so too.
 
 In this step by step JavaScript challenge, you will learn JavaScript, the most popular programming language in the history of mankind.
 JavaScript is used **_to add interactivity to websites, to develop mobile apps, desktop applications, games_** and nowaLessons JavaScript can be used for **_machine learning_** and **_AI_**.
@@ -279,7 +265,7 @@ console.log(3 ** 2) // Exponentiation 3 ** 2 == 3 * 3
 
 ### Code Editor
 
-We can write our codes on the browser console, but it won't be for bigger projects. In a real working environment, developers use different code editors to write their codes. In this Masterings of JavaScript challenge, we will be using Visual Studio Code.
+We can write our codes on the browser console, but it won't be for bigger projects. In a real working environment, developers use different code editors to write their codes. In this Mastering JavaScript challenge, we will be using Visual Studio Code.
 
 #### Installing Visual Studio Code
 
@@ -329,7 +315,7 @@ Create a project folder on your desktop or in any location, name it 30LessonsOfJ
     <title>30LessonsOfScript:Inline Script</title>
   </head>
   <body>
-    <button onclick="alert('Welcome to 30LessonsOfJavaScript!')">Click Me</button>
+    <button onclick="alert('Welcome to Mastering JavaScript!')">Click Me</button>
   </body>
 </html>
 ```
@@ -347,7 +333,7 @@ First, let us write on the head part of the page.
   <head>
     <title>30LessonsOfScript:Internal Script</title>
     <script>
-      console.log('Welcome to 30LessonsOfJavaScript')
+      console.log('Welcome to Mastering JavaScript')
     </script>
   </head>
   <body></body>
@@ -363,9 +349,9 @@ This is how we write an internal script most of the time. Writing the JavaScript
     <title>30LessonsOfScript:Internal Script</title>
   </head>
   <body>
-    <button onclick="alert('Welcome to 30LessonsOfJavaScript!');">Click Me</button>
+    <button onclick="alert('Welcome to Mastering JavaScript!');">Click Me</button>
     <script>
-      console.log('Welcome to 30LessonsOfJavaScript')
+      console.log('Welcome to Mastering JavaScript')
     </script>
   </body>
 </html>
@@ -381,7 +367,7 @@ Similar to the internal script, the external script link can be on the header or
 First, we should create an external JavaScript file with .js extension. All files ending with .js extension are JavaScript files. Create a file named introduction.js inside your project directory and write the following code and link this .js file at the bottom of the body.
 
 ```js
-console.log('Welcome to 30LessonsOfJavaScript')
+console.log('Welcome to Mastering JavaScript')
 ```
 
 External scripts in the _head_:
@@ -390,7 +376,7 @@ External scripts in the _head_:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>30LessonsOfJavaScript:External script</title>
+    <title>Mastering JavaScript:External script</title>
     <script src="introduction.js"></script>
   </head>
   <body></body>
@@ -403,7 +389,7 @@ External scripts in the _body_:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>30LessonsOfJavaScript:External script</title>
+    <title>Mastering JavaScript:External script</title>
   </head>
   <body>
     <!-- JavaScript external link could be in the header or in the body --> 
@@ -646,7 +632,7 @@ When you run _index.html_ file in the 01-Lesson folder you should get this:
 # 💻 Lesson 1: Exercises
 
 1. Write a single line comment which says, _comments can make code readable_
-2. Write another single comment which says, _Welcome to 30LessonsOfJavaScript_
+2. Write another single comment which says, _Welcome to Mastering JavaScript_
 3. Write a multiline comment which says, _comments can make code readable, easy to reuse_
    _and informative_
 

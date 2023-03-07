@@ -346,7 +346,7 @@ alert(message)
 ```
 
 ```js
-alert('Welcome to 30LessonsOfJavaScript')
+alert('Welcome to Mastering JavaScript')
 ```
 
 Do not use too much alert because it is destructing and annoying, use it just to test.

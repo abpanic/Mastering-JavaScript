@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Masterings Of JavaScript: Final Projects</h1>
+  <h1> Mastering JavaScript: Final Projects</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -59,7 +59,7 @@
 
 ## Testimony
 
-Now it is time support the author and  express your thoughts about the Author and 30LessonsOfJavaScript. You can leave your testimonial on this [link](https://testimonify.herokuapp.com/)
+Now it is time support the author and  express your thoughts about the Author and Mastering JavaScript. You can leave your testimonial on this [link](https://testimonify.herokuapp.com/)
 
 ## Support
 

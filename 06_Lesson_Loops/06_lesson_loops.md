@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Masterings Of JavaScript: Loops</h1>
+  <h1> Mastering JavaScript: Loops</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abhilash-panicker-68952b159/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -472,12 +472,12 @@ for(let i = 0; i <= 5; i++){
 1. Copy countries array(Avoid mutation)
 1. Arrays are mutable. Create a copy of array which does not modify the original. Sort the copied array and store in a variable sortedCountries
 1. Sort the webTechs array and mernStack array
-1. Extract all the countries contain the word 'land' from the [countries array](https://github.com/Abhilash/30LessonsOfJavaScript/tree/master/data/countries.js) and print it as array
-1. Find the country containing the hightest number of characters in the [countries array](https://github.com/Abhilash/30LessonsOfJavaScript/tree/master/data/countries.js)
-1. Extract all the countries contain the word 'land' from the [countries array](https://github.com/Abhilash/30LessonsOfJavaScript/tree/master/data/countries.js) and print it as array
-1. Extract all the countries containing only four characters from the [countries array](https://github.com/Abhilash/30LessonsOfJavaScript/tree/master/data/countries.js) and print it as array
-1. Extract all the countries containing two or more words from the [countries array](https://github.com/Abhilash/30LessonsOfJavaScript/tree/master/data/countries.js) and print it as array
-1. Reverse the [countries array](https://github.com/Abhilash/30LessonsOfJavaScript/tree/master/data/countries.js) and capitalize each country and stored it as an array
+1. Extract all the countries contain the word 'land' from the [countries array](https://github.com/Abhilash/Mastering JavaScript/tree/master/data/countries.js) and print it as array
+1. Find the country containing the hightest number of characters in the [countries array](https://github.com/Abhilash/Mastering JavaScript/tree/master/data/countries.js)
+1. Extract all the countries contain the word 'land' from the [countries array](https://github.com/Abhilash/Mastering JavaScript/tree/master/data/countries.js) and print it as array
+1. Extract all the countries containing only four characters from the [countries array](https://github.com/Abhilash/Mastering JavaScript/tree/master/data/countries.js) and print it as array
+1. Extract all the countries containing two or more words from the [countries array](https://github.com/Abhilash/Mastering JavaScript/tree/master/data/countries.js) and print it as array
+1. Reverse the [countries array](https://github.com/Abhilash/Mastering JavaScript/tree/master/data/countries.js) and capitalize each country and stored it as an array
 
 🎉 CONGRATULATIONS ! 🎉
 
