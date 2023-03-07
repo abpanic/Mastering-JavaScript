@@ -50,8 +50,6 @@
 
 [Lesson 2 >>](./02_Lesson_Data_types/02_Lesson_data_types.md)
 
-![Mastering JavaScript](./images/Lesson_1_1.png)
-
 - [Mastering JavaScript](#30-Lessons-of-javascript)
 - [📔 Lesson 1](#-Lesson-1)
 	- [Introduction](#introduction)
@@ -90,7 +88,7 @@
 
 ## Introduction
 
-**Congratulations** on deciding to participate in Mastering JavaScript programming challenge. In this challenge you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge you will get a Mastering JavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the [telegram group](https://t.me/ThirtyLessonsOfJavaScript).
+**Congratulations** on deciding to participate in Mastering JavaScript programming challenge. In this challenge you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge you will get a Mastering JavaScript programming challenge completion certificate. 
 
 **A Mastering JavaScript** challenge is a guide for both beginners and advanced JavaScript developers. Welcome to JavaScript. JavaScript is the language of the web. I enjoy using and teaching JavaScript and I hope you will do so too.
 
