@@ -193,7 +193,7 @@ The **`console.log()`** function can take multiple parameters separated by comma
 ```js
 console.log('Hello', 'World', '!')
 console.log('HAPPY', 'NEW', 'YEAR', 2020)
-console.log('Welcome', 'to', 30, 'Lessons', 'Of', 'JavaScript')
+console.log('Welcome', 'to', 'Mastering', 'JavaScript', 'in', 30,'days' )
 ```
 
 As you can see from the snippet code above, _`console.log()`_ can take multiple arguments.
@@ -310,7 +310,7 @@ Create a project folder on your desktop or in any location, name it 30LessonsOfJ
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>30LessonsOfScript:Inline Script</title>
+    <title>Mastering JavaScript:Inline Script</title>
   </head>
   <body>
     <button onclick="alert('Welcome to Mastering JavaScript!')">Click Me</button>
@@ -329,7 +329,7 @@ First, let us write on the head part of the page.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>30LessonsOfScript:Internal Script</title>
+    <title>Mastering JavaScript:Internal Script</title>
     <script>
       console.log('Welcome to Mastering JavaScript')
     </script>
@@ -344,7 +344,7 @@ This is how we write an internal script most of the time. Writing the JavaScript
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>30LessonsOfScript:Internal Script</title>
+    <title>Mastering JavaScript:Internal Script</title>
   </head>
   <body>
     <button onclick="alert('Welcome to Mastering JavaScript!');">Click Me</button>
