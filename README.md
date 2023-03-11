@@ -625,7 +625,7 @@ When you run _index.html_ file in the 01-Lesson folder you should get this:
 
 ![Lesson one](./images/Lesson_1.png)
 
-🌕 You are amazing! You have just completed Lesson 1 challenge and you are on your way to greatness. Now do some exercises for your brain and muscle.
+🌕  You are amazing! You have just completed Lesson 1 challenge and you are on your way to greatness. Now do some exercises for your brain and muscle.
 
 # 💻 Lesson 1: Exercises
 
